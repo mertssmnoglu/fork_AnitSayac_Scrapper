@@ -1,5 +1,59 @@
 [
   {
+    "id": 38940,
+    "name": "Hatice Tosun",
+    "fullname": "Hatice Tosun",
+    "age": "Reşit",
+    "location": "İzmir",
+    "date": "24/10/2024",
+    "reason": "Kıskançlık",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.milliyet.com.tr/gundem/izmirde-kiskanclik-cinayeti-karisini-ve-uvey-kayincosunu-oldurdu-7217060"
+    ],
+    "image": "https://anitsayac.com/ii/3242024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=38940"
+  },
+  {
+    "id": 38941,
+    "name": "Canan Cerit",
+    "fullname": "Canan Cerit",
+    "age": "Reşit",
+    "location": "Yalova",
+    "date": "24/10/2024",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tanıdığı Birileri",
+    "protection": "Yok",
+    "method": "Boğularak",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.milliyet.com.tr/gundem/live-ankara-tusasta-teror-saldirisi-5-sehit-22-yarali-7216557"
+    ],
+    "image": "https://anitsayac.com/ii/3252024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=38941"
+  },
+  {
+    "id": 38942,
+    "name": "Fatma Biricik",
+    "fullname": "Fatma Biricik",
+    "age": "Reşit",
+    "location": "Mersin",
+    "date": "24/10/2024",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.t24.com.tr/haber/mersin-de-kadin-cinayeti-onleyici-tedbir-kararinin-dolmasindan-bir-gun-sonra-tartistigi-esini-tufekle-oldurdu,1191839"
+    ],
+    "image": "https://anitsayac.com/ii/3262024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=38942"
+  },
+  {
     "id": 38936,
     "name": "Şenay Gerçek",
     "fullname": "Şenay Gerçek",
