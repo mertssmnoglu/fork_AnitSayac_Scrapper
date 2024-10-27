@@ -1,8 +1,26 @@
 [
   {
+    "id": 38943,
+    "name": "Ebru Küçüktaşdemir",
+    "fullname": "Ebru Küçüktaşdemir",
+    "age": "Reşit",
+    "location": "Konya",
+    "date": "25/10/2024",
+    "reason": "Tespit Edilemeyen",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.t24.com.tr/haber/konya-da-kadin-cinayeti-ogretmen-koca-ogretmen-esini-bicakla-oldurdu,1192254"
+    ],
+    "image": "https://anitsayac.com/ii/3272024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=38943"
+  },
+  {
     "id": 38940,
-    "name": "Hatice Tosun",
-    "fullname": "Hatice Tosun",
+    "name": "Hasibe Tosun",
+    "fullname": "Hasibe Tosun",
     "age": "Reşit",
     "location": "İzmir",
     "date": "24/10/2024",
@@ -12,7 +30,8 @@
     "method": "Ateşli Silah",
     "status": "Tutuklu",
     "source": [
-      "https://www.milliyet.com.tr/gundem/izmirde-kiskanclik-cinayeti-karisini-ve-uvey-kayincosunu-oldurdu-7217060"
+      "https://www.milliyet.com.tr/gundem/izmirde-kiskanclik-cinayeti-karisini-ve-uvey-kayincosunu-oldurdu-7217060",
+      "https://www.t24.com.tr/haber/esi-ile-agabeyini-olduren-supheli-tutuklandi,1192116"
     ],
     "image": "https://anitsayac.com/ii/3242024.jpg",
     "url": "https://anitsayac.com/details.aspx?id=38940"
@@ -64,9 +83,10 @@
     "by": "Eski Diki Nikahlı Eşinin Babası",
     "protection": "Yok",
     "method": "Ateşli Silah",
-    "status": "Aranıyor",
+    "status": "Tutuklu",
     "source": [
-      "https://www.sozcu.com.tr/mezarlikta-anne-ve-kizlarini-katletmisti-oglunun-intiharindan-sorumlu-tutmus-p96816"
+      "https://www.sozcu.com.tr/mezarlikta-anne-ve-kizlarini-katletmisti-oglunun-intiharindan-sorumlu-tutmus-p96816",
+      "https://www.milliyet.com.tr/gundem/mezarlikta-katliam-3-kadini-oldurdu-ormanda-yakalandi-ifadesi-ortaya-cikti-7218581"
     ],
     "image": "https://anitsayac.com/ii/3212024.jpg",
     "url": "https://anitsayac.com/details.aspx?id=38936"
@@ -82,9 +102,10 @@
     "by": "Eski Dini Nikahlı Annesinin Eşi",
     "protection": "Yok",
     "method": "Ateşli Silah",
-    "status": "Aranıyor",
+    "status": "Tutuklu",
     "source": [
-      "https://www.sozcu.com.tr/mezarlikta-anne-ve-kizlarini-katletmisti-oglunun-intiharindan-sorumlu-tutmus-p96816"
+      "https://www.sozcu.com.tr/mezarlikta-anne-ve-kizlarini-katletmisti-oglunun-intiharindan-sorumlu-tutmus-p96816",
+      "https://www.milliyet.com.tr/gundem/mezarlikta-katliam-3-kadini-oldurdu-ormanda-yakalandi-ifadesi-ortaya-cikti-7218581"
     ],
     "image": "https://anitsayac.com/ii/3222024.jpg",
     "url": "https://anitsayac.com/details.aspx?id=38937"
@@ -100,9 +121,10 @@
     "by": "Eski Dini Nikahlı Annesinin Eşi",
     "protection": "Yok",
     "method": "Ateşli Silah",
-    "status": "Aranıyor",
+    "status": "Tutuklu",
     "source": [
-      "https://www.sozcu.com.tr/mezarlikta-anne-ve-kizlarini-katletmisti-oglunun-intiharindan-sorumlu-tutmus-p96816"
+      "https://www.sozcu.com.tr/mezarlikta-anne-ve-kizlarini-katletmisti-oglunun-intiharindan-sorumlu-tutmus-p96816",
+      "https://www.milliyet.com.tr/gundem/mezarlikta-katliam-3-kadini-oldurdu-ormanda-yakalandi-ifadesi-ortaya-cikti-7218581"
     ],
     "image": "https://anitsayac.com/ii/3232024.jpg",
     "url": "https://anitsayac.com/details.aspx?id=38938"
@@ -126,22 +148,22 @@
     "url": "https://anitsayac.com/details.aspx?id=38939"
   },
   {
-    "id": 38931,
-    "name": "Burçin Sevgi T.",
-    "fullname": "Burçin Sevgi T.",
+    "id": 38944,
+    "name": "Semanur Arslan",
+    "fullname": "Semanur Arslan",
     "age": "Reşit",
-    "location": "Kastamonu",
-    "date": "16/10/2024",
-    "reason": "Tartışma",
-    "by": "Kocası",
+    "location": "Ankara",
+    "date": "20/10/2024",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
     "protection": "Yok",
-    "method": "Ateşli Silah",
-    "status": "Tutuklu",
+    "method": "Yüksekten Düşme",
+    "status": "Tespit Edilemeyen",
     "source": [
-      "https://www.hurriyet.com.tr/gundem/polis-memuru-esini-oldurdu-42563201"
+      "https://www.t24.com.tr/haber/gokdelenin-43-uncu-katindan-dusup-olen-semanur-icin-cinayet-iddiasi,1192246"
     ],
-    "image": "https://anitsayac.com/ii/3172024.jpg",
-    "url": "https://anitsayac.com/details.aspx?id=38931"
+    "image": "https://anitsayac.com/ii/3282024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=38944"
   },
   {
     "id": 38933,
@@ -160,6 +182,24 @@
     ],
     "image": "https://anitsayac.com/ii/3192024.jpg",
     "url": "https://anitsayac.com/details.aspx?id=38933"
+  },
+  {
+    "id": 38931,
+    "name": "Burçin Sevgi T.",
+    "fullname": "Burçin Sevgi T.",
+    "age": "Reşit",
+    "location": "Kastamonu",
+    "date": "16/10/2024",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/polis-memuru-esini-oldurdu-42563201"
+    ],
+    "image": "https://anitsayac.com/ii/3172024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=38931"
   },
   {
     "id": 38932,
