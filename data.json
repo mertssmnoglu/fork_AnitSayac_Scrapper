@@ -1,5 +1,77 @@
 [
   {
+    "id": 38946,
+    "name": "Damla Nur Kavraz",
+    "fullname": "Damla Nur Kavraz",
+    "age": "Reşit Değil ",
+    "location": "Giresun",
+    "date": "29/10/2024",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Tespit Edilemeyen",
+    "source": [
+      "https://www.sozcu.com.tr/liseli-damla-nur-kayalikta-olu-bulundu-p98623"
+    ],
+    "image": "https://anitsayac.com/ii/3292024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=38946"
+  },
+  {
+    "id": 38947,
+    "name": "Mine Özcan",
+    "fullname": "Mine Özcan",
+    "age": "Reşit",
+    "location": "Nevşehir",
+    "date": "28/10/2024",
+    "reason": "Reddedilme",
+    "by": "Eski Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.sozcu.com.tr/eski-es-dehseti-kadini-arabada-feci-sekilde-katletti-p98584"
+    ],
+    "image": "https://anitsayac.com/ii/3302024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=38947"
+  },
+  {
+    "id": 38949,
+    "name": "Sevgi Gezer",
+    "fullname": "Sevgi Gezer",
+    "age": "Reşit",
+    "location": "Hatay",
+    "date": "28/10/2024",
+    "reason": "Boşanma Talebi",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.sozcu.com.tr/hatay-da-kadin-cinayeti-p98553"
+    ],
+    "image": "https://anitsayac.com/ii/3322024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=38949"
+  },
+  {
+    "id": 38950,
+    "name": "Yasemin Uludağ Çetin",
+    "fullname": "Yasemin Uludağ Çetin",
+    "age": "Reşit",
+    "location": "Bursa",
+    "date": "28/10/2024",
+    "reason": "Boşanma Talebi",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/esinin-katlettigi-doktor-yasemin-uludaga-aci-veda-42573753"
+    ],
+    "image": "https://anitsayac.com/ii/3332024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=38950"
+  },
+  {
     "id": 38945,
     "name": "A.C.",
     "fullname": "A.C.",
@@ -89,6 +161,24 @@
     ],
     "image": "https://anitsayac.com/ii/3262024.jpg",
     "url": "https://anitsayac.com/details.aspx?id=38942"
+  },
+  {
+    "id": 38948,
+    "name": "E.D.",
+    "fullname": "E.D.",
+    "age": "Reşit",
+    "location": "Diyarbakır",
+    "date": "22/10/2024",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tespit Edilemeyen",
+    "source": [
+      "https://www.sozcu.com.tr/sokak-ortasinda-kadin-cinayeti-saldirgan-firar-etti-p96876"
+    ],
+    "image": "https://anitsayac.com/ii/3312024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=38948"
   },
   {
     "id": 38936,
