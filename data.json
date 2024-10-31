@@ -1,5 +1,41 @@
 [
   {
+    "id": 38951,
+    "name": "Tuba Adım",
+    "fullname": "Tuba Adım",
+    "age": "Reşit",
+    "location": "Batman",
+    "date": "30/10/2024",
+    "reason": "Tespit Edilemeyen",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/batmanda-korkunc-olay-esini-ve-oglunu-oldurup-hayatina-son-verdi-42575619"
+    ],
+    "image": "https://anitsayac.com/ii/3342024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=38951"
+  },
+  {
+    "id": 38952,
+    "name": "Duygu Şahin",
+    "fullname": "Duygu Şahin",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "30/10/2024",
+    "reason": "Tartışma",
+    "by": "Kuzeni",
+    "protection": "Yok",
+    "method": "Kesici Alet, Darp",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/hesabinda-23-milyon-lirayi-gorunce-soke-oldu-kaynagi-belli-olmayan-yerden-gelen-paraya-dikkat-ne-gibi-sonuclar-dogurabilir-harcanirsa-ne-42574248"
+    ],
+    "image": "https://anitsayac.com/ii/3352024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=38952"
+  },
+  {
     "id": 38946,
     "name": "Damla Nur Kavraz",
     "fullname": "Damla Nur Kavraz",
