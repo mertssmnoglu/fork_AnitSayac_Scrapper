@@ -1,5 +1,41 @@
 [
   {
+    "id": 38958,
+    "name": "Fahriye Asena Eskikanbur",
+    "fullname": "Fahriye Asena Eskikanbur",
+    "age": "Reşit",
+    "location": "Adana",
+    "date": "03/11/2024",
+    "reason": "Reddedilme",
+    "by": "Eski Sevgilisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihara Teşebbüs",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/adanada-korkunc-olay-eski-sevgilisi-fahriye-asenayi-katletti-42579497"
+    ],
+    "image": "https://anitsayac.com/ii/3412024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=38958"
+  },
+  {
+    "id": 38959,
+    "name": "Bahriye Kalaycı",
+    "fullname": "Bahriye Kalaycı",
+    "age": "Reşit",
+    "location": "Konya",
+    "date": "02/11/2024",
+    "reason": "Tartışma",
+    "by": "Eski Kocası",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "İntihara Teşebbüs",
+    "source": [
+      "https://www.sozcu.com.tr/3-yasinda-bir-cocugu-vardi-bahriye-bos-arazide-feci-sekilde-katledildi-p100936"
+    ],
+    "image": "https://anitsayac.com/ii/3422024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=38959"
+  },
+  {
     "id": 38957,
     "name": "Şirin Elmas Hanilçi",
     "fullname": "Şirin Elmas Hanilçi",
@@ -9,7 +45,7 @@
     "reason": "Tespit Edilemeyen",
     "by": "Tanımadığı Birisi",
     "protection": "Yok",
-    "method": "Boğularak",
+    "method": "Boğularak, Cinsel İstismar",
     "status": "Tutuklu",
     "source": [
       "https://www.hurriyet.com.tr/gundem/ailesi-televizyon-programinda-yardim-istemisti-2-gundur-kayip-olan-sirin-elmastan-aci-haber-42578375"
@@ -398,6 +434,24 @@
     ],
     "image": "https://anitsayac.com/ii/3282024.jpg",
     "url": "https://anitsayac.com/details.aspx?id=38944"
+  },
+  {
+    "id": 38960,
+    "name": "Emine D.",
+    "fullname": "Emine D.",
+    "age": "Reşit",
+    "location": "Şanlıurfa",
+    "date": "19/10/2024",
+    "reason": "Tespit Edilemeyen",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.sozcu.com.tr/sanliurfa-da-kadin-cinayeti-kocasi-gozaltina-alindi-p95974"
+    ],
+    "image": "https://anitsayac.com/ii/3432024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=38960"
   },
   {
     "id": 38933,
