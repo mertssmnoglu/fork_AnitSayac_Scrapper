@@ -36,9 +36,13 @@ jobs:
     - name: Run
       run: go run .
 
+    - name: Set date variable
+      id: date_step
+      run: echo "CURRENT_DATE=$(date '+%d-%m-%Y %H:%M')" >> $GITHUB_ENV  
+
     - name: Deploy
       uses: stefanzweifel/git-auto-commit-action@v5
       with:
         commit_author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
-        commit_message: "upd:  data updated"
+        commit_message: ${{github.env.CURRENT_DATE}} - Automated Commit
         file_pattern: "*.json *.csv"
