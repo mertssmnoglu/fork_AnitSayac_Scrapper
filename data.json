@@ -1,5 +1,23 @@
 [
   {
+    "id": 38970,
+    "name": "Sudenaz U.",
+    "fullname": "Sudenaz U.",
+    "age": "Reşit",
+    "location": "Diyarbakır",
+    "date": "08/11/2024",
+    "reason": "Nefret Suçu",
+    "by": "Tanımadığı Birileri",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://sendika.org/2024/09/diyarbakirda-oldurulen-trans-kadin-sudenaz-meclis-gundeminde-711268"
+    ],
+    "image": "https://anitsayac.com/ii/3532024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=38970"
+  },
+  {
     "id": 38958,
     "name": "Fahriye Asena Eskikanbur",
     "fullname": "Fahriye Asena Eskikanbur",
@@ -16,6 +34,24 @@
     ],
     "image": "https://anitsayac.com/ii/3412024.jpg",
     "url": "https://anitsayac.com/details.aspx?id=38958"
+  },
+  {
+    "id": 38961,
+    "name": "Elif Gözen",
+    "fullname": "Elif Gözen",
+    "age": "Reşit",
+    "location": "Hatay",
+    "date": "03/11/2024",
+    "reason": "Tespit Edilemeyen",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Tutuklu",
+    "source": [
+      "https://8gunhaber.com/haber/66052/elif-hemsire-esi"
+    ],
+    "image": "https://anitsayac.com/ii/3442024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=38961"
   },
   {
     "id": 38959,
@@ -39,7 +75,7 @@
     "id": 38957,
     "name": "Şirin Elmas Hanilçi",
     "fullname": "Şirin Elmas Hanilçi",
-    "age": "Reşit",
+    "age": "Reşit Değil",
     "location": "İstanbul",
     "date": "02/11/2024",
     "reason": "Tespit Edilemeyen",
@@ -454,6 +490,24 @@
     "url": "https://anitsayac.com/details.aspx?id=38960"
   },
   {
+    "id": 38962,
+    "name": "Melek Karabudak",
+    "fullname": "Melek Karabudak",
+    "age": "Reşit",
+    "location": "Hatay",
+    "date": "19/10/2024",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.cumhuriyet.com.tr/turkiye/5-ay-once-evlendigi-meleki-olduren-ahmet-karabudak-tutuklandi-2259514"
+    ],
+    "image": "https://anitsayac.com/ii/3452024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=38962"
+  },
+  {
     "id": 38933,
     "name": "Rojin Kabaiş",
     "fullname": "Rojin Kabaiş",
@@ -524,6 +578,24 @@
     ],
     "image": "https://anitsayac.com/ii/3152024.jpg",
     "url": "https://anitsayac.com/details.aspx?id=38929"
+  },
+  {
+    "id": 38963,
+    "name": "Manal Kıyılı",
+    "fullname": "Manal Kıyılı",
+    "age": "Reşit",
+    "location": "Hatay",
+    "date": "15/10/2024",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.cumhuriyet.com.tr/turkiye/hatayda-kadin-cinayeti-kendisini-borclandirdigi-iddiasiyla-esini-2258140"
+    ],
+    "image": "https://anitsayac.com/ii/3462024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=38963"
   },
   {
     "id": 38920,
@@ -1054,6 +1126,24 @@
     "url": "https://anitsayac.com/details.aspx?id=37890"
   },
   {
+    "id": 38965,
+    "name": "Nuran Karayiğit",
+    "fullname": "Nuran Karayiğit",
+    "age": "Reşit",
+    "location": "Malatya",
+    "date": "24/09/2024",
+    "reason": "Boşanma Talebi, Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.ntv.com.tr/turkiye/bosanma-asamasindaki-esini-oldurdu,fLnAIKjPdUejJUFQmenuCQ"
+    ],
+    "image": "https://anitsayac.com/ii/3482024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=38965"
+  },
+  {
     "id": 37892,
     "name": "Ebru Öcal",
     "fullname": "Ebru Öcal",
@@ -1252,6 +1342,24 @@
     "url": "https://anitsayac.com/details.aspx?id=37884"
   },
   {
+    "id": 38968,
+    "name": "Hatice Rençber",
+    "fullname": "Hatice Rençber",
+    "age": "Reşit ",
+    "location": "Gaziantep",
+    "date": "11/09/2024",
+    "reason": "Tartışma",
+    "by": "Babası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.haberturk.com/gaziantep-haberleri/109561774-tartistigi-kizini-tabancayla-oldurdu"
+    ],
+    "image": "https://anitsayac.com/ii/3512024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=38968"
+  },
+  {
     "id": 37880,
     "name": "Maıa A.",
     "fullname": "Maıa A.",
@@ -1378,6 +1486,24 @@
     "url": "https://anitsayac.com/details.aspx?id=37876"
   },
   {
+    "id": 38966,
+    "name": "Dursine Canbazoğlu",
+    "fullname": "Dursine Canbazoğlu",
+    "age": "Reşit",
+    "location": "Kocaeli",
+    "date": "06/09/2024",
+    "reason": "Tespit Edilemeyen",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.milliyet.com.tr/gundem/kanser-hastasi-esini-oldurup-intihar-etti-3-kez-seslendigini-duydum-7185608"
+    ],
+    "image": "https://anitsayac.com/ii/3492024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=38966"
+  },
+  {
     "id": 37875,
     "name": "Gülizar Çolak",
     "fullname": "Gülizar Çolak",
@@ -1412,6 +1538,60 @@
     ],
     "image": "https://anitsayac.com/ii/2642024.jpg",
     "url": "https://anitsayac.com/details.aspx?id=37874"
+  },
+  {
+    "id": 38969,
+    "name": "Nebahat Yükçü",
+    "fullname": "Nebahat Yükçü",
+    "age": "Reşit",
+    "location": "Aydın",
+    "date": "03/09/2024",
+    "reason": "Tespit Edilemeyen",
+    "by": "Eski Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Aranıyor",
+    "source": [
+      "https://artigercek.com/kadin/aydinda-kadin-cinayeti-nebahat-yukcu-adli-kadin-bosandigi-erkek-tarafindan-316444h"
+    ],
+    "image": "https://anitsayac.com/ii/3522024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=38969"
+  },
+  {
+    "id": 38967,
+    "name": "Naciye Y.",
+    "fullname": "Naciye Y.",
+    "age": "Reşit",
+    "location": "Samsun",
+    "date": "02/09/2024",
+    "reason": "Tespit Edilemeyen",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Kesicİ Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.haberturk.com/alzheimer-hastasindan-keserli-cinayet-yasli-karisini-oldurdu-guncel-haberler-3716554"
+    ],
+    "image": "https://anitsayac.com/ii/3502024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=38967"
+  },
+  {
+    "id": 38964,
+    "name": "Meve Daşcan",
+    "fullname": "Meve Daşcan",
+    "age": "Reşit",
+    "location": "Adıyaman",
+    "date": "01/09/2024",
+    "reason": "Tespit Edilemeyen",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.evrensel.net/haber/527012/adiyamanda-kadin-cinayeti"
+    ],
+    "image": "https://anitsayac.com/ii/3472024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=38964"
   },
   {
     "id": 37873,
@@ -5761,8 +5941,8 @@
   },
   {
     "id": 35604,
-    "name": "Safinaz A.",
-    "fullname": "Safinaz A.",
+    "name": "Safinaz Ayten",
+    "fullname": "Safinaz Ayten",
     "age": "Reşit",
     "location": "Eskişehir",
     "date": "24/01/2024",
