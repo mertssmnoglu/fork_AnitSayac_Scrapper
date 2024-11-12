@@ -1,5 +1,41 @@
 [
   {
+    "id": 39000,
+    "name": "Nilay Ç.",
+    "fullname": "Nilay Ç.",
+    "age": "Reşit Değil",
+    "location": "Tekirdağ",
+    "date": "11/11/2024",
+    "reason": "Tespit Edilemeyen",
+    "by": "Oğlu",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/tekirdagda-okul-muduru-annesini-katletti-babasini-amcasini-dedesini-ve-yengesini-de-yaraladi-42588320"
+    ],
+    "image": "https://anitsayac.com/ii/3822024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=39000"
+  },
+  {
+    "id": 39001,
+    "name": "Reyhan Sağ",
+    "fullname": "Reyhan Sağ",
+    "age": "Reşit",
+    "location": "Şanlıurfa",
+    "date": "11/11/2024",
+    "reason": "Maganda Kurşunu",
+    "by": "Tanımadığı Birisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.milliyet.com.tr/gundem/19-yasindaki-genc-kizin-feci-olumu-5-kisinin-gozaltina-alindi-7231189"
+    ],
+    "image": "https://anitsayac.com/ii/3832023.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=39001"
+  },
+  {
     "id": 38999,
     "name": "Esma Söğütçü",
     "fullname": "Esma Söğütçü",
@@ -304,6 +340,24 @@
     ],
     "image": "https://anitsayac.com/ii/3332024.jpg",
     "url": "https://anitsayac.com/details.aspx?id=38950"
+  },
+  {
+    "id": 39002,
+    "name": "Evin Demirtaş",
+    "fullname": "Evin Demirtaş",
+    "age": "Reşit",
+    "location": "Diyarbakır",
+    "date": "28/10/2024",
+    "reason": "Reddedilme",
+    "by": "Eski Dini Nikahlı Eşi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.ntv.com.tr/galeri/turkiye/diyarbakirdakadin-cinayeti-son-kurban-evin-barismadi-diye-katledildi,mPvFoa2XI06I8wl0JxHCqw/4sdbfs7SmkSMLo7dbZ7-Jg"
+    ],
+    "image": "https://anitsayac.com/ii/3842024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=39002"
   },
   {
     "id": 38945,
@@ -650,6 +704,24 @@
     ],
     "image": "https://anitsayac.com/ii/3152024.jpg",
     "url": "https://anitsayac.com/details.aspx?id=38929"
+  },
+  {
+    "id": 39003,
+    "name": "Kübra Güler",
+    "fullname": "Kübra Güler",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "15/10/2024",
+    "reason": "Tartışma",
+    "by": "Eski Kayınpederi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.haberturk.com/istanbul-da-cocugunu-gormeye-gelen-anne-kursunlara-hedef-oldu-3726053"
+    ],
+    "image": "https://anitsayac.com/ii/3852024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=39003"
   },
   {
     "id": 38963,
