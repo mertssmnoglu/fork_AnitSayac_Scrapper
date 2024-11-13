@@ -1,5 +1,23 @@
 [
   {
+    "id": 39006,
+    "name": "Elif Bal",
+    "fullname": "Elif Bal",
+    "age": "Reşit",
+    "location": "Gaziantep",
+    "date": "12/11/2024",
+    "reason": "Boşanma Talebi, Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/gaziantepte-korkunc-olay-esini-sokak-ortasinda-katletti-42589346"
+    ],
+    "image": "https://anitsayac.com/ii/3882024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=39006"
+  },
+  {
     "id": 39000,
     "name": "Nilay Ç.",
     "fullname": "Nilay Ç.",
@@ -414,6 +432,24 @@
     "url": "https://anitsayac.com/details.aspx?id=38990"
   },
   {
+    "id": 39005,
+    "name": "Hatice Tosun",
+    "fullname": "Hatice Tosun",
+    "age": "Reşit",
+    "location": "izmir",
+    "date": "24/10/2024",
+    "reason": "Kıskançlık",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.netgaste.com/haber/22168320/izmirde-dehset-kiskanclik-krizi-3-cocuk-annesi-kadin-ve-uvey-kardesinin-canina-mal-oldu"
+    ],
+    "image": "https://anitsayac.com/ii/3872024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=39005"
+  },
+  {
     "id": 38940,
     "name": "Hasibe Tosun",
     "fullname": "Hasibe Tosun",
@@ -544,22 +580,22 @@
     "url": "https://anitsayac.com/details.aspx?id=38938"
   },
   {
-    "id": 38939,
-    "name": "Aysel Koçak",
-    "fullname": "Aysel Koçak",
+    "id": 39004,
+    "name": "Şaizer Gebeşoğlu",
+    "fullname": "Şaizer Gebeşoğlu",
     "age": "Reşit",
-    "location": "Mardin",
-    "date": "20/10/2024",
+    "location": "Kastamonu",
+    "date": "21/10/2024",
     "reason": "Tespit Edilemeyen",
-    "by": "Tespit Edilemeyen",
+    "by": "Oğlu",
     "protection": "Yok",
-    "method": "Yüksekten Düşme",
-    "status": "Tespit Edilemeyen",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
     "source": [
-      "https://www.sozcu.com.tr/mardin-de-supheli-olum-15-yasindaki-aysel-kocak-evin-damindan-duserek-oldu-p96097"
+      "https://www.ntv.com.tr/turkiye/annesini-oldurup-ayni-silahla-hayatina-son-verdi,GgRvhFfaEEi3YzkjV0qS1g"
     ],
-    "image": "https://anitsayac.com/ii/362024.jpg",
-    "url": "https://anitsayac.com/details.aspx?id=38939"
+    "image": "https://anitsayac.com/ii/3862024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=39004"
   },
   {
     "id": 38944,
@@ -578,6 +614,24 @@
     ],
     "image": "https://anitsayac.com/ii/3282024.jpg",
     "url": "https://anitsayac.com/details.aspx?id=38944"
+  },
+  {
+    "id": 38939,
+    "name": "Aysel Koçak",
+    "fullname": "Aysel Koçak",
+    "age": "Reşit",
+    "location": "Mardin",
+    "date": "20/10/2024",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Yüksekten Düşme",
+    "status": "Tespit Edilemeyen",
+    "source": [
+      "https://www.sozcu.com.tr/mardin-de-supheli-olum-15-yasindaki-aysel-kocak-evin-damindan-duserek-oldu-p96097"
+    ],
+    "image": "https://anitsayac.com/ii/362024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=38939"
   },
   {
     "id": 38960,
