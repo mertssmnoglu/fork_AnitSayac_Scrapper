@@ -940,6 +940,42 @@
     "url": "https://anitsayac.com/details.aspx?id=38919"
   },
   {
+    "id": 39007,
+    "name": "Nazife Çördük",
+    "fullname": "Nazife Çördük",
+    "age": "Reşit",
+    "location": "Ankara",
+    "date": "13/10/2024",
+    "reason": "Tartışma",
+    "by": "Tanıdığı Birisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihara Teşebbüs",
+    "source": [
+      "https://www.dha.com.tr/gundem/eglence-mekaninda-gorustugu-kadini-oldurup-kendini-yaralayan-adam-da-oldu-2518706"
+    ],
+    "image": "https://anitsayac.com/ii/3892024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=39007"
+  },
+  {
+    "id": 38998,
+    "name": "Gülcan Usal",
+    "fullname": "Gülcan Usal",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "12/10/2024",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.haberler.com/guncel/sisli-de-esini-vuran-yilmaz-u-yakalandi-17922958-haberi/"
+    ],
+    "image": "https://anitsayac.com/ii/3802024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=38998"
+  },
+  {
     "id": 38913,
     "name": "Güler Muslu",
     "fullname": "Güler Muslu",
@@ -1052,24 +1088,6 @@
     "url": "https://anitsayac.com/details.aspx?id=38922"
   },
   {
-    "id": 38998,
-    "name": "Gülcan Usal",
-    "fullname": "Gülcan Usal",
-    "age": "Reşit",
-    "location": "İstanbul",
-    "date": "12/10/2024",
-    "reason": "Tartışma",
-    "by": "Kocası",
-    "protection": "Yok",
-    "method": "Ateşli Silah",
-    "status": "Tutuklu",
-    "source": [
-      "https://www.haberler.com/guncel/sisli-de-esini-vuran-yilmaz-u-yakalandi-17922958-haberi/"
-    ],
-    "image": "https://anitsayac.com/ii/3802024.jpg",
-    "url": "https://anitsayac.com/details.aspx?id=38998"
-  },
-  {
     "id": 37914,
     "name": "Berivan Önala",
     "fullname": "Berivan Önala",
@@ -1089,8 +1107,8 @@
   },
   {
     "id": 37907,
-    "name": "Sıla Y.",
-    "fullname": "Sıla Y.",
+    "name": "Sıla Yeniçeri",
+    "fullname": "Sıla Yeniçeri",
     "age": "Reşit Değil",
     "location": "Tekirdağ",
     "date": "07/10/2024",
