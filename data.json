@@ -1,8 +1,26 @@
 [
   {
+    "id": 39011,
+    "name": "Şükriye Karadeniz",
+    "fullname": "Şükriye Karadeniz",
+    "age": "Reşit",
+    "location": "Ankara",
+    "date": "15/11/2024",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/2-kadin-2-cani-42592630"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/3932024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=39011"
+  },
+  {
     "id": 39008,
-    "name": "Özlem B.",
-    "fullname": "Özlem B.",
+    "name": "Özlem Bayrak",
+    "fullname": "Özlem Bayrak",
     "age": "Reşit",
     "location": "Bursa",
     "date": "14/11/2024",
@@ -10,9 +28,10 @@
     "by": "Kocası",
     "protection": "Yok",
     "method": "Boğularak",
-    "status": "İntihara Teşebbüs",
+    "status": "Tutuklu",
     "source": [
-      "https://www.t24.com.tr/haber/bursa-da-kadin-cinayeti-bosanma-asamasindaki-esini-kemerle-bogdu,1196459"
+      "https://www.t24.com.tr/haber/bursa-da-kadin-cinayeti-bosanma-asamasindaki-esini-kemerle-bogdu,1196459",
+      "https://www.hurriyet.com.tr/gundem/2-kadin-2-cani-42592630"
     ],
     "image": "https://anitsayac.com///i.anitsayac.com/ii/3902024.jpg",
     "url": "https://anitsayac.com/details.aspx?id=39008"
