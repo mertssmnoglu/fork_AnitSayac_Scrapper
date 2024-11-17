@@ -1,5 +1,23 @@
 [
   {
+    "id": 39013,
+    "name": "Hülya Ulumaskan",
+    "fullname": "Hülya Ulumaskan",
+    "age": "Reşit",
+    "location": "Antalya",
+    "date": "16/11/2024",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/antalyada-dehset-esini-oldurup-intihar-etti-42593902"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/3952024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=39013"
+  },
+  {
     "id": 39011,
     "name": "Şükriye Karadeniz",
     "fullname": "Şükriye Karadeniz",
@@ -16,6 +34,24 @@
     ],
     "image": "https://anitsayac.com///i.anitsayac.com/ii/3932024.jpg",
     "url": "https://anitsayac.com/details.aspx?id=39011"
+  },
+  {
+    "id": 39012,
+    "name": "Aslıhan Göktaş",
+    "fullname": "Aslıhan Göktaş",
+    "age": "Reşit",
+    "location": "İzmir",
+    "date": "15/11/2024",
+    "reason": "Boşanma Talebi",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/izmirde-kadin-cinayeti-bosanma-asamasindaki-esini-oldurup-intihar-etti-42593471"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/3942024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=39012"
   },
   {
     "id": 39008,
