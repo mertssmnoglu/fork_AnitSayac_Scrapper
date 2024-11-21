@@ -1,5 +1,41 @@
 [
   {
+    "id": 39016,
+    "name": "Şelale Mirzalı",
+    "fullname": "Şelale Mirzalı",
+    "age": "Reşit",
+    "location": "Sakarya",
+    "date": "20/11/2024",
+    "reason": "Tespit Edilemeyen",
+    "by": "Eski Sevgilisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/sakarya-ve-mersinde-vahset-2-kadin-katledildi-42598069"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/3982024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=39016"
+  },
+  {
+    "id": 39017,
+    "name": "Aybeniz Top",
+    "fullname": "Aybeniz Top",
+    "age": "Reşit",
+    "location": "Mersin",
+    "date": "20/11/2024",
+    "reason": "Tartışma",
+    "by": "Dini Nikahlı Eşi",
+    "protection": "Yok",
+    "method": "Darp, Boğularak",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/sakarya-ve-mersinde-vahset-2-kadin-katledildi-42598069"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/3992024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=39017"
+  },
+  {
     "id": 39015,
     "name": "Güllü Ö.",
     "fullname": "Güllü Ö.",
