@@ -1,5 +1,41 @@
 [
   {
+    "id": 39018,
+    "name": "Esra Bağcı",
+    "fullname": "Esra Bağcı",
+    "age": "Reşit",
+    "location": "Iğdır",
+    "date": "21/11/2024",
+    "reason": "Tartışma, Boşanma Talebi",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.t24.com.tr/haber/uzman-cavus-bosanma-asamasindaki-esini-bicakla-saldirarak-oldurdu,1198129"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/4002024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=39018"
+  },
+  {
+    "id": 39019,
+    "name": "N.A.",
+    "fullname": "N.A.",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "21/11/2024",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tespit Edilemeyen",
+    "source": [
+      "https://www.t24.com.tr/haber/aksaray-da-kadin-cinayeti-evinde-silahla-vurularak-olduruldu,1198061"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/4012024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=39019"
+  },
+  {
     "id": 39016,
     "name": "Şelale Mirzalı",
     "fullname": "Şelale Mirzalı",
