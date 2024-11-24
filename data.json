@@ -1,11 +1,47 @@
 [
   {
+    "id": 39023,
+    "name": "Hüsniye Yalçın",
+    "fullname": "Hüsniye Yalçın",
+    "age": "Reşit",
+    "location": "Niğde",
+    "date": "23/11/2024",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Darp, İşkence",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/nigdede-kan-donduran-olay-dairede-olu-bulunan-sevgililer-cekicle-oldurulmus-42601965"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/4032024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=39023"
+  },
+  {
+    "id": 39024,
+    "name": "A.Y.",
+    "fullname": "A.Y.",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "23/11/2024",
+    "reason": "Tartışma",
+    "by": "Oğlu",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.sozcu.com.tr/sultangazi-de-aile-faciasi-once-kardeslerini-sonra-annesini-bicakladi-p106966"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/4042024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=39024"
+  },
+  {
     "id": 39020,
     "name": "Leyla Üren",
     "fullname": "Leyla Üren",
     "age": "Reşit",
     "location": "Şanlıurfa",
-    "date": "24/11/2024",
+    "date": "22/11/2024",
     "reason": "Tespit Edilemeyen",
     "by": "Tanımadığı Birisi",
     "protection": "Yok",
