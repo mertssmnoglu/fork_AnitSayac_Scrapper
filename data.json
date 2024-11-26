@@ -1,5 +1,95 @@
 [
   {
+    "id": 39027,
+    "name": "Necmiye Aladağ",
+    "fullname": "Necmiye Aladağ",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "25/11/2024",
+    "reason": "Tartışma",
+    "by": "Oğlu",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/istanbuldaki-aile-katliaminda-olu-sayisi-8e-yukseldi-42604273"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/4072024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=39027"
+  },
+  {
+    "id": 39028,
+    "name": "Sevim Aladağ",
+    "fullname": "Sevim Aladağ",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "25/11/2024",
+    "reason": "Tespit Edilemeyen",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/istanbuldaki-aile-katliaminda-olu-sayisi-8e-yukseldi-42604273"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/4082024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=39028"
+  },
+  {
+    "id": 39029,
+    "name": "Türkan Soylu",
+    "fullname": "Türkan Soylu",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "25/11/2024",
+    "reason": "Tespit Edilemeyen",
+    "by": "Damadı",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/istanbuldaki-aile-katliaminda-olu-sayisi-8e-yukseldi-42604273"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/4092024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=39029"
+  },
+  {
+    "id": 39030,
+    "name": "Yeşim Türkmen",
+    "fullname": "Yeşim Türkmen",
+    "age": "Reşit",
+    "location": "Gaziantep",
+    "date": "25/11/2024",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.milliyet.com.tr/gundem/gaziantepte-korkunc-cinayet-tartisigi-esinin-vurarak-oldurdu-7242350"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/4102024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=39030"
+  },
+  {
+    "id": 39031,
+    "name": "Elif Akyüz",
+    "fullname": "Elif Akyüz",
+    "age": "Reşit",
+    "location": "Tekirdağ",
+    "date": "24/11/2024",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Yüksekten Düşme",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.milliyet.com.tr/gundem/tekirdagda-supheli-olum-sila-bebegin-teyzesi-hayatini-kaybetti-7241989"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/4112024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=39031"
+  },
+  {
     "id": 39023,
     "name": "Hüsniye Yalçın",
     "fullname": "Hüsniye Yalçın",
