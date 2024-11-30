@@ -1,5 +1,41 @@
 [
   {
+    "id": 39035,
+    "name": "Hale Akbaş Poyraz",
+    "fullname": "Hale Akbaş Poyraz",
+    "age": "Reşit",
+    "location": "Antalya",
+    "date": "28/11/2024",
+    "reason": "Kıskançlık",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/antalyada-kiskanclik-nedeniyle-esi-tarafindan-katledilmisti-yurek-burkan-detay-kizinin-dogum-gununu-kutlamaya-hazirlaniyormus-42608435"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/4132024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=39035"
+  },
+  {
+    "id": 39036,
+    "name": "M.S.",
+    "fullname": "M.S.",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "28/11/2024",
+    "reason": "Tartışma",
+    "by": "Oğlu",
+    "protection": "Yok",
+    "method": "Darp",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/beyoglunda-dehset-annesini-doverek-oldurdu-42608330"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/4142024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=39036"
+  },
+  {
     "id": 39033,
     "name": "Dudu Göğebakan",
     "fullname": "Dudu Göğebakan",
