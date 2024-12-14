@@ -1,5 +1,23 @@
 [
   {
+    "id": 40011,
+    "name": "İsmi Bilinmiyor",
+    "fullname": "İsmi Bilinmiyor",
+    "age": "Reşit",
+    "location": "Osmaniye",
+    "date": "13/12/2024",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Boğularak",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.t24.com.tr/haber/osmaniye-de-kadin-cinayeti-esini-bogarak-olduren-erkek-polise-teslim-oldu,1202718"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/4212024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=40011"
+  },
+  {
     "id": 40010,
     "name": "Günay Sena S.",
     "fullname": "Günay Sena S.",
