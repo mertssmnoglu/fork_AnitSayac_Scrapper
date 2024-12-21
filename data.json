@@ -1,5 +1,41 @@
 [
   {
+    "id": 40013,
+    "name": "Mehtap Yerbağ",
+    "fullname": "Mehtap Yerbağ",
+    "age": "Reşit",
+    "location": "Manisa",
+    "date": "20/12/2024",
+    "reason": "Boşanma Talebi",
+    "by": "Kocası",
+    "protection": "Var (Uzaklaştırma Kararı)",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.t24.com.tr/haber/manisa-da-kadin-cinayeti-bosanma-asamasindaki-esinin-vurdugu-mehtap-kurtarilamadi,1204201"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/4232024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=40013"
+  },
+  {
+    "id": 40014,
+    "name": "Aynur Özbay",
+    "fullname": "Aynur Özbay",
+    "age": "Reşit",
+    "location": "Konya",
+    "date": "19/12/2024",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Kundaklama, Yanarak",
+    "status": "Tespit Edilemeyen",
+    "source": [
+      "https://www.t24.com.tr/haber/evli-ciftin-oldugu-yanginda-kundaklama-suphesi-yangin-3-ayri-noktada-cikmis,1204037"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/4242024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=40014"
+  },
+  {
     "id": 40012,
     "name": "Şehriban Kurt",
     "fullname": "Şehriban Kurt",
