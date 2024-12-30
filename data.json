@@ -1,5 +1,23 @@
 [
   {
+    "id": 40016,
+    "name": "Gonca Özdemir",
+    "fullname": "Gonca Özdemir",
+    "age": "Reşit",
+    "location": "Sivas",
+    "date": "24/12/2024",
+    "reason": "Tespit Edilemeyen",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Darp",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.ntv.com.tr/galeri/turkiye/olmeden-once-katilinin-ismini-soylemis-artik-beni-oldurmesini-bekliyorum,vrz2nfeOq0u7CBaEk9fuHQ/jK3wYrijV0m1HxwVfC5SyA"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/4262024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=40016"
+  },
+  {
     "id": 40015,
     "name": "Arzu Açıkgöz",
     "fullname": "Arzu Açıkgöz",
@@ -216,6 +234,42 @@
     ],
     "image": "https://anitsayac.com///i.anitsayac.com/ii/4142024.jpg",
     "url": "https://anitsayac.com/details.aspx?id=39036"
+  },
+  {
+    "id": 40020,
+    "name": "Filiz Aras",
+    "fullname": "Filiz Aras",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "27/11/2024",
+    "reason": "Kıskançlık",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Boğularak",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.evrensel.net/haber/535341/filiz-aras-evli-oldugu-sadik-aras-tarafindan-katledildi"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/4282024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=40020"
+  },
+  {
+    "id": 40021,
+    "name": "Sevinç Alemdar",
+    "fullname": "Sevinç Alemdar",
+    "age": "Reşit",
+    "location": "Bolu",
+    "date": "27/11/2024",
+    "reason": "Tespit Edilemeyen",
+    "by": "Sevgilisi",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "İntihar",
+    "source": [
+      "https://www.evrensel.net/haber/535390/boluda-sevinc-alemdar-adli-kadin-selcuk-sahin-adli-erkek-tarafindan-katledildi"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/4292024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=40021"
   },
   {
     "id": 39033,
@@ -490,8 +544,8 @@
   },
   {
     "id": 39015,
-    "name": "Güllü Ö.",
-    "fullname": "Güllü Ö.",
+    "name": "Güllü Özcan",
+    "fullname": "Güllü Özcan",
     "age": "Reşit",
     "location": "İstanbul",
     "date": "18/11/2024",
@@ -526,8 +580,8 @@
   },
   {
     "id": 39014,
-    "name": "Ayşe Göktan",
-    "fullname": "Ayşe Göktan",
+    "name": "Ayşe Gökten",
+    "fullname": "Ayşe Gökten",
     "age": "Reşit",
     "location": "Mersin",
     "date": "16/11/2024",
@@ -632,6 +686,24 @@
     ],
     "image": "https://anitsayac.com///i.anitsayac.com/ii/3922024.jpg",
     "url": "https://anitsayac.com/details.aspx?id=39010"
+  },
+  {
+    "id": 40017,
+    "name": "Asiye Yıldırım",
+    "fullname": "Asiye Yıldırım",
+    "age": "Reşit",
+    "location": "Uşak",
+    "date": "13/11/2024",
+    "reason": "Tespit Edilemeyen",
+    "by": "Oğlu",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.evrensel.net/haber/533958/usakta-oglu-tarafindan-bicaklanan-asiye-yildirim-hayatini-kaybetti"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/4272024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=40017"
   },
   {
     "id": 39006,
