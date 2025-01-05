@@ -36,6 +36,24 @@
     "url": "https://anitsayac.com/details.aspx?id=40024"
   },
   {
+    "id": 40025,
+    "name": "Semra Demirelli",
+    "fullname": "Semra Demirelli",
+    "age": "Reşit",
+    "location": "Elazığ",
+    "date": "03/01/2025",
+    "reason": "Kıskançlık",
+    "by": "Sevgilisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/erkek-arkadasinin-tabancayla-vurdugu-muhabir-semra-49-gun-suren-yasam-mucadelesini-kaybetti-42647568"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/042025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=40025"
+  },
+  {
     "id": 40022,
     "name": "Fatma Türk",
     "fullname": "Fatma Türk",
@@ -52,6 +70,60 @@
     ],
     "image": "https://anitsayac.com///i.anitsayac.com/ii/012025.jpg",
     "url": "https://anitsayac.com/details.aspx?id=40022"
+  },
+  {
+    "id": 40028,
+    "name": "Simge Kodalak",
+    "fullname": "Simge Kodalak",
+    "age": "Reşit",
+    "location": "Sakarya",
+    "date": "31/12/2024",
+    "reason": "Tespit Edilemeyen",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.ntv.com.tr/galeri/turkiye/sakaryada-korkunc-cinayet-esinin-bogazini-kesip-golet-kenarina-birakti,x7LHlXBlYUCoWtjO9r28UA/Wkchvx6UBUu5hwkz9uIphg"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/4322024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=40028"
+  },
+  {
+    "id": 40036,
+    "name": "Yezda Akgül",
+    "fullname": "Yezda Akgül",
+    "age": "Reşit",
+    "location": "Diyarbakır",
+    "date": "30/12/2024",
+    "reason": "Tartışma",
+    "by": "Oğlu",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.gercekgundem.com/guncel/diyarbakirda-kadin-cinayeti-annesini-kalbinden-vurarak-oldurdu-508953"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/4402024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=40036"
+  },
+  {
+    "id": 40034,
+    "name": "Fatma Çakırbeyli",
+    "fullname": "Fatma Çakırbeyli",
+    "age": "Reşit",
+    "location": "Van",
+    "date": "26/12/2024",
+    "reason": "Tespit Edilemeyen",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Kesici Alet, Darp",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.ntv.com.tr/turkiye/boynundan-bicaklandi-olume-terk-edildi-28-yasindaki-fatma-son-yolculuguna-ugurlandi,tBmf3pdeWkabsOEk50gf_g"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/4382024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=40034"
   },
   {
     "id": 40016,
@@ -88,6 +160,42 @@
     ],
     "image": "https://anitsayac.com///i.anitsayac.com/ii/4252024.jpg",
     "url": "https://anitsayac.com/details.aspx?id=40015"
+  },
+  {
+    "id": 40032,
+    "name": "Ayşe Merve Sağ",
+    "fullname": "Ayşe Merve Sağ",
+    "age": "Reşit",
+    "location": "Hakkari",
+    "date": "21/12/2024",
+    "reason": "Tartışma, Reddedilme",
+    "by": "Eski Nişnalısı",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.ntv.com.tr/turkiye/eski-nisanlisini-olduren-astsubay-hayatina-son-verdi,DDYoXpQkv0Wr_T7HDlceww"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/4362024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=40032"
+  },
+  {
+    "id": 40027,
+    "name": "Arzu Açıkgöz",
+    "fullname": "Arzu Açıkgöz",
+    "age": "Reşit",
+    "location": "Samsun",
+    "date": "21/12/2024",
+    "reason": "Tartışma",
+    "by": "Kızının Sevgilisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.ntv.com.tr/turkiye/kiz-arkadasinin-annesini-oldurup-kacarken-yakalanacagini-anlayinca-intihar-etti,RZvBN3_G0kSDvCYB-5GSFA"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/4312024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=40027"
   },
   {
     "id": 40013,
@@ -180,6 +288,42 @@
     "url": "https://anitsayac.com/details.aspx?id=40010"
   },
   {
+    "id": 40030,
+    "name": "Melike Alhan",
+    "fullname": "Melike Alhan",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "10/12/2024",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://haberglobal.com.tr/gundem/bosanma-asamasinda-oldugu-esini-oldurdu-uvey-oglunu-agir-yaraladi-402794"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/4342024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=40030"
+  },
+  {
+    "id": 40026,
+    "name": "Serpil Karan",
+    "fullname": "Serpil Karan",
+    "age": "Reşit",
+    "location": "Bursa",
+    "date": "09/12/2024",
+    "reason": "Boşanma Talebi",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.dha.com.tr/foto-galeri/bursada-bosanma-asamasindaki-esini-oldurup-yasamina-son-verdi-2546591/5"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/4302024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=40026"
+  },
+  {
     "id": 39039,
     "name": "Leyla Çakmak",
     "fullname": "Leyla Çakmak",
@@ -232,6 +376,60 @@
     ],
     "image": "https://anitsayac.com///i.anitsayac.com/ii/4162024.jpg",
     "url": "https://anitsayac.com/details.aspx?id=39038"
+  },
+  {
+    "id": 40035,
+    "name": "Songül Gönük",
+    "fullname": "Songül Gönük",
+    "age": "Reşit",
+    "location": "Kırklareli",
+    "date": "06/12/2024",
+    "reason": "Tartışma",
+    "by": "Eski Kocası",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://turkiyehaberkanali.com/bir-kadin-daha-katledildi-bicakladi-ve-basinda-bekledi/"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/4392024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=40035"
+  },
+  {
+    "id": 40033,
+    "name": "Rahime Ç.",
+    "fullname": "Rahime Ç.",
+    "age": "Reşit",
+    "location": "Uşak",
+    "date": "03/12/2024",
+    "reason": "Tespit Edilemeyen",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "İntihar",
+    "source": [
+      "https://www.evrensel.net/haber/535815/rahime-c-evli-oldugu-erkek-tarafindan-bicaklanarak-olduruldu"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/4372024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=40033"
+  },
+  {
+    "id": 40029,
+    "name": "Emine D.",
+    "fullname": "Emine D.",
+    "age": "Reşit",
+    "location": "Giresun",
+    "date": "02/12/2024",
+    "reason": "Tespit Edilemeyen",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Darp",
+    "status": "Tutuklu",
+    "source": [
+      "https://ilketv.com.tr/giresunda-kadin-cinayeti-80-yasindaki-kadin-evli-oldugu-erkek-tarafindan-olduruldu/"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/4332024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=40029"
   },
   {
     "id": 39037,
@@ -3638,6 +3836,24 @@
     ],
     "image": "https://anitsayac.com///i.anitsayac.com/ii/2252024.jpg",
     "url": "https://anitsayac.com/details.aspx?id=36838"
+  },
+  {
+    "id": 40031,
+    "name": "Fatma Metin",
+    "fullname": "Fatma Metin",
+    "age": "Reşit",
+    "location": "Karabük",
+    "date": "23/07/2024",
+    "reason": "Tespit Edilemeyen",
+    "by": "Akrabası",
+    "protection": "Yok",
+    "method": "Darp",
+    "status": "Tutuklu",
+    "source": [
+      "https://haberglobal.com.tr/gundem/bafradaki-laf-atma-cinayetinde-yeni-gelisme-409803"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/4352024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=40031"
   },
   {
     "id": 36835,
