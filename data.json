@@ -1,5 +1,24 @@
 [
   {
+    "id": 40037,
+    "name": "Burcu Seymen",
+    "fullname": "Burcu Seymen",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "05/01/2025",
+    "reason": "Tartışma",
+    "by": "Sevgilisi",
+    "protection": "KADES çağrı",
+    "method": "Ateşli Silah",
+    "status": "İntihara Teşebbüs",
+    "source": [
+      "https://www.t24.com.tr/haber/esenyurt-ta-kadin-cinayeti-burcu-s-melik-altay-tarafindan-silahla-olduruldu,1207808",
+      "https://www.milliyet.com.tr/gundem/esenyurtta-yasak-ask-cinayeti-sevgilisini-oldurup-intihara-tesebbus-etti-7275543"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/052025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=40037"
+  },
+  {
     "id": 40023,
     "name": "T.F.",
     "fullname": "T.F.",
