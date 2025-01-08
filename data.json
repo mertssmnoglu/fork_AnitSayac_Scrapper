@@ -1,5 +1,23 @@
 [
   {
+    "id": 40038,
+    "name": "Ayşe Çelik",
+    "fullname": "Ayşe Çelik",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "07/01/2025",
+    "reason": "Boşanma Talebi, Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/terorist-basi-gulenin-olumunden-sonra-feto-yonetimi-birbirine-girdi-42650743"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/062025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=40038"
+  },
+  {
     "id": 40037,
     "name": "Burcu Seymen",
     "fullname": "Burcu Seymen",
@@ -651,6 +669,24 @@
     "url": "https://anitsayac.com/details.aspx?id=39031"
   },
   {
+    "id": 40039,
+    "name": "Burçin Benek",
+    "fullname": "Burçin Benek",
+    "age": "Reşit",
+    "location": "Samsun",
+    "date": "24/11/2024",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Asılarak",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.yenigundehaber.com/genc-kadin-kendini-asti/"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/4412024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=40039"
+  },
+  {
     "id": 39023,
     "name": "Hüsniye Yalçın",
     "fullname": "Hüsniye Yalçın",
@@ -1083,6 +1119,24 @@
     ],
     "image": "https://anitsayac.com///i.anitsayac.com/ii/3712024.jpg",
     "url": "https://anitsayac.com/details.aspx?id=38989"
+  },
+  {
+    "id": 40040,
+    "name": "Müzeyyen Güneş",
+    "fullname": "Müzeyyen Güneş",
+    "age": "Reşit",
+    "location": "Samsun",
+    "date": "05/11/2024",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Soruşturma Sürüyo",
+    "source": [
+      "https://www.sondakika.com/guncel/haber-carsamba-da-kadin-olu-bulundu-18013251/"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/4422024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=40040"
   },
   {
     "id": 38958,
