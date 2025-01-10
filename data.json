@@ -18,6 +18,24 @@
     "url": "https://anitsayac.com/details.aspx?id=40041"
   },
   {
+    "id": 40042,
+    "name": "Sevda Sevindik",
+    "fullname": "Sevda Sevindik",
+    "age": "Reşit",
+    "location": "Zonguldak",
+    "date": "08/01/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespite Edlielemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.t24.com.tr/haber/2-cocuk-annesi-evinde-olu-bulundu,1208536"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/082025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=40042"
+  },
+  {
     "id": 40038,
     "name": "Ayşe Çelik",
     "fullname": "Ayşe Çelik",
@@ -1149,7 +1167,7 @@
     "by": "Tespit Edilemeyen",
     "protection": "Yok",
     "method": "Tespit Edilemeyen",
-    "status": "Soruşturma Sürüyo",
+    "status": "Soruşturma Sürüyor",
     "source": [
       "https://www.sondakika.com/guncel/haber-carsamba-da-kadin-olu-bulundu-18013251/"
     ],
@@ -1552,6 +1570,24 @@
     ],
     "image": "https://anitsayac.com///i.anitsayac.com/ii/3872024.jpg",
     "url": "https://anitsayac.com/details.aspx?id=39005"
+  },
+  {
+    "id": 40043,
+    "name": "Aysel Canbolat",
+    "fullname": "Aysel Canbolat",
+    "age": "Reşit",
+    "location": "Ankara",
+    "date": "23/10/2024",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.t24.com.tr/haber/ankara-da-kadin-cinayeti-supheli-erkek-intihar-dedi-iddianame-kasten-oldurme-uzerinden-hazirlandi,1208715"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/4432024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=40043"
   },
   {
     "id": 38948,
