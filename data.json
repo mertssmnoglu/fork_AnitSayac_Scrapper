@@ -1,5 +1,41 @@
 [
   {
+    "id": 40044,
+    "name": "Ş.K.",
+    "fullname": "Ş.K.",
+    "age": "Reşit Değil",
+    "location": "Muş",
+    "date": "09/01/2025",
+    "reason": "Kaza",
+    "by": "Abisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/musta-korkunc-olay-tufekle-oynarken-kazara-kiz-kardesini-vurarak-oldurdu-42653259"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/092025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=40044"
+  },
+  {
+    "id": 40045,
+    "name": "Derya Kozan",
+    "fullname": "Derya Kozan",
+    "age": "Reşit",
+    "location": "Afyonkarahisar",
+    "date": "08/01/2025",
+    "reason": "Tartışma",
+    "by": "Tanıdığı Birisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.milliyet.com.tr/gundem/afyonkarahisarda-hastanedeki-korkunc-cinayet-kamerada-7279666"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/102025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=40045"
+  },
+  {
     "id": 40041,
     "name": "Gülnaz Adal",
     "fullname": "Gülnaz Adal",
