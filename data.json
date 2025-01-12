@@ -1,5 +1,41 @@
 [
   {
+    "id": 40046,
+    "name": "Hazal A.",
+    "fullname": "Hazal A.",
+    "age": "Reşit",
+    "location": "Kocaeli",
+    "date": "11/01/2025",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.milliyet.com.tr/gundem/6-ay-once-bicakla-yaralamisti-40-yillik-esini-pompali-tufekle-oldurdu-7280004"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/112025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=40046"
+  },
+  {
+    "id": 40047,
+    "name": "Gamze Alır",
+    "fullname": "Gamze Alır",
+    "age": "Reşit",
+    "location": "Adana",
+    "date": "11/01/2025",
+    "reason": "Tartışma",
+    "by": "Sevgilisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.milliyet.com.tr/gundem/23-yasindaki-2-cocuk-annesine-ormanda-infaz-7280178"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/122025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=40047"
+  },
+  {
     "id": 40044,
     "name": "Ş.K.",
     "fullname": "Ş.K.",
