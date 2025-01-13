@@ -1,5 +1,41 @@
 [
   {
+    "id": 40048,
+    "name": "Shaxnoz L.",
+    "fullname": "Shaxnoz L.",
+    "age": "Reşit",
+    "location": "Tekirdağ",
+    "date": "12/01/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihara Teşebbüs",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/son-dakika-haberi-marmarada-kar-alarmi-meteorolojiden-istanbul-dahil-13-ile-sari-kodlu-uyari-42656016"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/132025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=40048"
+  },
+  {
+    "id": 40049,
+    "name": "Şehrinin O.",
+    "fullname": "Şehrinin O.",
+    "age": "Reşit Değil",
+    "location": "Tekirdağ",
+    "date": "12/01/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Babası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihara Teşebbüs",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/tekirdagda-vahset-esini-ve-8-yasindaki-kizini-oldurup-intihar-girisiminde-bulundu-42656325"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/142025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=40049"
+  },
+  {
     "id": 40046,
     "name": "Hazal A.",
     "fullname": "Hazal A.",
