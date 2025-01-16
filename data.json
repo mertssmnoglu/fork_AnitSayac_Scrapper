@@ -1,18 +1,55 @@
 [
   {
-    "id": 40051,
-    "name": "M.S.",
-    "fullname": "M.S.",
-    "age": "Reşit Değil",
-    "location": "İstanbul",
-    "date": "14/01/2025",
+    "id": 40052,
+    "name": "Hüsne Tehci",
+    "fullname": "Hüsne Tehci",
+    "age": "Reşit",
+    "location": "Adana",
+    "date": "15/01/2025",
     "reason": "Tespit Edilemeyen",
     "by": "Tespit Edilemeyen",
     "protection": "Yok",
-    "method": "Darp",
+    "method": "Kesici Alet",
     "status": "Soruşturma Sürüyor",
     "source": [
-      "https://www.sozcu.com.tr/bagcilar-da-kan-donduran-vahset-12-yasindaki-kiz-cocugunu-tasla-oldurdu-p126925"
+      "https://www.hurriyet.com.tr/gundem/adanada-korkunc-olay-ayni-aileden-3-kisinin-bogazi-kesilmis-halde-bulundu-42659385"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/172025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=40052"
+  },
+  {
+    "id": 40053,
+    "name": "Semiha Tehci",
+    "fullname": "Semiha Tehci",
+    "age": "Reşit",
+    "location": "Adana",
+    "date": "15/01/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/adanada-korkunc-olay-ayni-aileden-3-kisinin-bogazi-kesilmis-halde-bulundu-42659385"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/182025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=40053"
+  },
+  {
+    "id": 40051,
+    "name": "Meryem Samou",
+    "fullname": "Meryem Samou",
+    "age": "Reşit Değil",
+    "location": "İstanbul",
+    "date": "14/01/2025",
+    "reason": "Gasp",
+    "by": "Tanıdıkları Birisi",
+    "protection": "Yok",
+    "method": "Darp",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.sozcu.com.tr/bagcilar-da-kan-donduran-vahset-12-yasindaki-kiz-cocugunu-tasla-oldurdu-p126925",
+      "https://www.hurriyet.com.tr/gundem/vahsetin-ayrintilari-ortaya-cikti-oldurup-evde-para-aramis-42659064"
     ],
     "image": "https://anitsayac.com///i.anitsayac.com/ii/162025.jpg",
     "url": "https://anitsayac.com/details.aspx?id=40051"
@@ -41348,19 +41385,17 @@
   {
     "id": 3046,
     "name": "Bedriye Kangal",
-    "fullname": "Bedriye Kangal",
-    "age": "Reşit",
-    "location": "Balıkesir",
-    "date": "20/08/2019",
-    "reason": "Tespit Edilemeyen",
-    "by": "Torunu",
-    "protection": "Yok",
-    "method": "Kesici Alet",
-    "status": "Tutuklu",
-    "source": [
-      "https://www.sozcu.com.tr/2019/gundem/gonende-torun-dehseti-5291498/"
-    ],
-    "image": "https://anitsayac.com///i.anitsayac.com/ii/2412019.jpg",
+    "fullname": "",
+    "age": "",
+    "location": "",
+    "date": "",
+    "reason": "",
+    "by": "",
+    "protection": "",
+    "method": "",
+    "status": "",
+    "source": null,
+    "image": "",
     "url": "https://anitsayac.com/details.aspx?id=3046"
   },
   {
