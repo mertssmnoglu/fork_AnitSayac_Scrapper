@@ -6,13 +6,14 @@
     "age": "Reşit",
     "location": "Adana",
     "date": "15/01/2025",
-    "reason": "Tespit Edilemeyen",
-    "by": "Tespit Edilemeyen",
+    "reason": "Tartışma",
+    "by": "Damadı",
     "protection": "Yok",
     "method": "Kesici Alet",
-    "status": "Soruşturma Sürüyor",
+    "status": "Tutuklu",
     "source": [
-      "https://www.hurriyet.com.tr/gundem/adanada-korkunc-olay-ayni-aileden-3-kisinin-bogazi-kesilmis-halde-bulundu-42659385"
+      "https://www.hurriyet.com.tr/gundem/adanada-korkunc-olay-ayni-aileden-3-kisinin-bogazi-kesilmis-halde-bulundu-42659385",
+      "https://www.hurriyet.com.tr/gundem/adanada-korkunc-olay-ayni-aileden-3-kisinin-bogazi-kesilmis-halde-bulundu-42659385T"
     ],
     "image": "https://anitsayac.com///i.anitsayac.com/ii/172025.jpg",
     "url": "https://anitsayac.com/details.aspx?id=40052"
@@ -24,16 +25,53 @@
     "age": "Reşit",
     "location": "Adana",
     "date": "15/01/2025",
-    "reason": "Tespit Edilemeyen",
-    "by": "Tespit Edilemeyen",
+    "reason": "Tartışma",
+    "by": "Karısının Halası",
     "protection": "Yok",
     "method": "Kesici Alet",
-    "status": "Soruşturma Sürüyor",
+    "status": "Tutuklu",
     "source": [
+      "https://www.hurriyet.com.tr/gundem/adanada-korkunc-olay-ayni-aileden-3-kisinin-bogazi-kesilmis-halde-bulundu-42659385",
       "https://www.hurriyet.com.tr/gundem/adanada-korkunc-olay-ayni-aileden-3-kisinin-bogazi-kesilmis-halde-bulundu-42659385"
     ],
     "image": "https://anitsayac.com///i.anitsayac.com/ii/182025.jpg",
     "url": "https://anitsayac.com/details.aspx?id=40053"
+  },
+  {
+    "id": 40054,
+    "name": "Ferdane Tehci",
+    "fullname": "Ferdane Tehci",
+    "age": "Reşit",
+    "location": "Adana",
+    "date": "15/01/2025",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Boğularak",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/adanada-korkunc-olay-ayni-aileden-3-kisinin-bogazi-kesilmis-halde-bulundu-42659385"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/192025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=40054"
+  },
+  {
+    "id": 40055,
+    "name": "Günnaz Cancı",
+    "fullname": "Günnaz Cancı",
+    "age": "Reşit",
+    "location": "Edirne",
+    "date": "14/01/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tespit Edilemeyen",
+    "source": [
+      "https://www.ntv.com.tr/amp/galeri/turkiye/edirnede-kadin-cinayeti-evinin-banyosunda-gogsunden-bicaklanmis-olarak-olu-bulundu,jiwcDjwP9UegWmYySevzqw"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/202025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=40055"
   },
   {
     "id": 40051,
