@@ -1,5 +1,41 @@
 [
   {
+    "id": 40057,
+    "name": "Latife Kaya",
+    "fullname": "Latife Kaya",
+    "age": "Reşit",
+    "location": "Mardin",
+    "date": "17/01/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.sozcu.com.tr/eski-muhtar-karisini-uykuda-katletti-p127982"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/222025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=40057"
+  },
+  {
+    "id": 40056,
+    "name": "Emine Gürbüz",
+    "fullname": "Emine Gürbüz",
+    "age": "Reşit",
+    "location": "Malatya",
+    "date": "16/01/2025",
+    "reason": "Tartışma",
+    "by": "Akrabası",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.sozcu.com.tr/malatya-da-akrabasinin-bicakladigi-yasli-kadin-can-verdi-p127923"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/212025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=40056"
+  },
+  {
     "id": 40052,
     "name": "Hüsne Tehci",
     "fullname": "Hüsne Tehci",
