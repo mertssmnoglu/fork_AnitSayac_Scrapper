@@ -1,5 +1,41 @@
 [
   {
+    "id": 40060,
+    "name": "Gülcan Arslan",
+    "fullname": "Gülcan Arslan",
+    "age": "Reşit",
+    "location": "Batman",
+    "date": "20/01/2025",
+    "reason": "Kaza",
+    "by": "Oğlu",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.milliyet.com.tr/gundem/korkunc-olay-12-yasindaki-cocuk-annesini-oldurdu-7287233"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/252025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=40060"
+  },
+  {
+    "id": 40059,
+    "name": "Pınar Zorlu",
+    "fullname": "Pınar Zorlu",
+    "age": "Reşit",
+    "location": "Antalya",
+    "date": "19/01/2025",
+    "reason": "Tartışma",
+    "by": "Eski Kocası",
+    "protection": "Yok",
+    "method": "Yakıcı Alet, Sıvı",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/sosyal-medya-bu-olayi-konusuyor-genc-kiz-yasadigi-dehseti-anlatti-sag-gozume-perde-indi-sol-gozumden-kanlar-akti-42664878"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/242025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=40059"
+  },
+  {
     "id": 40057,
     "name": "Latife Kaya",
     "fullname": "Latife Kaya",
