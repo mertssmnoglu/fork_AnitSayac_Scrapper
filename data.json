@@ -80244,17 +80244,19 @@
   {
     "id": 3029,
     "name": "Fatma Gürgen",
-    "fullname": "",
+    "fullname": "Fatma Gürgen",
     "age": "",
-    "location": "",
-    "date": "",
-    "reason": "",
-    "by": "",
-    "protection": "",
-    "method": "",
+    "location": "Erzurum",
+    "date": "01/01/2013",
+    "reason": "Tespit Edilemeyen",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Boğulma",
     "status": "",
-    "source": null,
-    "image": "",
+    "source": [
+      "https://www.takvim.com.tr/yasam/2019/07/01/kadin-cinayeti-5-yil-sonra-gelen-ihbarla-ortaya-cikti"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/2372013.jpg",
     "url": "https://anitsayac.com/details.aspx?id=3029"
   },
   {
