@@ -1,5 +1,41 @@
 [
   {
+    "id": 40063,
+    "name": "Gülizar Ateş",
+    "fullname": "Gülizar Ateş",
+    "age": "Reşit",
+    "location": "Mersin",
+    "date": "28/01/2025",
+    "reason": "Tartışma",
+    "by": "Torunu",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.t24.com.tr/haber/babaannesi-ve-dedesini-olduren-madde-bagimlisi-olen-babamin-ruhunu-tasiyorum,1213944"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/282025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=40063"
+  },
+  {
+    "id": 40064,
+    "name": "Ummuhan Korkut",
+    "fullname": "Ummuhan Korkut",
+    "age": "Reşit ",
+    "location": "Muğla",
+    "date": "28/01/2025",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Darp",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.t24.com.tr/haber/yemek-yapmadigi-gerekcesiyle-esi-tarafindan-olduresiye-dovulmustu-ummuhan-korkut-hayatini-kaybetti,1213891"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/292025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=40064"
+  },
+  {
     "id": 40062,
     "name": "Bircan Bircan",
     "fullname": "Bircan Bircan",
