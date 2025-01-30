@@ -65306,19 +65306,17 @@
   {
     "id": 1658,
     "name": "Bahar Turan",
-    "fullname": "Bahar Turan",
+    "fullname": "",
     "age": "",
-    "location": "İstanbul",
-    "date": "30/01/2016",
-    "reason": "Boşanma Talebi",
-    "by": "Kocası",
-    "protection": "Yok",
-    "method": "Ateşli Silah",
-    "status": "İntihar",
-    "source": [
-      "http://www.haberturk.com/gundem/haber/1188644-once-tartistigi-karisini-sonra-kendisini-vurdu"
-    ],
-    "image": "https://anitsayac.com///i.anitsayac.com/ii/102016.jpg",
+    "location": "",
+    "date": "",
+    "reason": "",
+    "by": "",
+    "protection": "",
+    "method": "",
+    "status": "",
+    "source": null,
+    "image": "",
     "url": "https://anitsayac.com/details.aspx?id=1658"
   },
   {
@@ -74012,17 +74010,19 @@
   {
     "id": 1018,
     "name": "Sevil Özden",
-    "fullname": "",
+    "fullname": "Sevil Özden",
     "age": "",
     "location": "",
-    "date": "",
-    "reason": "",
-    "by": "",
-    "protection": "",
-    "method": "",
+    "date": "16/06/2014",
+    "reason": "Tartışma",
+    "by": "Sevgilisi",
+    "protection": "Yok",
+    "method": "Dayak",
     "status": "",
-    "source": null,
-    "image": "",
+    "source": [
+      "http://www.milliyet.com.tr/sevgilisi-dovdu-15-gun-yasadi-gundem-1897844/"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/1022014.jpg",
     "url": "https://anitsayac.com/details.aspx?id=1018"
   },
   {
