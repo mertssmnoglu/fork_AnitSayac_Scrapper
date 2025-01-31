@@ -1,5 +1,42 @@
 [
   {
+    "id": 40065,
+    "name": "Serpil Girgin",
+    "fullname": "Serpil Girgin",
+    "age": "Reşit",
+    "location": "Denizli",
+    "date": "30/01/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tanıdığı Birileri",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/kayip-kadinin-cansiz-bedeni-komsusunun-bahcesindeki-cuvalda-bulunmustu-3-kisi-gozaltina-alindi-42675575"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/302025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=40065"
+  },
+  {
+    "id": 40066,
+    "name": "Sedanur Akalın",
+    "fullname": "Sedanur Akalın",
+    "age": "Reşit",
+    "location": "Kırklareli",
+    "date": "30/01/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tanıdığı Birisi",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.t24.com.tr/haber/kirklareli-nde-genc-kadinin-olu-bulundugu-evin-sahibi-ve-oglu-gozaltina-alindi,1214464",
+      "https://www.sozcu.com.tr/sedanur-sevgilisinin-evinde-olu-bulundu-p132411"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/312025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=40066"
+  },
+  {
     "id": 40063,
     "name": "Gülizar Ateş",
     "fullname": "Gülizar Ateş",
@@ -65306,17 +65343,19 @@
   {
     "id": 1658,
     "name": "Bahar Turan",
-    "fullname": "",
+    "fullname": "Bahar Turan",
     "age": "",
-    "location": "",
-    "date": "",
-    "reason": "",
-    "by": "",
-    "protection": "",
-    "method": "",
-    "status": "",
-    "source": null,
-    "image": "",
+    "location": "İstanbul",
+    "date": "30/01/2016",
+    "reason": "Boşanma Talebi",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "http://www.haberturk.com/gundem/haber/1188644-once-tartistigi-karisini-sonra-kendisini-vurdu"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/102016.jpg",
     "url": "https://anitsayac.com/details.aspx?id=1658"
   },
   {
@@ -91630,20 +91669,17 @@
   {
     "id": 1383,
     "name": "Pınar Yücel",
-    "fullname": "Pınar Yücel",
+    "fullname": "",
     "age": "",
     "location": "",
-    "date": "27/09/2008",
-    "reason": "Fuhuşu Reddetme",
-    "by": "Tanıdığı Birisi",
-    "protection": "Yok",
-    "method": "Kesici Alet",
+    "date": "",
+    "reason": "",
+    "by": "",
+    "protection": "",
+    "method": "",
     "status": "",
-    "source": [
-      "http://www.hurriyet.com.tr/gundem/9757436.asp",
-      "642008"
-    ],
-    "image": "https://anitsayac.com/",
+    "source": null,
+    "image": "",
     "url": "https://anitsayac.com/details.aspx?id=1383"
   },
   {
