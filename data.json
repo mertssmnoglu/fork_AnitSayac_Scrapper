@@ -1,5 +1,59 @@
 [
   {
+    "id": 40067,
+    "name": "Aysun Yenigün",
+    "fullname": "Aysun Yenigün",
+    "age": "Reşit ",
+    "location": "İstanbul",
+    "date": "31/01/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Oğlu",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/eyupsultanda-ayni-aileden-4-kisi-silahla-vurularak-olduruldu-42676491"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/322025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=40067"
+  },
+  {
+    "id": 40068,
+    "name": "Fatma İnce",
+    "fullname": "Fatma İnce",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "31/01/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Torunu",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/eyupsultanda-ayni-aileden-4-kisi-silahla-vurularak-olduruldu-42676491"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/332025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=40068"
+  },
+  {
+    "id": 40069,
+    "name": "Zilan Yenigün",
+    "fullname": "Zilan Yenigün",
+    "age": "Reşit Değil",
+    "location": "İstanbul",
+    "date": "31/01/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Abisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/eyupsultanda-ayni-aileden-4-kisi-silahla-vurularak-olduruldu-42676491"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/342025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=40069"
+  },
+  {
     "id": 40065,
     "name": "Serpil Girgin",
     "fullname": "Serpil Girgin",
