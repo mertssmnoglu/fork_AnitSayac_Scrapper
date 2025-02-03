@@ -91,6 +91,42 @@
     "url": "https://anitsayac.com/details.aspx?id=40066"
   },
   {
+    "id": 40070,
+    "name": "Sevgi Erbay",
+    "fullname": "Sevgi Erbay",
+    "age": "Reşit",
+    "location": "Afyonkarahisar",
+    "date": "29/01/2025",
+    "reason": "Bir erkekle ilişkisi olduğu iiçn",
+    "by": "Oğlu",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.dha.com.tr/gundem/annesini-pompali-tufekle-oldurdu-2573823"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/352025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=40070"
+  },
+  {
+    "id": 40071,
+    "name": "Fatma Köklü",
+    "fullname": "Fatma Köklü",
+    "age": "Reşit",
+    "location": "Gaziantep",
+    "date": "29/01/2025",
+    "reason": "Tartışma",
+    "by": "Eski Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.milliyet.com.tr/gundem/fatma-koklu-cinayetinde-kan-donduran-detaylar-bugun-annenizi-oldurecegim-7294379"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/362025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=40071"
+  },
+  {
     "id": 40063,
     "name": "Gülizar Ateş",
     "fullname": "Gülizar Ateş",
@@ -125,6 +161,24 @@
     ],
     "image": "https://anitsayac.com///i.anitsayac.com/ii/292025.jpg",
     "url": "https://anitsayac.com/details.aspx?id=40064"
+  },
+  {
+    "id": 40072,
+    "name": "Hale El Şıh İsmail",
+    "fullname": "Hale El Şıh İsmail",
+    "age": "Reşit",
+    "location": "Gaziantep",
+    "date": "26/01/2025",
+    "reason": "Tartışma",
+    "by": "Erkek Kardeşi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.ntv.com.tr/amp/galeri/turkiye/tartistigi-kiz-kardeslerine-kursun-yagdirdi-1-olu-1-yarali,5j-7dD0bFkqzcUIDXtuzZA"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/372025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=40072"
   },
   {
     "id": 40062,
