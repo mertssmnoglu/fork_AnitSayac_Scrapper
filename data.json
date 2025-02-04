@@ -1,5 +1,23 @@
 [
   {
+    "id": 40073,
+    "name": "Fatma Kocaklı",
+    "fullname": "Fatma Kocaklı",
+    "age": "Reşit",
+    "location": "Adana",
+    "date": "01/02/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Dini Nikahlı Eşi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://t24.com.tr/haber/adana-da-kadin-cinayeti-21-yasindaki-fatma-kocakli-av-tufegi-ile-vurulmus-halde-bulundu,1215064"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/382025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=40073"
+  },
+  {
     "id": 40067,
     "name": "Aysun Yenigün",
     "fullname": "Aysun Yenigün",
@@ -127,6 +145,24 @@
     "url": "https://anitsayac.com/details.aspx?id=40071"
   },
   {
+    "id": 40074,
+    "name": "Meryem D.",
+    "fullname": "Meryem D.",
+    "age": "Reşit",
+    "location": "Ankara",
+    "date": "28/01/2025",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "İntihar",
+    "source": [
+      "https://www.ntv.com.tr/amp/turkiye/ankarada-kadin-cinayeti,8WwhmkJdvUSw07_TleGbAg"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/392025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=40074"
+  },
+  {
     "id": 40063,
     "name": "Gülizar Ateş",
     "fullname": "Gülizar Ateş",
@@ -163,24 +199,6 @@
     "url": "https://anitsayac.com/details.aspx?id=40064"
   },
   {
-    "id": 40072,
-    "name": "Hale El Şıh İsmail",
-    "fullname": "Hale El Şıh İsmail",
-    "age": "Reşit",
-    "location": "Gaziantep",
-    "date": "26/01/2025",
-    "reason": "Tartışma",
-    "by": "Erkek Kardeşi",
-    "protection": "Yok",
-    "method": "Ateşli Silah",
-    "status": "Tutuklu",
-    "source": [
-      "https://www.ntv.com.tr/amp/galeri/turkiye/tartistigi-kiz-kardeslerine-kursun-yagdirdi-1-olu-1-yarali,5j-7dD0bFkqzcUIDXtuzZA"
-    ],
-    "image": "https://anitsayac.com///i.anitsayac.com/ii/372025.jpg",
-    "url": "https://anitsayac.com/details.aspx?id=40072"
-  },
-  {
     "id": 40062,
     "name": "Bircan Bircan",
     "fullname": "Bircan Bircan",
@@ -197,6 +215,24 @@
     ],
     "image": "https://anitsayac.com///i.anitsayac.com/ii/272025.jpg",
     "url": "https://anitsayac.com/details.aspx?id=40062"
+  },
+  {
+    "id": 40072,
+    "name": "Hale El Şıh İsmail",
+    "fullname": "Hale El Şıh İsmail",
+    "age": "Reşit",
+    "location": "Gaziantep",
+    "date": "26/01/2025",
+    "reason": "Tartışma",
+    "by": "Erkek Kardeşi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.ntv.com.tr/amp/galeri/turkiye/tartistigi-kiz-kardeslerine-kursun-yagdirdi-1-olu-1-yarali,5j-7dD0bFkqzcUIDXtuzZA"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/372025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=40072"
   },
   {
     "id": 40061,
