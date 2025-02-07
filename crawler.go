@@ -60,7 +60,7 @@ type Detail struct {
 
 // Static and dynamic Variables
 var (
-	baseUrl = "https://anitsayac.com"
+	baseUrl = "http://anitsayac.com"
 )
 
 func ReplaceAll(s, old, new string, n int) string {
