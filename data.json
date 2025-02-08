@@ -217,24 +217,6 @@
     "url": "http://anitsayac.com/details.aspx?id=40064"
   },
   {
-    "id": 40062,
-    "name": "Bircan Bircan",
-    "fullname": "Bircan Bircan",
-    "age": "Reşit",
-    "location": "İstanbul",
-    "date": "26/01/2025",
-    "reason": "Tespit Edilemeyen",
-    "by": "Tespit Edilemeyen",
-    "protection": "Yok",
-    "method": "Tespit Edilemeyen",
-    "status": "Tespit Edilemeyen",
-    "source": [
-      "https://www.hurriyet.com.tr/gundem/sariyerde-universite-ogrencisi-bircan-evinde-olu-bulundu-42671269"
-    ],
-    "image": "http://anitsayac.com///i.anitsayac.com/ii/272025.jpg",
-    "url": "http://anitsayac.com/details.aspx?id=40062"
-  },
-  {
     "id": 40072,
     "name": "Hale El Şıh İsmail",
     "fullname": "Hale El Şıh İsmail",
@@ -251,6 +233,24 @@
     ],
     "image": "http://anitsayac.com///i.anitsayac.com/ii/372025.jpg",
     "url": "http://anitsayac.com/details.aspx?id=40072"
+  },
+  {
+    "id": 40062,
+    "name": "Bircan Bircan",
+    "fullname": "Bircan Bircan",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "26/01/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Tespit Edilemeyen",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/sariyerde-universite-ogrencisi-bircan-evinde-olu-bulundu-42671269"
+    ],
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/272025.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=40062"
   },
   {
     "id": 40061,
@@ -7004,6 +7004,24 @@
     ],
     "image": "http://anitsayac.com///i.anitsayac.com/ii/922024.jpg",
     "url": "http://anitsayac.com/details.aspx?id=35692"
+  },
+  {
+    "id": 40076,
+    "name": "Sibel Kavılı",
+    "fullname": "Sibel Kavılı",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "29/03/2024",
+    "reason": "Tartışma, Reddedilme",
+    "by": "Eski Sevgilisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/hemsire-sibeli-olduren-katil-sevgiliden-astral-seyahat-savunmasi-psikolojim-bozuldu-42684626"
+    ],
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/4442024.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=40076"
   },
   {
     "id": 35693,
@@ -41224,19 +41242,17 @@
   {
     "id": 3108,
     "name": "Sultan B.",
-    "fullname": "Sultan B.",
-    "age": "Reşit",
-    "location": "Adana",
-    "date": "12/09/2019",
-    "reason": "Tartışma",
-    "by": "Kardeşi",
-    "protection": "Yok",
-    "method": "Kesici Alet",
-    "status": "Tutuklu",
-    "source": [
-      "https://www.sozcu.com.tr/2019/gundem/ablasini-20-yerinden-bicaklayip-oldurdu-5330081/"
-    ],
-    "image": "http://anitsayac.com///i.anitsayac.com/ii/2902019.jpg",
+    "fullname": "",
+    "age": "",
+    "location": "",
+    "date": "",
+    "reason": "",
+    "by": "",
+    "protection": "",
+    "method": "",
+    "status": "",
+    "source": null,
+    "image": "",
     "url": "http://anitsayac.com/details.aspx?id=3108"
   },
   {
