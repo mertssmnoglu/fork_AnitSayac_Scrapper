@@ -1,5 +1,23 @@
 [
   {
+    "id": 40077,
+    "name": "Selen Naycı",
+    "fullname": "Selen Naycı",
+    "age": "Reşit",
+    "location": "Şırnak",
+    "date": "08/02/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.evrensel.net/haber/542343/kaybolan-hemsire-selen-naycinin-cansiz-bedeni-dicle-nehrinde-bulundu"
+    ],
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/412025.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=40077"
+  },
+  {
     "id": 40075,
     "name": "Behiye Taşkın",
     "fullname": "Behiye Taşkın",
@@ -41242,17 +41260,19 @@
   {
     "id": 3108,
     "name": "Sultan B.",
-    "fullname": "",
-    "age": "",
-    "location": "",
-    "date": "",
-    "reason": "",
-    "by": "",
-    "protection": "",
-    "method": "",
-    "status": "",
-    "source": null,
-    "image": "",
+    "fullname": "Sultan B.",
+    "age": "Reşit",
+    "location": "Adana",
+    "date": "12/09/2019",
+    "reason": "Tartışma",
+    "by": "Kardeşi",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.sozcu.com.tr/2019/gundem/ablasini-20-yerinden-bicaklayip-oldurdu-5330081/"
+    ],
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/2902019.jpg",
     "url": "http://anitsayac.com/details.aspx?id=3108"
   },
   {
