@@ -1,12 +1,30 @@
 [
   {
+    "id": 40080,
+    "name": "Sibel G.",
+    "fullname": "Sibel G.",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "12/02/2025",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Boğularak",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/istanbulda-vahset-tartistigi-esini-bogarak-oldurdu-42691435"
+    ],
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/442025.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=40080"
+  },
+  {
     "id": 40079,
-    "name": "S.Y.",
-    "fullname": "S.Y.",
+    "name": "Su Dilem Y.",
+    "fullname": "Su Dilem Y.",
     "age": "Reşit",
     "location": "Tekirdağ",
     "date": "11/02/2025",
-    "reason": "Tespit Edilemeyen",
+    "reason": "Erkek Arkadaşının Olması",
     "by": "Babası",
     "protection": "Yok",
     "method": "Tespit Edilemeyen",
@@ -24864,12 +24882,13 @@
     "location": "Antalya",
     "date": "24/11/2021",
     "reason": "Tespit Edilemeyen",
-    "by": "Kocası",
+    "by": "Tespit Edilemeyen",
     "protection": "Yok",
     "method": "Yüksekten Düşme",
-    "status": "Tutuklu",
+    "status": "Tespit Edilemeyen",
     "source": [
-      "https://www.hurriyet.com.tr/gundem/oldurdugu-esi-yerde-yatarken-sosyal-medyaya-girmis-42227988"
+      "https://www.hurriyet.com.tr/gundem/oldurdugu-esi-yerde-yatarken-sosyal-medyaya-girmis-42227988",
+      "https://www.hurriyet.com.tr/gundem/gamzenin-olumunde-ese-verilen-beraat-kararinin-gerekcesi-delil-yok-42690902"
     ],
     "image": "http://anitsayac.com///i.anitsayac.com/ii/4282021.jpg",
     "url": "http://anitsayac.com/details.aspx?id=22335"
