@@ -1,5 +1,41 @@
 [
   {
+    "id": 40081,
+    "name": "Ezgi Nur Bağca",
+    "fullname": "Ezgi Nur Bağca",
+    "age": "Reşit",
+    "location": "Elazığ",
+    "date": "13/02/2025",
+    "reason": "Tespit Edİlemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Tespit Edilemeyen",
+    "source": [
+      "https://www.sozcu.com.tr/genc-kadinin-cesedi-kesikler-icinde-bulundu-p138848"
+    ],
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/452025.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=40081"
+  },
+  {
+    "id": 40082,
+    "name": "S.N.Ş.",
+    "fullname": "S.N.Ş.",
+    "age": "Reşit",
+    "location": "Nevşehir",
+    "date": "13/02/2025",
+    "reason": "Tartışma",
+    "by": "Eski Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.sozcu.com.tr/genc-kadin-vurulduktan-sonra-kosarak-kacti-ama-p138842"
+    ],
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/462025.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=40082"
+  },
+  {
     "id": 40080,
     "name": "Sibel G.",
     "fullname": "Sibel G.",
@@ -349,11 +385,11 @@
     "age": "Reşit",
     "location": "Batman",
     "date": "20/01/2025",
-    "reason": "Kaza",
+    "reason": "Oğlunun Oynadığı Silahın Ateş Alması Sonucu, Kaza",
     "by": "Oğlu",
     "protection": "Yok",
     "method": "Ateşli Silah",
-    "status": "Tutuklu",
+    "status": "Soruşturma Sürüyor",
     "source": [
       "https://www.milliyet.com.tr/gundem/korkunc-olay-12-yasindaki-cocuk-annesini-oldurdu-7287233"
     ],
