@@ -18,6 +18,42 @@
     "url": "http://anitsayac.com/details.aspx?id=40083"
   },
   {
+    "id": 40084,
+    "name": "Makbule Sungur",
+    "fullname": "Makbule Sungur",
+    "age": "Reşit",
+    "location": "Şırnak",
+    "date": "15/02/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.birgun.net/haber/kadin-evinde-olu-bulundu-599789"
+    ],
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/482025.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=40084"
+  },
+  {
+    "id": 40085,
+    "name": "Hatice Ç.",
+    "fullname": "Hatice Ç.",
+    "age": "Reşit",
+    "location": "Afyon",
+    "date": "15/02/2025",
+    "reason": "Tartışma",
+    "by": "Oğlu",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://m.sabah.com.tr/yasam/afyonda-kan-donduran-cinayet-oglu-tarafindan-bicaklanan-anne-hayatini-kaybetti-7267258/amp"
+    ],
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/492025.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=40085"
+  },
+  {
     "id": 40081,
     "name": "Ezgi Nur Bağca",
     "fullname": "Ezgi Nur Bağca",
