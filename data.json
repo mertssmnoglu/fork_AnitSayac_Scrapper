@@ -1,5 +1,59 @@
 [
   {
+    "id": 41094,
+    "name": "Fener Ateş",
+    "fullname": "Fener Ateş",
+    "age": "Reşit",
+    "location": "Diyarbakır",
+    "date": "25/02/2025",
+    "reason": "Tartışma",
+    "by": "Oğlu",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.sozcu.com.tr/diyarbakir-da-evlat-dehseti-annesini-oldurdu-babasini-agir-yaraladi-p142989"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/592025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=41094"
+  },
+  {
+    "id": 41095,
+    "name": "Pınar A.",
+    "fullname": "Pınar A.",
+    "age": "Reşit",
+    "location": "Ordu",
+    "date": "25/02/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.t24.com.tr/haber/ordu-da-kayip-olarak-aranan-kadinin-cesedi-dere-yataginda-bulundu,1221564"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/602025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=41095"
+  },
+  {
+    "id": 41096,
+    "name": "Necla Özbiber",
+    "fullname": "Necla Özbiber",
+    "age": "Reşit",
+    "location": "Gaziantep",
+    "date": "24/02/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Eski Kocası",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.t24.com.tr/haber/bosandigi-kadini-katleden-erkek-gozaltina-alindi,1221168"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/612025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=41096"
+  },
+  {
     "id": 41092,
     "name": "Leeqa Azemi",
     "fullname": "Leeqa Azemi",
@@ -1156,6 +1210,24 @@
     ],
     "image": "https://anitsayac.com///i.anitsayac.com/ii/4312024.jpg",
     "url": "https://anitsayac.com/details.aspx?id=40027"
+  },
+  {
+    "id": 41093,
+    "name": "Derya Buçan",
+    "fullname": "Derya Buçan",
+    "age": "Reşit",
+    "location": "Aydın",
+    "date": "21/12/2024",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.sozcu.com.tr/seytani-plan-oglunun-ifadesi-korkunc-gercegi-ortaya-cikardi-p143017"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/4452024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=41093"
   },
   {
     "id": 40013,
