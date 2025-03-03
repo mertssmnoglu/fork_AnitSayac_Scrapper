@@ -1,5 +1,59 @@
 [
   {
+    "id": 41099,
+    "name": "Hava Gül Özcan",
+    "fullname": "Hava Gül Özcan",
+    "age": "Reşit",
+    "location": "Zonguldak",
+    "date": "02/03/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Yüksekten Düşme",
+    "status": "Tespit Edilemeyen",
+    "source": [
+      "https://www.sozcu.com.tr/evinin-yakinindaki-su-kuyusunda-cansiz-bedeni-bulundu-p146528"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/642025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=41099"
+  },
+  {
+    "id": 41098,
+    "name": "Eser Mumcuoğlu",
+    "fullname": "Eser Mumcuoğlu",
+    "age": "Reşit",
+    "location": "Kastamonu",
+    "date": "01/03/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Yüksekten Düşme",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.haberturk.com/kastamonu-haberleri-genc-kadin-14-kattan-dustu-nisanlisi-tutuklandi-3769950-amp"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/632025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=41098"
+  },
+  {
+    "id": 41097,
+    "name": "Seher Güzide",
+    "fullname": "Seher Güzide",
+    "age": "Reşit",
+    "location": "istanbul",
+    "date": "27/02/2025",
+    "reason": "Tartışma",
+    "by": "Sevgilisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihara Teşebbüs",
+    "source": [
+      "https://www.ntv.com.tr/turkiye/sislide-sevgili-dehseti-sokak-ortasinda-oldurdu,vNPccJzdm0C1cznLFLED5g"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/622025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=41097"
+  },
+  {
     "id": 41094,
     "name": "Fener Ateş",
     "fullname": "Fener Ateş",
