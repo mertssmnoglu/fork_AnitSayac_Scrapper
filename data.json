@@ -1,5 +1,24 @@
 [
   {
+    "id": 41100,
+    "name": "Fikriye Alıcı",
+    "fullname": "Fikriye Alıcı",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "03/03/2025",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.t24.com.tr/haber/istanbul-da-aile-katliami-esini-ve-cocuklarini-oldurdu,1223012",
+      "https://www.hurriyet.com.tr/gundem/avcilarda-aile-vahseti-esini-ve-3-cocugunu-katletti-42715150"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/652025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=41100"
+  },
+  {
     "id": 41099,
     "name": "Hava Gül Özcan",
     "fullname": "Hava Gül Özcan",
