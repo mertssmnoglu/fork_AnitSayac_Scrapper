@@ -73,6 +73,24 @@
     "url": "http://anitsayac.com/details.aspx?id=41097"
   },
   {
+    "id": 41102,
+    "name": "Buket K.",
+    "fullname": "Buket K.",
+    "age": "Reşit",
+    "location": "Kayseri",
+    "date": "27/02/2025",
+    "reason": "Tartışma",
+    "by": "Eski Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.milliyet.com.tr/gundem/okul-bahcesinde-dehset-bosandigi-esini-oldurdukten-sonra-intihar-etti-7318498"
+    ],
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/672025.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=41102"
+  },
+  {
     "id": 41094,
     "name": "Fener Ateş",
     "fullname": "Fener Ateş",
@@ -200,8 +218,8 @@
   },
   {
     "id": 41090,
-    "name": "Selma K.",
-    "fullname": "Selma K.",
+    "name": "Selma Kara Yalçın",
+    "fullname": "Selma Kara Yalçın",
     "age": "Reşit",
     "location": "Ankara",
     "date": "19/02/2025",
@@ -252,6 +270,24 @@
     ],
     "image": "http://anitsayac.com///i.anitsayac.com/ii/532025.jpg",
     "url": "http://anitsayac.com/details.aspx?id=41087"
+  },
+  {
+    "id": 41101,
+    "name": "Hatice Çevik",
+    "fullname": "Hatice Çevik",
+    "age": "Reşit",
+    "location": "Afyonharahisar",
+    "date": "15/02/2025",
+    "reason": "Tartışma",
+    "by": "Oğlu",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.haberturk.com/afyonkarahisar-haberleri/111675421-oglunun-bicakla-yaraladigi-kadin-hastanede-oldu-2"
+    ],
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/662025.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=41101"
   },
   {
     "id": 40083,
@@ -381,8 +417,8 @@
   },
   {
     "id": 40079,
-    "name": "Su Dilem Y.",
-    "fullname": "Su Dilem Y.",
+    "name": "Su Dilem Yazıcı",
+    "fullname": "Su Dilem Yazıcı",
     "age": "Reşit",
     "location": "Tekirdağ",
     "date": "11/02/2025",
@@ -1157,6 +1193,22 @@
     ],
     "image": "http://anitsayac.com///i.anitsayac.com/ii/012025.jpg",
     "url": "http://anitsayac.com/details.aspx?id=40022"
+  },
+  {
+    "id": 41103,
+    "name": "",
+    "fullname": "\u003cbr\u003e\u003cb\u003eYıl: \u003c/b\u003e2025",
+    "age": "",
+    "location": "",
+    "date": "",
+    "reason": "\u003cbr\u003e\u003cb\u003eKim tarafından öldürüldü:\u003c/b\u003e  ",
+    "by": "\u003cbr\u003e\u003cb\u003eKorunma talebi:\u003c/b\u003e  ",
+    "protection": " ",
+    "method": "",
+    "status": "",
+    "source": null,
+    "image": "http://anitsayac.com/",
+    "url": "http://anitsayac.com/details.aspx?id=41103"
   },
   {
     "id": 40028,
