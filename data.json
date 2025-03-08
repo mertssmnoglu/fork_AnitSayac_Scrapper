@@ -1,5 +1,41 @@
 [
   {
+    "id": 41104,
+    "name": "Yıldız Cam",
+    "fullname": "Yıldız Cam",
+    "age": "Reşit",
+    "location": "Mardin ",
+    "date": "07/03/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.cumhuriyet.com.tr/turkiye/mardinde-kadin-cinayeti-silahli-saldirida-hayatini-kaybetti-2306859"
+    ],
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/692025.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=41104"
+  },
+  {
+    "id": 41103,
+    "name": "A.H.A.A.",
+    "fullname": "A.H.A.A.",
+    "age": "Reşit",
+    "location": "Adapazarı",
+    "date": "06/03/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Yüksekten Düşme",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.t24.com.tr/haber/sakarya-da-supheli-kadin-olumu-balkondan-dusen-hamile-kadin-yasamini-yitirdi,1223817"
+    ],
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/682025.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=41103"
+  },
+  {
     "id": 41100,
     "name": "Fikriye Alıcı",
     "fullname": "Fikriye Alıcı",
@@ -272,24 +308,6 @@
     "url": "http://anitsayac.com/details.aspx?id=41087"
   },
   {
-    "id": 41101,
-    "name": "Hatice Çevik",
-    "fullname": "Hatice Çevik",
-    "age": "Reşit",
-    "location": "Afyonharahisar",
-    "date": "15/02/2025",
-    "reason": "Tartışma",
-    "by": "Oğlu",
-    "protection": "Yok",
-    "method": "Kesici Alet",
-    "status": "Tutuklu",
-    "source": [
-      "https://www.haberturk.com/afyonkarahisar-haberleri/111675421-oglunun-bicakla-yaraladigi-kadin-hastanede-oldu-2"
-    ],
-    "image": "http://anitsayac.com///i.anitsayac.com/ii/662025.jpg",
-    "url": "http://anitsayac.com/details.aspx?id=41101"
-  },
-  {
     "id": 40083,
     "name": "Dilek Şen",
     "fullname": "Dilek Şen",
@@ -360,6 +378,24 @@
     ],
     "image": "http://anitsayac.com///i.anitsayac.com/ii/502025.jpg",
     "url": "http://anitsayac.com/details.aspx?id=40086"
+  },
+  {
+    "id": 41101,
+    "name": "Hatice Çevik",
+    "fullname": "Hatice Çevik",
+    "age": "Reşit",
+    "location": "Afyonharahisar",
+    "date": "15/02/2025",
+    "reason": "Tartışma",
+    "by": "Oğlu",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.haberturk.com/afyonkarahisar-haberleri/111675421-oglunun-bicakla-yaraladigi-kadin-hastanede-oldu-2"
+    ],
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/662025.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=41101"
   },
   {
     "id": 40081,
@@ -687,24 +723,6 @@
     "url": "http://anitsayac.com/details.aspx?id=40064"
   },
   {
-    "id": 40072,
-    "name": "Hale El Şıh İsmail",
-    "fullname": "Hale El Şıh İsmail",
-    "age": "Reşit",
-    "location": "Gaziantep",
-    "date": "26/01/2025",
-    "reason": "Tartışma",
-    "by": "Erkek Kardeşi",
-    "protection": "Yok",
-    "method": "Ateşli Silah",
-    "status": "Tutuklu",
-    "source": [
-      "https://www.ntv.com.tr/amp/galeri/turkiye/tartistigi-kiz-kardeslerine-kursun-yagdirdi-1-olu-1-yarali,5j-7dD0bFkqzcUIDXtuzZA"
-    ],
-    "image": "http://anitsayac.com///i.anitsayac.com/ii/372025.jpg",
-    "url": "http://anitsayac.com/details.aspx?id=40072"
-  },
-  {
     "id": 40062,
     "name": "Bircan Bircan",
     "fullname": "Bircan Bircan",
@@ -721,6 +739,24 @@
     ],
     "image": "http://anitsayac.com///i.anitsayac.com/ii/272025.jpg",
     "url": "http://anitsayac.com/details.aspx?id=40062"
+  },
+  {
+    "id": 40072,
+    "name": "Hale El Şıh İsmail",
+    "fullname": "Hale El Şıh İsmail",
+    "age": "Reşit",
+    "location": "Gaziantep",
+    "date": "26/01/2025",
+    "reason": "Tartışma",
+    "by": "Erkek Kardeşi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.ntv.com.tr/amp/galeri/turkiye/tartistigi-kiz-kardeslerine-kursun-yagdirdi-1-olu-1-yarali,5j-7dD0bFkqzcUIDXtuzZA"
+    ],
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/372025.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=40072"
   },
   {
     "id": 40061,
@@ -813,24 +849,6 @@
     "url": "http://anitsayac.com/details.aspx?id=40056"
   },
   {
-    "id": 40058,
-    "name": "İsmi Bilinmiyor",
-    "fullname": "İsmi Bilinmiyor",
-    "age": "Reşit Değil",
-    "location": "Harran",
-    "date": "15/01/2025",
-    "reason": "Tecavüz",
-    "by": "Tespit Edilemeyen",
-    "protection": "Yok",
-    "method": "Boğularak",
-    "status": "Tespit Edilemeyen",
-    "source": [
-      "https://www.t24.com.tr/haber/sanliurfa-da-dehset-5-yasindaki-cocuk-tecavuz-edildikten-sonra-bogularak-olduruldu,1211260"
-    ],
-    "image": "http://anitsayac.com///i.anitsayac.com/ii/232025.jpg",
-    "url": "http://anitsayac.com/details.aspx?id=40058"
-  },
-  {
     "id": 40052,
     "name": "Hüsne Tehci",
     "fullname": "Hüsne Tehci",
@@ -885,6 +903,24 @@
     ],
     "image": "http://anitsayac.com///i.anitsayac.com/ii/192025.jpg",
     "url": "http://anitsayac.com/details.aspx?id=40054"
+  },
+  {
+    "id": 40058,
+    "name": "İsmi Bilinmiyor",
+    "fullname": "İsmi Bilinmiyor",
+    "age": "Reşit Değil",
+    "location": "Harran",
+    "date": "15/01/2025",
+    "reason": "Tecavüz",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Boğularak",
+    "status": "Tespit Edilemeyen",
+    "source": [
+      "https://www.t24.com.tr/haber/sanliurfa-da-dehset-5-yasindaki-cocuk-tecavuz-edildikten-sonra-bogularak-olduruldu,1211260"
+    ],
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/232025.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=40058"
   },
   {
     "id": 40055,
@@ -1105,24 +1141,6 @@
     "url": "http://anitsayac.com/details.aspx?id=40037"
   },
   {
-    "id": 40050,
-    "name": "Fatma Elif Kutlu",
-    "fullname": "Fatma Elif Kutlu",
-    "age": "Reşit",
-    "location": "Bursa",
-    "date": "03/01/2025",
-    "reason": "Kıskançlık",
-    "by": "Sevgilisi",
-    "protection": "Yok",
-    "method": "Ateşli Silah",
-    "status": "Tutuklu",
-    "source": [
-      "https://www.haberturk.com/bursa-haberleri-genc-kadin-otomobilde-olduruldu-eski-sevgili-gozaltinda-3752777?page=5"
-    ],
-    "image": "http://anitsayac.com///i.anitsayac.com/ii/152025.jpg",
-    "url": "http://anitsayac.com/details.aspx?id=40050"
-  },
-  {
     "id": 40023,
     "name": "T.F.",
     "fullname": "T.F.",
@@ -1177,6 +1195,24 @@
     "url": "http://anitsayac.com/details.aspx?id=40025"
   },
   {
+    "id": 40050,
+    "name": "Fatma Elif Kutlu",
+    "fullname": "Fatma Elif Kutlu",
+    "age": "Reşit",
+    "location": "Bursa",
+    "date": "03/01/2025",
+    "reason": "Kıskançlık",
+    "by": "Sevgilisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.haberturk.com/bursa-haberleri-genc-kadin-otomobilde-olduruldu-eski-sevgili-gozaltinda-3752777?page=5"
+    ],
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/152025.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=40050"
+  },
+  {
     "id": 40022,
     "name": "Fatma Türk",
     "fullname": "Fatma Türk",
@@ -1193,22 +1229,6 @@
     ],
     "image": "http://anitsayac.com///i.anitsayac.com/ii/012025.jpg",
     "url": "http://anitsayac.com/details.aspx?id=40022"
-  },
-  {
-    "id": 41103,
-    "name": "",
-    "fullname": "\u003cbr\u003e\u003cb\u003eYıl: \u003c/b\u003e2025",
-    "age": "",
-    "location": "",
-    "date": "",
-    "reason": "\u003cbr\u003e\u003cb\u003eKim tarafından öldürüldü:\u003c/b\u003e  ",
-    "by": "\u003cbr\u003e\u003cb\u003eKorunma talebi:\u003c/b\u003e  ",
-    "protection": " ",
-    "method": "",
-    "status": "",
-    "source": null,
-    "image": "http://anitsayac.com/",
-    "url": "http://anitsayac.com/details.aspx?id=41103"
   },
   {
     "id": 40028,
@@ -1301,24 +1321,6 @@
     "url": "http://anitsayac.com/details.aspx?id=40015"
   },
   {
-    "id": 40032,
-    "name": "Ayşe Merve Sağ",
-    "fullname": "Ayşe Merve Sağ",
-    "age": "Reşit",
-    "location": "Hakkari",
-    "date": "21/12/2024",
-    "reason": "Tartışma, Reddedilme",
-    "by": "Eski Nişnalısı",
-    "protection": "Yok",
-    "method": "Ateşli Silah",
-    "status": "İntihar",
-    "source": [
-      "https://www.ntv.com.tr/turkiye/eski-nisanlisini-olduren-astsubay-hayatina-son-verdi,DDYoXpQkv0Wr_T7HDlceww"
-    ],
-    "image": "http://anitsayac.com///i.anitsayac.com/ii/4362024.jpg",
-    "url": "http://anitsayac.com/details.aspx?id=40032"
-  },
-  {
     "id": 40027,
     "name": "Arzu Açıkgöz",
     "fullname": "Arzu Açıkgöz",
@@ -1335,6 +1337,24 @@
     ],
     "image": "http://anitsayac.com///i.anitsayac.com/ii/4312024.jpg",
     "url": "http://anitsayac.com/details.aspx?id=40027"
+  },
+  {
+    "id": 40032,
+    "name": "Ayşe Merve Sağ",
+    "fullname": "Ayşe Merve Sağ",
+    "age": "Reşit",
+    "location": "Hakkari",
+    "date": "21/12/2024",
+    "reason": "Tartışma, Reddedilme",
+    "by": "Eski Nişnalısı",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.ntv.com.tr/turkiye/eski-nisanlisini-olduren-astsubay-hayatina-son-verdi,DDYoXpQkv0Wr_T7HDlceww"
+    ],
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/4362024.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=40032"
   },
   {
     "id": 41093,
@@ -2583,6 +2603,24 @@
     "url": "http://anitsayac.com/details.aspx?id=38990"
   },
   {
+    "id": 39005,
+    "name": "Hatice Tosun",
+    "fullname": "Hatice Tosun",
+    "age": "Reşit",
+    "location": "izmir",
+    "date": "24/10/2024",
+    "reason": "Kıskançlık",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.netgaste.com/haber/22168320/izmirde-dehset-kiskanclik-krizi-3-cocuk-annesi-kadin-ve-uvey-kardesinin-canina-mal-oldu"
+    ],
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/3872024.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=39005"
+  },
+  {
     "id": 38940,
     "name": "Hasibe Tosun",
     "fullname": "Hasibe Tosun",
@@ -2636,24 +2674,6 @@
     ],
     "image": "http://anitsayac.com///i.anitsayac.com/ii/3262024.jpg",
     "url": "http://anitsayac.com/details.aspx?id=38942"
-  },
-  {
-    "id": 39005,
-    "name": "Hatice Tosun",
-    "fullname": "Hatice Tosun",
-    "age": "Reşit",
-    "location": "izmir",
-    "date": "24/10/2024",
-    "reason": "Kıskançlık",
-    "by": "Kocası",
-    "protection": "Yok",
-    "method": "Ateşli Silah",
-    "status": "Tutuklu",
-    "source": [
-      "https://www.netgaste.com/haber/22168320/izmirde-dehset-kiskanclik-krizi-3-cocuk-annesi-kadin-ve-uvey-kardesinin-canina-mal-oldu"
-    ],
-    "image": "http://anitsayac.com///i.anitsayac.com/ii/3872024.jpg",
-    "url": "http://anitsayac.com/details.aspx?id=39005"
   },
   {
     "id": 40043,
@@ -3073,24 +3093,6 @@
     "url": "http://anitsayac.com/details.aspx?id=38928"
   },
   {
-    "id": 38918,
-    "name": "Cavidan Aydın",
-    "fullname": "Cavidan Aydın",
-    "age": "Reşit",
-    "location": "Bursa",
-    "date": "13/10/2024",
-    "reason": "Tartışma",
-    "by": "Tanıdığı Birisi",
-    "protection": "Yok",
-    "method": "Kesici Alet",
-    "status": "Tutuklu",
-    "source": [
-      "https://www.hurriyet.com.tr/gundem/bursada-vahset-evi-dedesini-ve-iki-kisiyi-katletti-42560721"
-    ],
-    "image": "http://anitsayac.com///i.anitsayac.com/ii/3042024.jpg",
-    "url": "http://anitsayac.com/details.aspx?id=38918"
-  },
-  {
     "id": 39007,
     "name": "Nazife Çördük",
     "fullname": "Nazife Çördük",
@@ -3109,6 +3111,24 @@
     "url": "http://anitsayac.com/details.aspx?id=39007"
   },
   {
+    "id": 38918,
+    "name": "Cavidan Aydın",
+    "fullname": "Cavidan Aydın",
+    "age": "Reşit",
+    "location": "Bursa",
+    "date": "13/10/2024",
+    "reason": "Tartışma",
+    "by": "Tanıdığı Birisi",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/bursada-vahset-evi-dedesini-ve-iki-kisiyi-katletti-42560721"
+    ],
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/3042024.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=38918"
+  },
+  {
     "id": 38998,
     "name": "Gülcan Usal",
     "fullname": "Gülcan Usal",
@@ -3125,6 +3145,24 @@
     ],
     "image": "http://anitsayac.com///i.anitsayac.com/ii/3802024.jpg",
     "url": "http://anitsayac.com/details.aspx?id=38998"
+  },
+  {
+    "id": 38922,
+    "name": "Gülcan U.",
+    "fullname": "Gülcan U.",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "12/10/2024",
+    "reason": "Tespit Edilemeyen",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.t24.com.tr/haber/esini-silahla-vurarak-olduren-zanli-tutuklandi,1189418"
+    ],
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/3082024.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=38922"
   },
   {
     "id": 38913,
@@ -3219,24 +3257,6 @@
     ],
     "image": "http://anitsayac.com///i.anitsayac.com/ii/3032024.jpg",
     "url": "http://anitsayac.com/details.aspx?id=38917"
-  },
-  {
-    "id": 38922,
-    "name": "Gülcan U.",
-    "fullname": "Gülcan U.",
-    "age": "Reşit",
-    "location": "İstanbul",
-    "date": "12/10/2024",
-    "reason": "Tespit Edilemeyen",
-    "by": "Kocası",
-    "protection": "Yok",
-    "method": "Ateşli Silah",
-    "status": "Tutuklu",
-    "source": [
-      "https://www.t24.com.tr/haber/esini-silahla-vurarak-olduren-zanli-tutuklandi,1189418"
-    ],
-    "image": "http://anitsayac.com///i.anitsayac.com/ii/3082024.jpg",
-    "url": "http://anitsayac.com/details.aspx?id=38922"
   },
   {
     "id": 39025,
@@ -3493,24 +3513,6 @@
     "url": "http://anitsayac.com/details.aspx?id=38972"
   },
   {
-    "id": 38925,
-    "name": "Satı Aktan",
-    "fullname": "Satı Aktan",
-    "age": "Reşit",
-    "location": "Afyonkarahisar",
-    "date": "30/09/2024",
-    "reason": "Tartışma",
-    "by": "Kocası",
-    "protection": "Yok",
-    "method": "Ateşli Silah",
-    "status": "İntihar",
-    "source": [
-      "https://artigercek.com/kadin/afyonkarahisarda-kadin-cinayeti-esini-oldurdu-intihar-etti-318799h"
-    ],
-    "image": "http://anitsayac.com///i.anitsayac.com/ii/3112024.jpg",
-    "url": "http://anitsayac.com/details.aspx?id=38925"
-  },
-  {
     "id": 37912,
     "name": "Sıla M.",
     "fullname": "Sıla M.",
@@ -3527,6 +3529,24 @@
     ],
     "image": "http://anitsayac.com///i.anitsayac.com/ii/2972024.jpg",
     "url": "http://anitsayac.com/details.aspx?id=37912"
+  },
+  {
+    "id": 38925,
+    "name": "Satı Aktan",
+    "fullname": "Satı Aktan",
+    "age": "Reşit",
+    "location": "Afyonkarahisar",
+    "date": "30/09/2024",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://artigercek.com/kadin/afyonkarahisarda-kadin-cinayeti-esini-oldurdu-intihar-etti-318799h"
+    ],
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/3112024.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=38925"
   },
   {
     "id": 37897,
@@ -4977,24 +4997,6 @@
     "url": "http://anitsayac.com/details.aspx?id=36844"
   },
   {
-    "id": 36843,
-    "name": "Cansu Tarak",
-    "fullname": "Cansu Tarak",
-    "age": "Reşit",
-    "location": "Edirne",
-    "date": "26/07/2024",
-    "reason": "Tartışma",
-    "by": "Kocası",
-    "protection": "Yok",
-    "method": "Kesici Alet",
-    "status": "Tutuklu",
-    "source": [
-      "https://www.hurriyet.com.tr/gundem/esini-katleden-cani-cinayetten-kisa-sure-once-bu-paylasimi-yapmis-42495180"
-    ],
-    "image": "http://anitsayac.com///i.anitsayac.com/ii/2302024.jpg",
-    "url": "http://anitsayac.com/details.aspx?id=36843"
-  },
-  {
     "id": 36839,
     "name": "Nurten Yapıcıoğlu",
     "fullname": "Nurten Yapıcıoğlu",
@@ -5011,6 +5013,24 @@
     ],
     "image": "http://anitsayac.com///i.anitsayac.com/ii/2262024.jpg",
     "url": "http://anitsayac.com/details.aspx?id=36839"
+  },
+  {
+    "id": 36843,
+    "name": "Cansu Tarak",
+    "fullname": "Cansu Tarak",
+    "age": "Reşit",
+    "location": "Edirne",
+    "date": "26/07/2024",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/esini-katleden-cani-cinayetten-kisa-sure-once-bu-paylasimi-yapmis-42495180"
+    ],
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/2302024.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=36843"
   },
   {
     "id": 36837,
@@ -5467,6 +5487,24 @@
     "url": "http://anitsayac.com/details.aspx?id=36817"
   },
   {
+    "id": 36812,
+    "name": "Hilal Kar",
+    "fullname": "Hilal Kar",
+    "age": "Reşit",
+    "location": "Diyarbakır",
+    "date": "23/06/2024",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Aranıyor",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/sokak-ortasinda-kan-donduran-cinayet-hilali-arkasindan-vurup-oldurdu-42480090"
+    ],
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/2002024.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=36812"
+  },
+  {
     "id": 36814,
     "name": "Fatma Kahraman",
     "fullname": "Fatma Kahraman",
@@ -5485,22 +5523,41 @@
     "url": "http://anitsayac.com/details.aspx?id=36814"
   },
   {
-    "id": 36812,
-    "name": "Hilal Kar",
-    "fullname": "Hilal Kar",
+    "id": 40009,
+    "name": "Ayten Çağıran",
+    "fullname": "Ayten Çağıran",
     "age": "Reşit",
-    "location": "Diyarbakır",
-    "date": "23/06/2024",
-    "reason": "Tespit Edilemeyen",
-    "by": "Tespit Edilemeyen",
+    "location": "Antalya",
+    "date": "22/06/2024",
+    "reason": "Tartışma",
+    "by": "Eskİ Kocası",
     "protection": "Yok",
-    "method": "Ateşli Silah",
-    "status": "Aranıyor",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
     "source": [
-      "https://www.hurriyet.com.tr/gundem/sokak-ortasinda-kan-donduran-cinayet-hilali-arkasindan-vurup-oldurdu-42480090"
+      "https://www.hurriyet.com.tr/gundem/antalyada-ayten-cagiran-eski-esi-tarafindan-katledilmisti-katilin-cinayet-plani-notlari-ortaya-cikti-42623618"
     ],
-    "image": "http://anitsayac.com///i.anitsayac.com/ii/2002024.jpg",
-    "url": "http://anitsayac.com/details.aspx?id=36812"
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/4192024.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=40009"
+  },
+  {
+    "id": 36808,
+    "name": "Gülsüm Mertoğlu",
+    "fullname": "Gülsüm Mertoğlu",
+    "age": "Reşit",
+    "location": "İzmir",
+    "date": "22/06/2024",
+    "reason": "Boşanma Talebi, Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.t24.com.tr/haber/izmir-de-kadin-cinayeti-bosanma-asamasindaki-esini-defalarca-bicaklayarak-oldurdu,1170583",
+      "https://www.hurriyet.com.tr/gundem/cinayet-suphelisi-koca-240-saat-kamera-goruntusu-izlenerek-yakalandi-42480648"
+    ],
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/1972024.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=36808"
   },
   {
     "id": 36810,
@@ -5539,43 +5596,6 @@
     ],
     "image": "http://anitsayac.com///i.anitsayac.com/ii/1992024.jpg",
     "url": "http://anitsayac.com/details.aspx?id=36811"
-  },
-  {
-    "id": 36808,
-    "name": "Gülsüm Mertoğlu",
-    "fullname": "Gülsüm Mertoğlu",
-    "age": "Reşit",
-    "location": "İzmir",
-    "date": "22/06/2024",
-    "reason": "Boşanma Talebi, Tartışma",
-    "by": "Kocası",
-    "protection": "Yok",
-    "method": "Kesici Alet",
-    "status": "Tutuklu",
-    "source": [
-      "https://www.t24.com.tr/haber/izmir-de-kadin-cinayeti-bosanma-asamasindaki-esini-defalarca-bicaklayarak-oldurdu,1170583",
-      "https://www.hurriyet.com.tr/gundem/cinayet-suphelisi-koca-240-saat-kamera-goruntusu-izlenerek-yakalandi-42480648"
-    ],
-    "image": "http://anitsayac.com///i.anitsayac.com/ii/1972024.jpg",
-    "url": "http://anitsayac.com/details.aspx?id=36808"
-  },
-  {
-    "id": 40009,
-    "name": "Ayten Çağıran",
-    "fullname": "Ayten Çağıran",
-    "age": "Reşit",
-    "location": "Antalya",
-    "date": "22/06/2024",
-    "reason": "Tartışma",
-    "by": "Eskİ Kocası",
-    "protection": "Yok",
-    "method": "Kesici Alet",
-    "status": "Tutuklu",
-    "source": [
-      "https://www.hurriyet.com.tr/gundem/antalyada-ayten-cagiran-eski-esi-tarafindan-katledilmisti-katilin-cinayet-plani-notlari-ortaya-cikti-42623618"
-    ],
-    "image": "http://anitsayac.com///i.anitsayac.com/ii/4192024.jpg",
-    "url": "http://anitsayac.com/details.aspx?id=40009"
   },
   {
     "id": 36807,
@@ -6464,42 +6484,6 @@
     "url": "http://anitsayac.com/details.aspx?id=35752"
   },
   {
-    "id": 35731,
-    "name": "Saadet Çay",
-    "fullname": "Saadet Çay",
-    "age": "Reşit",
-    "location": "Samsun",
-    "date": "07/05/2024",
-    "reason": "Boşanma Talebi",
-    "by": "Kocası",
-    "protection": "Yok",
-    "method": "Ateşli Silah",
-    "status": "Tutuklu",
-    "source": [
-      "https://www.hurriyet.com.tr/gundem/planli-katil-42456994"
-    ],
-    "image": "http://anitsayac.com///i.anitsayac.com/ii/1312024.jpg",
-    "url": "http://anitsayac.com/details.aspx?id=35731"
-  },
-  {
-    "id": 35732,
-    "name": "Duygu Şirin",
-    "fullname": "Duygu Şirin",
-    "age": "Reşit",
-    "location": "Tekirdağ",
-    "date": "07/05/2024",
-    "reason": "Tartışma",
-    "by": "Kocası",
-    "protection": "Yok",
-    "method": "Ateşli Silah",
-    "status": "İntihar",
-    "source": [
-      "https://www.hurriyet.com.tr/gundem/tekirdagda-aile-katliami-tartistigi-esi-ve-oglunu-oldurdu-intihar-etti-42457051"
-    ],
-    "image": "http://anitsayac.com///i.anitsayac.com/ii/1322024.jpg",
-    "url": "http://anitsayac.com/details.aspx?id=35732"
-  },
-  {
     "id": 35742,
     "name": "Merve Kuvara",
     "fullname": "Merve Kuvara",
@@ -6552,6 +6536,42 @@
     ],
     "image": "http://anitsayac.com///i.anitsayac.com/ii/1422024.jpg",
     "url": "http://anitsayac.com/details.aspx?id=35744"
+  },
+  {
+    "id": 35731,
+    "name": "Saadet Çay",
+    "fullname": "Saadet Çay",
+    "age": "Reşit",
+    "location": "Samsun",
+    "date": "07/05/2024",
+    "reason": "Boşanma Talebi",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/planli-katil-42456994"
+    ],
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/1312024.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=35731"
+  },
+  {
+    "id": 35732,
+    "name": "Duygu Şirin",
+    "fullname": "Duygu Şirin",
+    "age": "Reşit",
+    "location": "Tekirdağ",
+    "date": "07/05/2024",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/tekirdagda-aile-katliami-tartistigi-esi-ve-oglunu-oldurdu-intihar-etti-42457051"
+    ],
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/1322024.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=35732"
   },
   {
     "id": 35729,
@@ -6754,24 +6774,6 @@
     "url": "http://anitsayac.com/details.aspx?id=35713"
   },
   {
-    "id": 35734,
-    "name": "Gözde Yılmaz",
-    "fullname": "Gözde Yılmaz",
-    "age": "Reşit",
-    "location": "Manisa",
-    "date": "30/04/2024",
-    "reason": "Tartışma",
-    "by": "Sevgilisi",
-    "protection": "Yok",
-    "method": "Ateşli Silah",
-    "status": "İntihara Teşebbüs",
-    "source": [
-      "https://www.ntv.com.tr/turkiye/bahadir-erdem-chpye-katildi%20eeee,-zBnthDT_keXFUS-uKbTRw"
-    ],
-    "image": "http://anitsayac.com///i.anitsayac.com/ii/1342024.jpg",
-    "url": "http://anitsayac.com/details.aspx?id=35734"
-  },
-  {
     "id": 35739,
     "name": "Esra Y.",
     "fullname": "Esra Y.",
@@ -6788,6 +6790,24 @@
     ],
     "image": "http://anitsayac.com///i.anitsayac.com/ii/1372024.jpg",
     "url": "http://anitsayac.com/details.aspx?id=35739"
+  },
+  {
+    "id": 35734,
+    "name": "Gözde Yılmaz",
+    "fullname": "Gözde Yılmaz",
+    "age": "Reşit",
+    "location": "Manisa",
+    "date": "30/04/2024",
+    "reason": "Tartışma",
+    "by": "Sevgilisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihara Teşebbüs",
+    "source": [
+      "https://www.ntv.com.tr/turkiye/bahadir-erdem-chpye-katildi%20eeee,-zBnthDT_keXFUS-uKbTRw"
+    ],
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/1342024.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=35734"
   },
   {
     "id": 35714,
@@ -6988,42 +7008,6 @@
     "url": "http://anitsayac.com/details.aspx?id=35745"
   },
   {
-    "id": 35724,
-    "name": "F.C.",
-    "fullname": "F.C.",
-    "age": "Reşit",
-    "location": "Kırıkkale",
-    "date": "24/04/2024",
-    "reason": "Tartışma",
-    "by": "Sevgilisi",
-    "protection": "Yok",
-    "method": "Kesici Alet",
-    "status": "Tutuklu",
-    "source": [
-      "https://www.ensonhaber.com/3-sayfa/kirikkalede-kadin-cinayeti-sevgilisi-bogazindan-bicaklayarak-oldurdu"
-    ],
-    "image": "http://anitsayac.com///i.anitsayac.com/ii/1242024.jpg",
-    "url": "http://anitsayac.com/details.aspx?id=35724"
-  },
-  {
-    "id": 38976,
-    "name": "Yaren Küçük",
-    "fullname": "Yaren Küçük",
-    "age": "Reşit",
-    "location": "Kahramanmaraş",
-    "date": "24/04/2024",
-    "reason": "Tespit Edilemeyen",
-    "by": "Tanımadığı Birisi",
-    "protection": "Yok",
-    "method": "Ateşli Silah",
-    "status": "İntihar",
-    "source": [
-      "https://www.ntv.com.tr/turkiye/sokak-ortasinda-cinayet-yareni-oldurup-intihar-etti,1kkEy3Pg9EOYKi4RoX_lPg"
-    ],
-    "image": "http://anitsayac.com///i.anitsayac.com/ii/3592024.jpg",
-    "url": "http://anitsayac.com/details.aspx?id=38976"
-  },
-  {
     "id": 35710,
     "name": "Sultan Akgül",
     "fullname": "Sultan Akgül",
@@ -7058,6 +7042,42 @@
     ],
     "image": "http://anitsayac.com///i.anitsayac.com/ii/1112024.jpg",
     "url": "http://anitsayac.com/details.aspx?id=35711"
+  },
+  {
+    "id": 35724,
+    "name": "F.C.",
+    "fullname": "F.C.",
+    "age": "Reşit",
+    "location": "Kırıkkale",
+    "date": "24/04/2024",
+    "reason": "Tartışma",
+    "by": "Sevgilisi",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.ensonhaber.com/3-sayfa/kirikkalede-kadin-cinayeti-sevgilisi-bogazindan-bicaklayarak-oldurdu"
+    ],
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/1242024.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=35724"
+  },
+  {
+    "id": 38976,
+    "name": "Yaren Küçük",
+    "fullname": "Yaren Küçük",
+    "age": "Reşit",
+    "location": "Kahramanmaraş",
+    "date": "24/04/2024",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tanımadığı Birisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.ntv.com.tr/turkiye/sokak-ortasinda-cinayet-yareni-oldurup-intihar-etti,1kkEy3Pg9EOYKi4RoX_lPg"
+    ],
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/3592024.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=38976"
   },
   {
     "id": 35707,
@@ -7456,24 +7476,6 @@
     "url": "http://anitsayac.com/details.aspx?id=35695"
   },
   {
-    "id": 35694,
-    "name": "Naciye Cengiz",
-    "fullname": "Naciye Cengiz",
-    "age": "Reşit",
-    "location": "Gaziantep",
-    "date": "29/03/2024 ",
-    "reason": "Tespit Edilemeyen",
-    "by": "Tespit Edilemeyen",
-    "protection": "Yok",
-    "method": "Ateşli Silah",
-    "status": "Tespit Edilemeyen",
-    "source": [
-      "https://www.hurriyet.com.tr/gundem/gaziantepte-kadin-cinayeti-yol-kenarinda-olu-bulundu-42436078"
-    ],
-    "image": "http://anitsayac.com///i.anitsayac.com/ii/942024.jpg",
-    "url": "http://anitsayac.com/details.aspx?id=35694"
-  },
-  {
     "id": 35691,
     "name": "Neşe G.",
     "fullname": "Neşe G.",
@@ -7508,6 +7510,24 @@
     ],
     "image": "http://anitsayac.com///i.anitsayac.com/ii/922024.jpg",
     "url": "http://anitsayac.com/details.aspx?id=35692"
+  },
+  {
+    "id": 35694,
+    "name": "Naciye Cengiz",
+    "fullname": "Naciye Cengiz",
+    "age": "Reşit",
+    "location": "Gaziantep",
+    "date": "29/03/2024 ",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tespit Edilemeyen",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/gaziantepte-kadin-cinayeti-yol-kenarinda-olu-bulundu-42436078"
+    ],
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/942024.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=35694"
   },
   {
     "id": 40076,
@@ -8359,24 +8379,6 @@
     "url": "http://anitsayac.com/details.aspx?id=35648"
   },
   {
-    "id": 35645,
-    "name": "Gülhan Korkmaz",
-    "fullname": "Gülhan Korkmaz",
-    "age": "Reşit",
-    "location": "Gaziantep ",
-    "date": "13/02/2024",
-    "reason": "Tartışma",
-    "by": "Dini Nikahlı Eşi",
-    "protection": "Yok",
-    "method": "Ateşli Silah",
-    "status": "Tutuklu",
-    "source": [
-      "https://www.milliyet.com.tr/gundem/dini-nikahli-koca-katliam-yapti-anne-ve-oglunu-oldurdu-7078399"
-    ],
-    "image": "http://anitsayac.com///i.anitsayac.com/ii/522024.jpg",
-    "url": "http://anitsayac.com/details.aspx?id=35645"
-  },
-  {
     "id": 35642,
     "name": "Beste Ayşegül Yeşilyurt",
     "fullname": "Beste Ayşegül Yeşilyurt",
@@ -8411,6 +8413,24 @@
     ],
     "image": "http://anitsayac.com///i.anitsayac.com/ii/502024.jpg",
     "url": "http://anitsayac.com/details.aspx?id=35643"
+  },
+  {
+    "id": 35645,
+    "name": "Gülhan Korkmaz",
+    "fullname": "Gülhan Korkmaz",
+    "age": "Reşit",
+    "location": "Gaziantep ",
+    "date": "13/02/2024",
+    "reason": "Tartışma",
+    "by": "Dini Nikahlı Eşi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.milliyet.com.tr/gundem/dini-nikahli-koca-katliam-yapti-anne-ve-oglunu-oldurdu-7078399"
+    ],
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/522024.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=35645"
   },
   {
     "id": 35644,
@@ -8630,6 +8650,24 @@
     "url": "http://anitsayac.com/details.aspx?id=35621"
   },
   {
+    "id": 35616,
+    "name": "Yüksel Çağlar",
+    "fullname": "Yüksel Çağlar",
+    "age": "Reşit",
+    "location": "Gaziantep",
+    "date": "29/01/2024",
+    "reason": "Boşanma Talebi",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.milliyet.com.tr/gundem/son-dakika-gaziantepte-aile-katliami-damat-kursun-yagdirdi-4-olu-3-yarali-7071150"
+    ],
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/292024.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=35616"
+  },
+  {
     "id": 35631,
     "name": "Adile Oymak",
     "fullname": "Adile Oymak",
@@ -8701,24 +8739,6 @@
     ],
     "image": "http://anitsayac.com///i.anitsayac.com/ii/282024.jpg",
     "url": "http://anitsayac.com/details.aspx?id=35614"
-  },
-  {
-    "id": 35616,
-    "name": "Yüksel Çağlar",
-    "fullname": "Yüksel Çağlar",
-    "age": "Reşit",
-    "location": "Gaziantep",
-    "date": "29/01/2024",
-    "reason": "Boşanma Talebi",
-    "by": "Kocası",
-    "protection": "Yok",
-    "method": "Ateşli Silah",
-    "status": "İntihar",
-    "source": [
-      "https://www.milliyet.com.tr/gundem/son-dakika-gaziantepte-aile-katliami-damat-kursun-yagdirdi-4-olu-3-yarali-7071150"
-    ],
-    "image": "http://anitsayac.com///i.anitsayac.com/ii/292024.jpg",
-    "url": "http://anitsayac.com/details.aspx?id=35616"
   },
   {
     "id": 35611,
@@ -9910,24 +9930,6 @@
     "url": "http://anitsayac.com/details.aspx?id=33569"
   },
   {
-    "id": 33566,
-    "name": "Gülcan Yeşilmen",
-    "fullname": "Gülcan Yeşilmen",
-    "age": "Reşit",
-    "location": "Mardin",
-    "date": "23/11/2023",
-    "reason": "Tespit Edilemeyen",
-    "by": "Tespit Edilemeyen",
-    "protection": "Yok",
-    "method": "Ateşli Silah",
-    "status": "Soruşturma Sürüyor",
-    "source": [
-      "https://www.sozcu.com.tr/2023/gundem/evde-karnindan-vurulan-gulcan-katledildi-polis-sevgilisi-gozaltinda-7870469/"
-    ],
-    "image": "http://anitsayac.com///i.anitsayac.com/ii/3552023.jpg",
-    "url": "http://anitsayac.com/details.aspx?id=33566"
-  },
-  {
     "id": 33568,
     "name": "Ajda Yatar",
     "fullname": "Ajda Yatar",
@@ -9944,6 +9946,24 @@
     ],
     "image": "http://anitsayac.com///i.anitsayac.com/ii/3572023.jpg",
     "url": "http://anitsayac.com/details.aspx?id=33568"
+  },
+  {
+    "id": 33566,
+    "name": "Gülcan Yeşilmen",
+    "fullname": "Gülcan Yeşilmen",
+    "age": "Reşit",
+    "location": "Mardin",
+    "date": "23/11/2023",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.sozcu.com.tr/2023/gundem/evde-karnindan-vurulan-gulcan-katledildi-polis-sevgilisi-gozaltinda-7870469/"
+    ],
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/3552023.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=33566"
   },
   {
     "id": 33565,
@@ -10977,42 +10997,6 @@
     "url": "http://anitsayac.com/details.aspx?id=31540"
   },
   {
-    "id": 31533,
-    "name": "Cemile Güllü",
-    "fullname": "Cemile Güllü",
-    "age": "Reşit",
-    "location": "Mersin",
-    "date": "28/09/2023",
-    "reason": "Tespit Edilemeyen",
-    "by": "Tespit Edilemeyen",
-    "protection": "Yok",
-    "method": "Kesici Alet",
-    "status": "Tespit Edilemeyen",
-    "source": [
-      "https://www.t24.com.tr/haber/isten-eve-donen-adam-karisini-bogazi-kesilmis-halde-buldu,1132129"
-    ],
-    "image": "http://anitsayac.com///i.anitsayac.com/ii/2982023.jpg",
-    "url": "http://anitsayac.com/details.aspx?id=31533"
-  },
-  {
-    "id": 31534,
-    "name": "Z.G.",
-    "fullname": "Z.G.",
-    "age": "Reşit",
-    "location": "Çorum",
-    "date": "28/09/2023",
-    "reason": "Tartışma",
-    "by": "Eski Kocası",
-    "protection": "Yok",
-    "method": "Kesici Alet",
-    "status": "Tutuklu",
-    "source": [
-      "https://www.t24.com.tr/haber/bicaklandiktan-sonra-magazaya-siginan-kadin-hastanede-hayatini-kaybetti-eski-esini-yaraladiktan-sonra-parka-gidip-oturmus,1132258"
-    ],
-    "image": "http://anitsayac.com///i.anitsayac.com/ii/2992023.jpg",
-    "url": "http://anitsayac.com/details.aspx?id=31534"
-  },
-  {
     "id": 31537,
     "name": "Açelya Yıldırım",
     "fullname": "Açelya Yıldırım",
@@ -11047,6 +11031,42 @@
     ],
     "image": "http://anitsayac.com///i.anitsayac.com/ii/3032023.jpg",
     "url": "http://anitsayac.com/details.aspx?id=31538"
+  },
+  {
+    "id": 31533,
+    "name": "Cemile Güllü",
+    "fullname": "Cemile Güllü",
+    "age": "Reşit",
+    "location": "Mersin",
+    "date": "28/09/2023",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tespit Edilemeyen",
+    "source": [
+      "https://www.t24.com.tr/haber/isten-eve-donen-adam-karisini-bogazi-kesilmis-halde-buldu,1132129"
+    ],
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/2982023.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=31533"
+  },
+  {
+    "id": 31534,
+    "name": "Z.G.",
+    "fullname": "Z.G.",
+    "age": "Reşit",
+    "location": "Çorum",
+    "date": "28/09/2023",
+    "reason": "Tartışma",
+    "by": "Eski Kocası",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.t24.com.tr/haber/bicaklandiktan-sonra-magazaya-siginan-kadin-hastanede-hayatini-kaybetti-eski-esini-yaraladiktan-sonra-parka-gidip-oturmus,1132258"
+    ],
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/2992023.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=31534"
   },
   {
     "id": 35690,
@@ -11175,24 +11195,6 @@
     "url": "http://anitsayac.com/details.aspx?id=31536"
   },
   {
-    "id": 31529,
-    "name": "Fatma Özer",
-    "fullname": "Fatma Özer",
-    "age": "Reşit",
-    "location": "İstanbul",
-    "date": "22/09/2023",
-    "reason": "Tespit Edilemeyen",
-    "by": "Kocası",
-    "protection": "Yok",
-    "method": "Ateşli Silah",
-    "status": "İntihar",
-    "source": [
-      "https://www.t24.com.tr/haber/kadin-cinayetleri-bitmiyor-esenyurt-ta-bir-erkek-esini-tabancayla-katletti,1131250"
-    ],
-    "image": "http://anitsayac.com///i.anitsayac.com/ii/2942023.jpg",
-    "url": "http://anitsayac.com/details.aspx?id=31529"
-  },
-  {
     "id": 31535,
     "name": "Sehliye Özel",
     "fullname": "Sehliye Özel",
@@ -11209,6 +11211,24 @@
     ],
     "image": "http://anitsayac.com///i.anitsayac.com/ii/3002023.jpg",
     "url": "http://anitsayac.com/details.aspx?id=31535"
+  },
+  {
+    "id": 31529,
+    "name": "Fatma Özer",
+    "fullname": "Fatma Özer",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "22/09/2023",
+    "reason": "Tespit Edilemeyen",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.t24.com.tr/haber/kadin-cinayetleri-bitmiyor-esenyurt-ta-bir-erkek-esini-tabancayla-katletti,1131250"
+    ],
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/2942023.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=31529"
   },
   {
     "id": 38935,
@@ -11952,24 +11972,6 @@
     "url": "http://anitsayac.com/details.aspx?id=30419"
   },
   {
-    "id": 31492,
-    "name": "Fatma Taştan",
-    "fullname": "Fatma Taştan",
-    "age": "Reşit",
-    "location": "Urfa",
-    "date": "29/08/2023",
-    "reason": "Tespit Edilemeyen",
-    "by": "Tespit Edilemeyen",
-    "protection": "Yok",
-    "method": "Ateşli Silah",
-    "status": "Tespit Edilemeyen",
-    "source": [
-      "https://artigercek.com/kadin/urfada-supheli-kadin-olumu-1-263296h"
-    ],
-    "image": "http://anitsayac.com///i.anitsayac.com/ii/2582023.jpg",
-    "url": "http://anitsayac.com/details.aspx?id=31492"
-  },
-  {
     "id": 31479,
     "name": "Uygun İncirli",
     "fullname": "Uygun İncirli",
@@ -11986,6 +11988,24 @@
     ],
     "image": "http://anitsayac.com///i.anitsayac.com/ii/2462023.jpg",
     "url": "http://anitsayac.com/details.aspx?id=31479"
+  },
+  {
+    "id": 31492,
+    "name": "Fatma Taştan",
+    "fullname": "Fatma Taştan",
+    "age": "Reşit",
+    "location": "Urfa",
+    "date": "29/08/2023",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tespit Edilemeyen",
+    "source": [
+      "https://artigercek.com/kadin/urfada-supheli-kadin-olumu-1-263296h"
+    ],
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/2582023.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=31492"
   },
   {
     "id": 31468,
@@ -12006,24 +12026,6 @@
     "url": "http://anitsayac.com/details.aspx?id=31468"
   },
   {
-    "id": 31467,
-    "name": "İklime Başkaya",
-    "fullname": "İklime Başkaya",
-    "age": "Reşit",
-    "location": "Konya",
-    "date": "28/08/2023",
-    "reason": "Tartışma",
-    "by": "Kocası",
-    "protection": "Yok",
-    "method": "Ateşli Silah",
-    "status": "Tutuklu",
-    "source": [
-      "https://haberdairesi.com/konya/konyada-kocasinin-vurdugu-kadin-oldu-106228h"
-    ],
-    "image": "http://anitsayac.com///i.anitsayac.com/ii/2402023.jpg",
-    "url": "http://anitsayac.com/details.aspx?id=31467"
-  },
-  {
     "id": 31483,
     "name": "Hacer Büyükkülekçi",
     "fullname": "Hacer Büyükkülekçi",
@@ -12042,22 +12044,22 @@
     "url": "http://anitsayac.com/details.aspx?id=31483"
   },
   {
-    "id": 31472,
-    "name": "Safa Razzuk",
-    "fullname": "Safa Razzuk",
+    "id": 31467,
+    "name": "İklime Başkaya",
+    "fullname": "İklime Başkaya",
     "age": "Reşit",
     "location": "Konya",
-    "date": "26/08/2023",
+    "date": "28/08/2023",
     "reason": "Tartışma",
     "by": "Kocası",
     "protection": "Yok",
-    "method": "Kesici Alet",
+    "method": "Ateşli Silah",
     "status": "Tutuklu",
     "source": [
-      "https://haberdairesi.com/konya/konyada-bir-kisi-karisini-oldurdu-106152h"
+      "https://haberdairesi.com/konya/konyada-kocasinin-vurdugu-kadin-oldu-106228h"
     ],
-    "image": "http://anitsayac.com///i.anitsayac.com/ii/2452023.jpg",
-    "url": "http://anitsayac.com/details.aspx?id=31472"
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/2402023.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=31467"
   },
   {
     "id": 31465,
@@ -12076,6 +12078,24 @@
     ],
     "image": "http://anitsayac.com///i.anitsayac.com/ii/2382023.jpg",
     "url": "http://anitsayac.com/details.aspx?id=31465"
+  },
+  {
+    "id": 31472,
+    "name": "Safa Razzuk",
+    "fullname": "Safa Razzuk",
+    "age": "Reşit",
+    "location": "Konya",
+    "date": "26/08/2023",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://haberdairesi.com/konya/konyada-bir-kisi-karisini-oldurdu-106152h"
+    ],
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/2452023.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=31472"
   },
   {
     "id": 31453,
@@ -12186,24 +12206,6 @@
     "url": "http://anitsayac.com/details.aspx?id=29422"
   },
   {
-    "id": 31463,
-    "name": "İvanna C.",
-    "fullname": "İvanna C.",
-    "age": "Reşit",
-    "location": "İstanbul",
-    "date": "21/08/2023",
-    "reason": "Tartışma",
-    "by": "Kocasının Oğlu",
-    "protection": "Yok",
-    "method": "Kesici Alet",
-    "status": "Tutuklu",
-    "source": [
-      "https://www.sabah.com.tr/yasam/kumanda-icin-uvey-annesini-oldurdu-6593655"
-    ],
-    "image": "http://anitsayac.com///i.anitsayac.com/ii/2362023.jpg",
-    "url": "http://anitsayac.com/details.aspx?id=31463"
-  },
-  {
     "id": 31471,
     "name": "Nuket Gezererkaya",
     "fullname": "Nuket Gezererkaya",
@@ -12220,6 +12222,24 @@
     ],
     "image": "http://anitsayac.com///i.anitsayac.com/ii/2442023.jpg",
     "url": "http://anitsayac.com/details.aspx?id=31471"
+  },
+  {
+    "id": 31463,
+    "name": "İvanna C.",
+    "fullname": "İvanna C.",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "21/08/2023",
+    "reason": "Tartışma",
+    "by": "Kocasının Oğlu",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.sabah.com.tr/yasam/kumanda-icin-uvey-annesini-oldurdu-6593655"
+    ],
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/2362023.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=31463"
   },
   {
     "id": 37904,
@@ -12909,24 +12929,6 @@
     "url": "http://anitsayac.com/details.aspx?id=26421"
   },
   {
-    "id": 31444,
-    "name": "Zehra Aysel Çatal",
-    "fullname": "Zehra Aysel Çatal",
-    "age": "Reşit",
-    "location": "Hatay",
-    "date": "22/07/2023",
-    "reason": "Tartışma",
-    "by": "Eskİ Kocası",
-    "protection": "Yok",
-    "method": "Ateşli Silah",
-    "status": "Tespit Edilemeyen",
-    "source": [
-      "https://hataydanhaber.com/iki-kadin-iki-cani/"
-    ],
-    "image": "http://anitsayac.com///i.anitsayac.com/ii/2172023.jpg",
-    "url": "http://anitsayac.com/details.aspx?id=31444"
-  },
-  {
     "id": 26417,
     "name": "Zübeyde Timur",
     "fullname": "Zübeyde Timur",
@@ -12961,6 +12963,24 @@
     ],
     "image": "http://anitsayac.com///i.anitsayac.com/ii/1462023.jpg",
     "url": "http://anitsayac.com/details.aspx?id=26418"
+  },
+  {
+    "id": 31444,
+    "name": "Zehra Aysel Çatal",
+    "fullname": "Zehra Aysel Çatal",
+    "age": "Reşit",
+    "location": "Hatay",
+    "date": "22/07/2023",
+    "reason": "Tartışma",
+    "by": "Eskİ Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tespit Edilemeyen",
+    "source": [
+      "https://hataydanhaber.com/iki-kadin-iki-cani/"
+    ],
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/2172023.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=31444"
   },
   {
     "id": 26414,
@@ -15041,24 +15061,6 @@
     "url": "http://anitsayac.com/details.aspx?id=24370"
   },
   {
-    "id": 31523,
-    "name": "Huri Yoğun",
-    "fullname": "Huri Yoğun",
-    "age": "Reşit",
-    "location": "Antalya",
-    "date": "02/05/2023",
-    "reason": "Tespit Edilemeyen",
-    "by": "Tespit Edilemeyen",
-    "protection": "Yok",
-    "method": "Tespit Edilemeyen",
-    "status": "Tespit Edilemeyen",
-    "source": [
-      "https://haberglobal.com.tr/gundem/antalyada-supheli-kadin-olumu-2-cocuk-annesi-huri-yogun-ormanlik-alanda-yasadigi-konteynerde-olu-bulundu-248101"
-    ],
-    "image": "http://anitsayac.com///i.anitsayac.com/ii/2882023.jpg",
-    "url": "http://anitsayac.com/details.aspx?id=31523"
-  },
-  {
     "id": 31510,
     "name": "Sultan Kaya",
     "fullname": "Sultan Kaya",
@@ -15075,6 +15077,24 @@
     ],
     "image": "http://anitsayac.com///i.anitsayac.com/ii/2752023.jpg",
     "url": "http://anitsayac.com/details.aspx?id=31510"
+  },
+  {
+    "id": 31523,
+    "name": "Huri Yoğun",
+    "fullname": "Huri Yoğun",
+    "age": "Reşit",
+    "location": "Antalya",
+    "date": "02/05/2023",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Tespit Edilemeyen",
+    "source": [
+      "https://haberglobal.com.tr/gundem/antalyada-supheli-kadin-olumu-2-cocuk-annesi-huri-yogun-ormanlik-alanda-yasadigi-konteynerde-olu-bulundu-248101"
+    ],
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/2882023.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=31523"
   },
   {
     "id": 31519,
@@ -15782,24 +15802,6 @@
     "url": "http://anitsayac.com/details.aspx?id=22346"
   },
   {
-    "id": 22348,
-    "name": "D.R.",
-    "fullname": "D.R.",
-    "age": "Reşit",
-    "location": "İstanbul",
-    "date": "09/03/2023",
-    "reason": "Kıskançlık",
-    "by": "Sevgilisi",
-    "protection": "Yok",
-    "method": "Kesici Alet",
-    "status": "Tutuklu",
-    "source": [
-      "https://www.hurriyet.com.tr/gundem/esenyurtta-rezidansin-girisindeki-cinayet-kamerada-42232950"
-    ],
-    "image": "http://anitsayac.com///i.anitsayac.com/ii/522023.jpg",
-    "url": "http://anitsayac.com/details.aspx?id=22348"
-  },
-  {
     "id": 22345,
     "name": "Miray Atmaca",
     "fullname": "Miray Atmaca",
@@ -15816,6 +15818,24 @@
     ],
     "image": "http://anitsayac.com///i.anitsayac.com/ii/492023.jpg",
     "url": "http://anitsayac.com/details.aspx?id=22345"
+  },
+  {
+    "id": 22348,
+    "name": "D.R.",
+    "fullname": "D.R.",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "09/03/2023",
+    "reason": "Kıskançlık",
+    "by": "Sevgilisi",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/esenyurtta-rezidansin-girisindeki-cinayet-kamerada-42232950"
+    ],
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/522023.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=22348"
   },
   {
     "id": 22341,
@@ -16615,24 +16635,6 @@
     "url": "http://anitsayac.com/details.aspx?id=20323"
   },
   {
-    "id": 21337,
-    "name": "Nuran Kayar",
-    "fullname": "Nuran Kayar",
-    "age": "Reşit",
-    "location": "Balıkesir",
-    "date": "09/01/2023",
-    "reason": "Tespit Edilemeyen",
-    "by": "Tespit Edilemeyen",
-    "protection": "Yok",
-    "method": "Tespit Edilemeyen",
-    "status": "Tespit Edilemeyen",
-    "source": [
-      "https://medyabar.com/haber/13639122/nuran-cinayete-mi-kurban-gitti-o-saatlerde-bir-kadin-kacirildi-paylasimi"
-    ],
-    "image": "http://anitsayac.com///i.anitsayac.com/ii/392023.jpg",
-    "url": "http://anitsayac.com/details.aspx?id=21337"
-  },
-  {
     "id": 20320,
     "name": "Necmiye Vural",
     "fullname": "Necmiye Vural ",
@@ -16685,6 +16687,24 @@
     ],
     "image": "http://anitsayac.com///i.anitsayac.com/ii/082023.jpg",
     "url": "http://anitsayac.com/details.aspx?id=20322"
+  },
+  {
+    "id": 21337,
+    "name": "Nuran Kayar",
+    "fullname": "Nuran Kayar",
+    "age": "Reşit",
+    "location": "Balıkesir",
+    "date": "09/01/2023",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Tespit Edilemeyen",
+    "source": [
+      "https://medyabar.com/haber/13639122/nuran-cinayete-mi-kurban-gitti-o-saatlerde-bir-kadin-kacirildi-paylasimi"
+    ],
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/392023.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=21337"
   },
   {
     "id": 20317,
@@ -16832,24 +16852,6 @@
     "url": "http://anitsayac.com/details.aspx?id=20312"
   },
   {
-    "id": 20308,
-    "name": "İclal Şİmşek",
-    "fullname": "İclal Şİmşek",
-    "age": "Reşit",
-    "location": "Diyarbakır",
-    "date": "26/12/2022",
-    "reason": "Tartışma",
-    "by": "Babası",
-    "protection": "Yok",
-    "method": "Boğularak, Darp",
-    "status": "Tutuklu",
-    "source": [
-      "https://www.milliyet.com.tr/gundem/iclal-uykusunda-oldu-denildi-korkunc-gercek-ortaya-cikti-6878100"
-    ],
-    "image": "http://anitsayac.com///i.anitsayac.com/ii/3872022.jpg",
-    "url": "http://anitsayac.com/details.aspx?id=20308"
-  },
-  {
     "id": 20310,
     "name": "Nuran Fırat",
     "fullname": "Nuran Fırat",
@@ -16887,6 +16889,24 @@
     "url": "http://anitsayac.com/details.aspx?id=20311"
   },
   {
+    "id": 20308,
+    "name": "İclal Şİmşek",
+    "fullname": "İclal Şİmşek",
+    "age": "Reşit",
+    "location": "Diyarbakır",
+    "date": "26/12/2022",
+    "reason": "Tartışma",
+    "by": "Babası",
+    "protection": "Yok",
+    "method": "Boğularak, Darp",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.milliyet.com.tr/gundem/iclal-uykusunda-oldu-denildi-korkunc-gercek-ortaya-cikti-6878100"
+    ],
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/3872022.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=20308"
+  },
+  {
     "id": 20309,
     "name": "Esma Nur Bakan",
     "fullname": "Esma Nur Bakan",
@@ -16903,24 +16923,6 @@
     ],
     "image": "http://anitsayac.com///i.anitsayac.com/ii/3882022.jpg",
     "url": "http://anitsayac.com/details.aspx?id=20309"
-  },
-  {
-    "id": 20303,
-    "name": "Pelin Ceylan",
-    "fullname": "Pelin Ceylan",
-    "age": "Reşit",
-    "location": "Ankara",
-    "date": "24/12/2022",
-    "reason": "Tespit Edilemeyen",
-    "by": "Eski Kocası",
-    "protection": "Yok",
-    "method": "Ateşli Silah",
-    "status": "Tutuklu",
-    "source": [
-      "https://t24.com.tr/haber/ankara-da-kadin-cinayeti-bosandigi-erkek-tarafindan-vurulan-pelin-ceylan-hayatini-kaybetti,1081041"
-    ],
-    "image": "http://anitsayac.com///i.anitsayac.com/ii/3822022.jpg",
-    "url": "http://anitsayac.com/details.aspx?id=20303"
   },
   {
     "id": 20305,
@@ -16976,6 +16978,24 @@
     ],
     "image": "http://anitsayac.com///i.anitsayac.com/ii/3862022.jpg",
     "url": "http://anitsayac.com/details.aspx?id=20307"
+  },
+  {
+    "id": 20303,
+    "name": "Pelin Ceylan",
+    "fullname": "Pelin Ceylan",
+    "age": "Reşit",
+    "location": "Ankara",
+    "date": "24/12/2022",
+    "reason": "Tespit Edilemeyen",
+    "by": "Eski Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://t24.com.tr/haber/ankara-da-kadin-cinayeti-bosandigi-erkek-tarafindan-vurulan-pelin-ceylan-hayatini-kaybetti,1081041"
+    ],
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/3822022.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=20303"
   },
   {
     "id": 21305,
@@ -17068,6 +17088,24 @@
     "url": "http://anitsayac.com/details.aspx?id=20302"
   },
   {
+    "id": 19330,
+    "name": "M.J.",
+    "fullname": "M.J.",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "12/12/2022",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Yüksekten Düşme",
+    "status": "Tespit Edilemeyen",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/esenyurtta-iranli-kadinin-sir-olumu-10-kattan-dustu-42186217"
+    ],
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/3732022.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=19330"
+  },
+  {
     "id": 19327,
     "name": "Gisela Uysal",
     "fullname": "Gisela Uysal",
@@ -17102,24 +17140,6 @@
     ],
     "image": "http://anitsayac.com///i.anitsayac.com/ii/3712022.jpg",
     "url": "http://anitsayac.com/details.aspx?id=19328"
-  },
-  {
-    "id": 19330,
-    "name": "M.J.",
-    "fullname": "M.J.",
-    "age": "Reşit",
-    "location": "İstanbul",
-    "date": "12/12/2022",
-    "reason": "Tespit Edilemeyen",
-    "by": "Tespit Edilemeyen",
-    "protection": "Yok",
-    "method": "Yüksekten Düşme",
-    "status": "Tespit Edilemeyen",
-    "source": [
-      "https://www.hurriyet.com.tr/gundem/esenyurtta-iranli-kadinin-sir-olumu-10-kattan-dustu-42186217"
-    ],
-    "image": "http://anitsayac.com///i.anitsayac.com/ii/3732022.jpg",
-    "url": "http://anitsayac.com/details.aspx?id=19330"
   },
   {
     "id": 19329,
@@ -17953,24 +17973,6 @@
     "url": "http://anitsayac.com/details.aspx?id=19294"
   },
   {
-    "id": 18301,
-    "name": "Huriye Zeybek",
-    "fullname": "Huriye Zeybek",
-    "age": "Reşit",
-    "location": "Manisa",
-    "date": "23/10/2022",
-    "reason": "Tespit Edilemeyen",
-    "by": "Kocası",
-    "protection": "Yok",
-    "method": "Kesici Alet",
-    "status": "Tutuklu",
-    "source": [
-      "https://www.tgrthaber.com.tr/gundem/manisada-huriye-zeybek-esi-tarafindan-bicaklanarak-olduruldu-2851485"
-    ],
-    "image": "http://anitsayac.com///i.anitsayac.com/ii/3242022.jpg",
-    "url": "http://anitsayac.com/details.aspx?id=18301"
-  },
-  {
     "id": 18299,
     "name": "Mevlüde Aluçlu",
     "fullname": "Mevlüde Aluçlu",
@@ -17987,6 +17989,24 @@
     ],
     "image": "http://anitsayac.com///i.anitsayac.com/ii/3222022.jpg",
     "url": "http://anitsayac.com/details.aspx?id=18299"
+  },
+  {
+    "id": 18301,
+    "name": "Huriye Zeybek",
+    "fullname": "Huriye Zeybek",
+    "age": "Reşit",
+    "location": "Manisa",
+    "date": "23/10/2022",
+    "reason": "Tespit Edilemeyen",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.tgrthaber.com.tr/gundem/manisada-huriye-zeybek-esi-tarafindan-bicaklanarak-olduruldu-2851485"
+    ],
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/3242022.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=18301"
   },
   {
     "id": 35791,
@@ -18783,6 +18803,24 @@
     "url": "http://anitsayac.com/details.aspx?id=16284"
   },
   {
+    "id": 16283,
+    "name": "Buse İlgin",
+    "fullname": "Buse İlgin",
+    "age": "Reşit",
+    "location": "Tekirdağ",
+    "date": "17/09/2022",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Tespit Edilemeyen",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/busenin-supheli-olumu-42138708"
+    ],
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/2852022.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=16283"
+  },
+  {
     "id": 16280,
     "name": "Vildan Boduroğlu",
     "fullname": "Vildan Boduroğlu",
@@ -18817,24 +18855,6 @@
     ],
     "image": "http://anitsayac.com///i.anitsayac.com/ii/2832022.jpg",
     "url": "http://anitsayac.com/details.aspx?id=16281"
-  },
-  {
-    "id": 16283,
-    "name": "Buse İlgin",
-    "fullname": "Buse İlgin",
-    "age": "Reşit",
-    "location": "Tekirdağ",
-    "date": "17/09/2022",
-    "reason": "Tespit Edilemeyen",
-    "by": "Tespit Edilemeyen",
-    "protection": "Yok",
-    "method": "Tespit Edilemeyen",
-    "status": "Tespit Edilemeyen",
-    "source": [
-      "https://www.hurriyet.com.tr/gundem/busenin-supheli-olumu-42138708"
-    ],
-    "image": "http://anitsayac.com///i.anitsayac.com/ii/2852022.jpg",
-    "url": "http://anitsayac.com/details.aspx?id=16283"
   },
   {
     "id": 16282,
@@ -19307,6 +19327,24 @@
     "url": "http://anitsayac.com/details.aspx?id=20304"
   },
   {
+    "id": 16257,
+    "name": "Ayşen Çöl",
+    "fullname": "Ayşen Çöl",
+    "age": "Reşit",
+    "location": "Ankara",
+    "date": "19/08/2022",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Vurucu Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/emlak-firmasinin-kopegi-topragi-eseleyince-vahset-ortaya-cikti-basina-cekicle-vurarak-oldurmus-42122263"
+    ],
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/2622022.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=16257"
+  },
+  {
     "id": 16255,
     "name": "Gülten İnan",
     "fullname": "Gülten İnan",
@@ -19324,24 +19362,6 @@
     ],
     "image": "http://anitsayac.com///i.anitsayac.com/ii/1192022.jpg",
     "url": "http://anitsayac.com/details.aspx?id=16255"
-  },
-  {
-    "id": 16257,
-    "name": "Ayşen Çöl",
-    "fullname": "Ayşen Çöl",
-    "age": "Reşit",
-    "location": "Ankara",
-    "date": "19/08/2022",
-    "reason": "Tartışma",
-    "by": "Kocası",
-    "protection": "Yok",
-    "method": "Vurucu Alet",
-    "status": "Tutuklu",
-    "source": [
-      "https://www.hurriyet.com.tr/gundem/emlak-firmasinin-kopegi-topragi-eseleyince-vahset-ortaya-cikti-basina-cekicle-vurarak-oldurmus-42122263"
-    ],
-    "image": "http://anitsayac.com///i.anitsayac.com/ii/2622022.jpg",
-    "url": "http://anitsayac.com/details.aspx?id=16257"
   },
   {
     "id": 16251,
@@ -41889,24 +41909,6 @@
     "url": "http://anitsayac.com/details.aspx?id=3132"
   },
   {
-    "id": 3112,
-    "name": "Türkan Kulu",
-    "fullname": "Türkan Kulu",
-    "age": "Reşit",
-    "location": "Manisa",
-    "date": "05/09/2019",
-    "reason": "Tespit Edilemeyen",
-    "by": "Tespit Edilemeyen",
-    "protection": "Yok",
-    "method": "Kesici Alet",
-    "status": "Tespit Edilemeyen",
-    "source": [
-      "https://www.sozcu.com.tr/2019/gundem/yine-kadin-cinayeti-cocuklari-da-evdeydi-5318953/"
-    ],
-    "image": "http://anitsayac.com///i.anitsayac.com/ii/2942019.jpg",
-    "url": "http://anitsayac.com/details.aspx?id=3112"
-  },
-  {
     "id": 3103,
     "name": "Aysun B.",
     "fullname": "Aysun B.",
@@ -41923,6 +41925,24 @@
     ],
     "image": "http://anitsayac.com///i.anitsayac.com/ii/2852019.jpg",
     "url": "http://anitsayac.com/details.aspx?id=3103"
+  },
+  {
+    "id": 3112,
+    "name": "Türkan Kulu",
+    "fullname": "Türkan Kulu",
+    "age": "Reşit",
+    "location": "Manisa",
+    "date": "05/09/2019",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tespit Edilemeyen",
+    "source": [
+      "https://www.sozcu.com.tr/2019/gundem/yine-kadin-cinayeti-cocuklari-da-evdeydi-5318953/"
+    ],
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/2942019.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=3112"
   },
   {
     "id": 3133,
@@ -48651,24 +48671,6 @@
     "url": "http://anitsayac.com/details.aspx?id=2665"
   },
   {
-    "id": 2662,
-    "name": "Ümmühan Taşpınar",
-    "fullname": "Ümmühan Taşpınar",
-    "age": "Reşit",
-    "location": "Isparta",
-    "date": "18/10/2018",
-    "reason": "Tartışma",
-    "by": "Kocası",
-    "protection": "Yok",
-    "method": "Boğularak",
-    "status": "Tutuklu",
-    "source": [
-      "http://www.milliyet.com.tr/karisini-gel-gezelim-diye-gundem-2762137/"
-    ],
-    "image": "http://anitsayac.com///i.anitsayac.com/ii/3052018.jpg",
-    "url": "http://anitsayac.com/details.aspx?id=2662"
-  },
-  {
     "id": 2664,
     "name": "Duru Akar",
     "fullname": "Duru Akar",
@@ -48685,6 +48687,24 @@
     ],
     "image": "http://anitsayac.com///i.anitsayac.com/ii/3062018.jpg",
     "url": "http://anitsayac.com/details.aspx?id=2664"
+  },
+  {
+    "id": 2662,
+    "name": "Ümmühan Taşpınar",
+    "fullname": "Ümmühan Taşpınar",
+    "age": "Reşit",
+    "location": "Isparta",
+    "date": "18/10/2018",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Boğularak",
+    "status": "Tutuklu",
+    "source": [
+      "http://www.milliyet.com.tr/karisini-gel-gezelim-diye-gundem-2762137/"
+    ],
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/3052018.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=2662"
   },
   {
     "id": 2677,
@@ -83163,6 +83183,25 @@
     "url": "http://anitsayac.com/details.aspx?id=16"
   },
   {
+    "id": 15245,
+    "name": "Özlem Özoğlu",
+    "fullname": "Özlem Özoğlu",
+    "age": "Reşit",
+    "location": "Gaziantep",
+    "date": "03/03/2012",
+    "reason": "Töre",
+    "by": "Kayınpederi ve Kayınbiraderi",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/10-yil-onceki-3-cinayetin-katili-baba-ogul-42113999",
+      "https://www.hurriyet.com.tr/gundem/13-yil-onceki-cinayette-bes-kisiye-ceza-yagdi-42718542"
+    ],
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/1522012.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=15245"
+  },
+  {
     "id": 73,
     "name": "Sabahat Gezer",
     "fullname": "Sabahat Gezer",
@@ -83699,24 +83738,6 @@
     ],
     "image": "http://anitsayac.com///i.anitsayac.com/ii/1512012.jpg",
     "url": "http://anitsayac.com/details.aspx?id=15244"
-  },
-  {
-    "id": 15245,
-    "name": "Özlem Aslan Özoğlu",
-    "fullname": "Özlem Aslan Özoğlu",
-    "age": "Reşit",
-    "location": "Gaziantep",
-    "date": "01/01/2012",
-    "reason": "Töre",
-    "by": "Kayınpederi ve Kayınbiraderi",
-    "protection": "Yok",
-    "method": "Tespit Edilemeyen",
-    "status": "Tutuklu",
-    "source": [
-      "https://www.hurriyet.com.tr/gundem/10-yil-onceki-3-cinayetin-katili-baba-ogul-42113999"
-    ],
-    "image": "http://anitsayac.com///i.anitsayac.com/ii/1522012.jpg",
-    "url": "http://anitsayac.com/details.aspx?id=15245"
   },
   {
     "id": 522,
