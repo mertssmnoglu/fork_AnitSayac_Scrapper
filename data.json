@@ -1,5 +1,23 @@
 [
   {
+    "id": 41105,
+    "name": "Merve Nur Yararlık",
+    "fullname": "Merve Nur Yararlık",
+    "age": "Reşit",
+    "location": "Diyarbakır",
+    "date": "08/03/2025",
+    "reason": "Tartışma",
+    "by": "Tanıdığı Birisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.sozcu.com.tr/katilin-merve-nur-yararlik-in-yerini-nasil-ogrendigi-ortaya-cikti-p149004"
+    ],
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/702025.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=41105"
+  },
+  {
     "id": 41104,
     "name": "Yıldız Cam",
     "fullname": "Yıldız Cam",
@@ -125,6 +143,24 @@
     ],
     "image": "http://anitsayac.com///i.anitsayac.com/ii/672025.jpg",
     "url": "http://anitsayac.com/details.aspx?id=41102"
+  },
+  {
+    "id": 41106,
+    "name": "Dursun Özbay",
+    "fullname": "Dursun Özbay",
+    "age": "Reşit",
+    "location": "Şanlıurfa",
+    "date": "26/02/2025",
+    "reason": "Tartışma",
+    "by": "Tanıdığı Birileri",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.sozcu.com.tr/komsularin-kopek-besleme-kavgasi-2-olu-p143435"
+    ],
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/712025.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=41106"
   },
   {
     "id": 41094,
