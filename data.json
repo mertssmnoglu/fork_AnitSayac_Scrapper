@@ -1,5 +1,95 @@
 [
   {
+    "id": 41108,
+    "name": "Fatma Kara",
+    "fullname": "Fatma Kara",
+    "age": "Reşit",
+    "location": "İzmir",
+    "date": "12/03/2025",
+    "reason": "Tartışma",
+    "by": "Sevgilisi",
+    "protection": "Yok",
+    "method": "Darp",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/fatma-karaya-aci-veda-eski-sevgilisi-olgun-gaca-tarafindan-katledilmisti-42725353"
+    ],
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/732025.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=41108"
+  },
+  {
+    "id": 41109,
+    "name": "Meltem Menteşeli",
+    "fullname": "Meltem Menteşeli",
+    "age": "Reşit",
+    "location": "Aydın",
+    "date": "12/03/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/4-cocuk-annesi-kadinin-sir-olumu-tabancayla-vurulmus-halde-bulundu-42725310"
+    ],
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/742025.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=41109"
+  },
+  {
+    "id": 41110,
+    "name": "Halime Avşar",
+    "fullname": "Halime Avşar",
+    "age": "Reşit",
+    "location": "Tekirdağ",
+    "date": "10/03/2025",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Boğularak",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.milliyet.com.tr/gundem/korkunc-olay-emekli-polis-tartistigi-esini-esarpla-bogdu-7326802"
+    ],
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/752025.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=41110"
+  },
+  {
+    "id": 41111,
+    "name": "Havva Adıyaman",
+    "fullname": "Havva Adıyaman",
+    "age": "Reşit",
+    "location": "Konya",
+    "date": "10/03/2025",
+    "reason": "Tartışma, Boşanma Talebi",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.odatv.com/amp/guncel/konyada-sok-eden-kadin-cinayeti-120089802"
+    ],
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/762025.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=41111"
+  },
+  {
+    "id": 41112,
+    "name": "Gülnur Akalın",
+    "fullname": "Gülnur Akalın",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "10/03/2025",
+    "reason": "Tartışma",
+    "by": "Eski Kocası",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "İntihar",
+    "source": [
+      "https://www.evrensel.net/haber/545916/esenyurtta-gulnur-akalin-bosandigi-erkek-tarafindan-olduruldu"
+    ],
+    "image": "http://anitsayac.com///i.anitsayac.com/ii/772025.jpg",
+    "url": "http://anitsayac.com/details.aspx?id=41112"
+  },
+  {
     "id": 41107,
     "name": "Sevcan Demir Sakman",
     "fullname": "Sevcan Demir Sakman",
@@ -86177,19 +86267,17 @@
   {
     "id": 1391,
     "name": "Özlem Yıldız",
-    "fullname": "Özlem Yıldız",
+    "fullname": "",
     "age": "",
     "location": "",
-    "date": "30/12/2010",
-    "reason": "Anlaşmazlık",
-    "by": "Akraba",
-    "protection": "Yok",
-    "method": "Ateşli Silah",
+    "date": "",
+    "reason": "",
+    "by": "",
+    "protection": "",
+    "method": "",
     "status": "",
-    "source": [
-      "http://www.hurriyet.com.tr/gundem/16647328.asp"
-    ],
-    "image": "http://anitsayac.com///i.anitsayac.com/ii/1982010.jpg",
+    "source": null,
+    "image": "",
     "url": "http://anitsayac.com/details.aspx?id=1391"
   },
   {
