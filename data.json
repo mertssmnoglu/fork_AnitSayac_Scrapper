@@ -1,5 +1,23 @@
 [
   {
+    "id": 42113,
+    "name": "Hatice Göktaş",
+    "fullname": "Hatice Göktaş",
+    "age": "Reşit",
+    "location": "Karaman",
+    "date": "18/03/2025",
+    "reason": "Tartışma",
+    "by": "Eski Sevgilisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.ensonhaber.com/amp/3-sayfa/karamanda-bir-kadin-daha-olduruldu"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/912025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=42113"
+  },
+  {
     "id": 42105,
     "name": "Nesrin Panoğlu",
     "fullname": "Nesrin Panoğlu",
@@ -19,8 +37,8 @@
   },
   {
     "id": 42106,
-    "name": "Seyma Gökçe",
-    "fullname": "Seyma Gökçe",
+    "name": "Seyma Gökçe Kayahan",
+    "fullname": "Seyma Gökçe Kayahan",
     "age": "Reşit",
     "location": "Ankara",
     "date": "16/03/2025",
@@ -288,6 +306,42 @@
     ],
     "image": "https://anitsayac.com///i.anitsayac.com/ii/682025.jpg",
     "url": "https://anitsayac.com/details.aspx?id=41103"
+  },
+  {
+    "id": 42115,
+    "name": "Perihan Saymaz",
+    "fullname": "Perihan Saymaz",
+    "age": "Reşit",
+    "location": "Denizli",
+    "date": "06/03/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.iha.com.tr/denizli-haberleri/yasli-kadin-evinde-olu-bulundu-201895761"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/932025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=42115"
+  },
+  {
+    "id": 42114,
+    "name": "Ayşegül Özer",
+    "fullname": "Ayşegül Özer",
+    "age": "Reşit",
+    "location": "Muğla",
+    "date": "03/03/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.bodrumdabirgun.com/3-cocuk-annesi-aysegul-ozer-evinde-olu-bulundu.html"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/922025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=42114"
   },
   {
     "id": 41100,
@@ -5465,6 +5519,24 @@
     ],
     "image": "https://anitsayac.com///i.anitsayac.com/ii/4352024.jpg",
     "url": "https://anitsayac.com/details.aspx?id=40031"
+  },
+  {
+    "id": 42110,
+    "name": "Sidar Şimşek",
+    "fullname": "Sidar Şimşek",
+    "age": "Reşit",
+    "location": "İzmir",
+    "date": "21/07/2024",
+    "reason": "Tartışma",
+    "by": "Dini Nikahlı Eşi",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.gercekizmir.com/haber/Acili-baba-konustu-Kadin-cinayeti-yine-geliyorum-demis/167965"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/4462024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=42110"
   },
   {
     "id": 36835,
@@ -54990,16 +55062,17 @@
     "id": 39034,
     "name": "Melike Eşiyok",
     "fullname": "Melike Eşiyok",
-    "age": "Reşit",
+    "age": "Reşit Değil",
     "location": "İstanbul",
     "date": "01/01/2018",
     "reason": "Tespit Edilemeyen",
-    "by": "Babası",
+    "by": "Babası, Üvey Annesi",
     "protection": "Yok",
-    "method": "Tespit Edilemeyen",
+    "method": "Darp, İşkence",
     "status": "Soruşturma Sürüyor",
     "source": [
-      "https://www.hurriyet.com.tr/gundem/sir-cinayette-sok-gelisme-babadan-6-yil-sonra-itiraf-42606530"
+      "https://www.hurriyet.com.tr/gundem/sir-cinayette-sok-gelisme-babadan-6-yil-sonra-itiraf-42606530",
+      "https://www.hurriyet.com.tr/gundem/istanbulda-6-yil-once-barajda-cesedi-bulunmustu-4-yasindaki-melikenin-olumunde-korkunc-detaylar-42731317"
     ],
     "image": "https://anitsayac.com///i.anitsayac.com/ii/4112018.jpg",
     "url": "https://anitsayac.com/details.aspx?id=39034"
