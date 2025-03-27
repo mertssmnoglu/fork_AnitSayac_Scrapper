@@ -1,5 +1,42 @@
 [
   {
+    "id": 42122,
+    "name": "Fatma Neziha Akkuş",
+    "fullname": "Fatma Neziha Akkuş",
+    "age": "Reşit",
+    "location": "Eskişehir",
+    "date": "26/03/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Soruştuma Sürüyor",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/sanatci-mithat-korlerin-ablasina-son-veda-porsuk-cayinda-cansiz-bedeni-bulunmustu-42742433"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/992025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=42122"
+  },
+  {
+    "id": 42121,
+    "name": "Havva Yeni",
+    "fullname": "Havva Yeni",
+    "age": "Reşit",
+    "location": "Kütahya",
+    "date": "25/03/2025",
+    "reason": "Aldatma Şüphesi",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.yenisafak.com/amphtml/gundem/kutahyada-cinayet-esini-ve-aralarinda-iliski-oldugunu-iddia-ettigi-sahsi-oldurdu-4688366",
+      "https://www.evrensel.net/haber/547910/kutahyada-bir-kadin-esi-tarafindan-katledildi"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/982025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=42121"
+  },
+  {
     "id": 42120,
     "name": "Nesibe Elgün",
     "fullname": "Nesibe Elgün",
