@@ -18,6 +18,42 @@
     "url": "https://anitsayac.com/details.aspx?id=42122"
   },
   {
+    "id": 42123,
+    "name": "Damla Bakiler Duran",
+    "fullname": "Damla Bakiler Duran",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "26/03/2025",
+    "reason": "Tartışma",
+    "by": "Eski Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İnithar",
+    "source": [
+      "https://www.tgrthaber.com/yasam/avcilarda-dehset-veren-olay-bir-aile-yok-oldu-3210367?s=1"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/1002025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=42123"
+  },
+  {
+    "id": 42124,
+    "name": "Nazan Deniz",
+    "fullname": "Nazan Deniz",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "26/03/2025",
+    "reason": "Kızını Korumaya Çalıırken",
+    "by": "Eski Damadı",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.tgrthaber.com/yasam/avcilarda-dehset-veren-olay-bir-aile-yok-oldu-3210367?s=1"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/1012025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=42124"
+  },
+  {
     "id": 42121,
     "name": "Havva Yeni",
     "fullname": "Havva Yeni",
@@ -53,6 +89,42 @@
     ],
     "image": "https://anitsayac.com///i.anitsayac.com/ii/972025.jpg",
     "url": "https://anitsayac.com/details.aspx?id=42120"
+  },
+  {
+    "id": 42125,
+    "name": "Ghülperi Abduraman",
+    "fullname": "Ghülperi Abduraman",
+    "age": "Reşit",
+    "location": "Aydın",
+    "date": "24/03/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.aydindenge.com.tr/kusadasi/24/03/2025/aydinda-yabanci-uyruklu-kadin-olu-bulundu"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/1022025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=42125"
+  },
+  {
+    "id": 42126,
+    "name": "Yevdokia Nikolaeva Kireyeva",
+    "fullname": "Yevdokia Nikolaeva Kireyeva",
+    "age": "Reşit",
+    "location": "Alanya",
+    "date": "23/03/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.sabah.com.tr/yasam/alanyada-yabanci-uyruklu-kadin-olu-bulundu-7311731"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/1032025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=42126"
   },
   {
     "id": 42118,
