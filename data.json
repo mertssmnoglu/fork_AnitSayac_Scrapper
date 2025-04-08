@@ -1,5 +1,59 @@
 [
   {
+    "id": 42140,
+    "name": "Kader Küçükçoşkun",
+    "fullname": "Kader Küçükçoşkun",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "07/04/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tespit Edilemeyen",
+    "source": [
+      "https://www.sozcu.com.tr/istanbul-un-gobeginde-kanli-infaz-biri-hamile-2-kisi-oldu-p160418"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/1162025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=42140"
+  },
+  {
+    "id": 42141,
+    "name": "Zeliha Yorgun",
+    "fullname": "Zeliha Yorgun",
+    "age": "Reşit ",
+    "location": "Şanlıurfa",
+    "date": "07/04/2025",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.t24.com.tr/haber/bosanma-asamasindaki-esini-baskasiyla-mesajlastigi-iddiasiyla-oldurmus,1231043"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/1172025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=42141"
+  },
+  {
+    "id": 42138,
+    "name": "Selen Sakın",
+    "fullname": "Selen Sakın",
+    "age": "Reşit",
+    "location": "İzmir",
+    "date": "04/04/2025",
+    "reason": "Reddedilme",
+    "by": "Eski Nişanlısı",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.milliyet.com.tr/gundem/izmirde-kadin-cinayeti-onlerini-kestigi-eski-nisanlisi-ve-annesine-kursun-yagdirdi-7343868"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/1152025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=42138"
+  },
+  {
     "id": 42136,
     "name": "Ayşegül Başak",
     "fullname": "Ayşegül Başak",
