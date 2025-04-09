@@ -1,5 +1,23 @@
 [
   {
+    "id": 42143,
+    "name": "Talya Tütüncü",
+    "fullname": "Talya Tütüncü",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "08/04/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Tespit Edilemeyen",
+    "source": [
+      "https://www.sozcu.com.tr/genc-dansci-evinde-olu-bulundu-son-paylasimi-ortaya-cikti-p160969"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/1192025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=42143"
+  },
+  {
     "id": 42140,
     "name": "Kader Küçükçoşkun",
     "fullname": "Kader Küçükçoşkun",
@@ -10,9 +28,10 @@
     "by": "Tespit Edilemeyen",
     "protection": "Yok",
     "method": "Ateşli Silah",
-    "status": "Tespit Edilemeyen",
+    "status": "Tutuklu",
     "source": [
-      "https://www.sozcu.com.tr/istanbul-un-gobeginde-kanli-infaz-biri-hamile-2-kisi-oldu-p160418"
+      "https://www.sozcu.com.tr/istanbul-un-gobeginde-kanli-infaz-biri-hamile-2-kisi-oldu-p160418",
+      "https://www.cumhuriyet.com.tr/siyaset/1i-hamile-kadin-2-kisi-oldurulmustu-sislideki-kanli-baskinin-2316919"
     ],
     "image": "https://anitsayac.com///i.anitsayac.com/ii/1162025.jpg",
     "url": "https://anitsayac.com/details.aspx?id=42140"
@@ -34,6 +53,60 @@
     ],
     "image": "https://anitsayac.com///i.anitsayac.com/ii/1172025.jpg",
     "url": "https://anitsayac.com/details.aspx?id=42141"
+  },
+  {
+    "id": 42142,
+    "name": "Emine Bahar Tunalı",
+    "fullname": "Emine Bahar Tunalı",
+    "age": "Reşit",
+    "location": "Tekirdağ",
+    "date": "05/04/2025",
+    "reason": "Tartışma",
+    "by": "Eniştesi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuku",
+    "source": [
+      "https://www.ntv.com.tr/amp/turkiye/miras-kavgasinda-kan-aktiyengesini-ve-yegenlerini-oldurdu,PZkSNihPzEO4JLdmgVixzg"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/1182025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=42142"
+  },
+  {
+    "id": 42144,
+    "name": "Ayşe Çelik",
+    "fullname": "Ayşe Çelik",
+    "age": "Reşit",
+    "location": "Siirt",
+    "date": "05/04/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.cumhuriyet.com.tr/turkiye/siirtte-supheli-olum-kadinin-cansiz-bedeni-bulundu-2316063"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/1202025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=42144"
+  },
+  {
+    "id": 42145,
+    "name": "Gülden Coni",
+    "fullname": "Gülden Coni",
+    "age": "Reşit Değil",
+    "location": "Edirne",
+    "date": "05/04/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.sozcu.com.tr/amp/edirne-de-korkunc-olay-14-yasindaki-gulden-okul-bahcesinde-olu-bulundu-p159030"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/1212025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=42145"
   },
   {
     "id": 42138,
