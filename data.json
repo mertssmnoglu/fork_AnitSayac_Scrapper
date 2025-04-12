@@ -1,5 +1,41 @@
 [
   {
+    "id": 42148,
+    "name": "Beste Kızılay",
+    "fullname": "Beste Kızılay",
+    "age": "Reşit",
+    "location": "Malatya",
+    "date": "11/04/2025",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.ntv.com.tr/turkiye/sekiz-aylik-hamile-esini-basindan-vurarak-katletti,jcBg76PtMUSIN9e0FQyzhQ"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/1232025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=42148"
+  },
+  {
+    "id": 42150,
+    "name": "Sinem Çeşim",
+    "fullname": "Sinem Çeşim",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "10/04/2025",
+    "reason": "Reddedilme",
+    "by": "Eski Sevgilisi",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tespit Edilemeyen",
+    "source": [
+      "https://medyabar.com/amp/haber/24522358/sakaryada-kadin-cinayeti-diye-paylastilar-gercek-bakin-ne-cikti"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/1252025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=42150"
+  },
+  {
     "id": 42143,
     "name": "Talya Tütüncü",
     "fullname": "Talya Tütüncü",
@@ -107,6 +143,42 @@
     ],
     "image": "https://anitsayac.com///i.anitsayac.com/ii/1212025.jpg",
     "url": "https://anitsayac.com/details.aspx?id=42145"
+  },
+  {
+    "id": 42147,
+    "name": "Melike Garip",
+    "fullname": "Melike Garip",
+    "age": "Reşit",
+    "location": "Tekirdağ",
+    "date": "05/04/2025",
+    "reason": "Tartışma",
+    "by": "Eniştesi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.ntv.com.tr/amp/turkiye/miras-kavgasinda-kan-aktiyengesini-ve-yegenlerini-oldurdu,PZkSNihPzEO4JLdmgVixzg"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/1222025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=42147"
+  },
+  {
+    "id": 42149,
+    "name": "T.D.",
+    "fullname": "T.D.",
+    "age": "Reşit Değil",
+    "location": "Ankara",
+    "date": "05/04/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Yüksekten Düşme",
+    "status": "Tespit Edilemeyen",
+    "source": [
+      "https://www.birgun.net/haber/imamoglu-ndan-demokrasi-vurgusu-millet-yine-kazanacak-cunku-millet-buyuktur-614619"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/1242025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=42149"
   },
   {
     "id": 42138,
@@ -6389,6 +6461,24 @@
     ],
     "image": "https://anitsayac.com///i.anitsayac.com/ii/2072024.jpg",
     "url": "https://anitsayac.com/details.aspx?id=36819"
+  },
+  {
+    "id": 42151,
+    "name": "Nurcan Karabulut",
+    "fullname": "Nurcan Karabulut",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "25/06/2024",
+    "reason": "Tespit Edilemeyen",
+    "by": "Sevgilisi, Tanıdığı Birileri",
+    "protection": "Yok",
+    "method": "Boğularak, Tecavüz",
+    "status": "Tutuklu",
+    "source": [
+      "https://medyabar.com/amp/haber/24522358/sakaryada-kadin-cinayeti-diye-paylastilar-gercek-bakin-ne-cikti"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/4472024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=42151"
   },
   {
     "id": 36815,
