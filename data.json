@@ -1,5 +1,95 @@
 [
   {
+    "id": 42175,
+    "name": "Deniz Oktay",
+    "fullname": "Deniz Oktay",
+    "age": "Reşit",
+    "location": "Eskişehir",
+    "date": "22/04/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tanıdığı Birisi",
+    "protection": "Yok",
+    "method": "Yakılarak",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.sozcu.com.tr/eskisehir-de-kan-donduran-cinayet-ormanda-yakilarak-olduruldu-p165598"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/1472025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=42175"
+  },
+  {
+    "id": 42176,
+    "name": "Ayten M.",
+    "fullname": "Ayten M.",
+    "age": "Reşit",
+    "location": "Balıkesir",
+    "date": "22/04/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.sozcu.com.tr/annem-iceride-uyuyor-dedi-olu-bulundu-p165445"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/1482025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=42176"
+  },
+  {
+    "id": 42178,
+    "name": "Gülay Işıklar",
+    "fullname": "Gülay Işıklar",
+    "age": "Reşit",
+    "location": "İzmir",
+    "date": "22/04/2025",
+    "reason": "Tartışma",
+    "by": "Oğlu",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.sozcu.com.tr/eski-tbmm-baskanvekilinin-oglunun-annesini-neden-oldurdugu-ortaya-cikti-p165380"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/1492025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=42178"
+  },
+  {
+    "id": 42179,
+    "name": "Elif Civil",
+    "fullname": "Elif Civil",
+    "age": "Reşit",
+    "location": "Kastomonu",
+    "date": "22/04/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/hamile-kadin-evinde-olu-bulunmustu-katil-zanlisi-her-gun-olay-yerine-donmus-eve-geldigi-anlar-kamerada-42772995"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/1502025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=42179"
+  },
+  {
+    "id": 42180,
+    "name": "Hanna Dürçek",
+    "fullname": "Hanna Dürçek",
+    "age": "Reşit",
+    "location": "İstanbu",
+    "date": "22/04/2025",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/hannaya-3-kursun-42772843"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/1512025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=42180"
+  },
+  {
     "id": 42172,
     "name": "Zöhre Yıldırım",
     "fullname": "Zöhre Yıldırım",
@@ -124,6 +214,24 @@
     ],
     "image": "https://anitsayac.com///i.anitsayac.com/ii/1422025.jpg",
     "url": "https://anitsayac.com/details.aspx?id=42170"
+  },
+  {
+    "id": 42181,
+    "name": "Emine Akpınar",
+    "fullname": "Emine Akpınar",
+    "age": "Reşit",
+    "location": "Samsun",
+    "date": "15/04/2025",
+    "reason": "Boşanma Talebi",
+    "by": "Kocası",
+    "protection": "Var (Uzaklaştırma Kararı)",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.sabah.com.tr/galeri/yasam/3-cocuk-annesi-emineyi-katletti-cani-koca-ahirda-yakalandi-meger-daha-once-abisini"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/1522025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=42181"
   },
   {
     "id": 42164,
@@ -54009,17 +54117,19 @@
   {
     "id": 2474,
     "name": "Halime S.",
-    "fullname": "",
-    "age": "",
-    "location": "",
-    "date": "",
-    "reason": "",
-    "by": "",
-    "protection": "",
-    "method": "",
-    "status": "",
-    "source": null,
-    "image": "",
+    "fullname": "Halime S.",
+    "age": "Reşit",
+    "location": "Gaziantep",
+    "date": "06/04/2018",
+    "reason": "Tartışma",
+    "by": "Oğlu",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.yeniakit.com.tr/haber/insanin-yeryuzu-macerasi-semineri-445316.html"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/1312018.jpg",
     "url": "https://anitsayac.com/details.aspx?id=2474"
   },
   {
@@ -54043,17 +54153,19 @@
   {
     "id": 2473,
     "name": "Sibel Y.",
-    "fullname": "",
-    "age": "",
-    "location": "",
-    "date": "",
-    "reason": "",
-    "by": "",
-    "protection": "",
-    "method": "",
-    "status": "",
-    "source": null,
-    "image": "",
+    "fullname": "Sibel Y.",
+    "age": "Reşit",
+    "location": "Niğde",
+    "date": "02/04/2018",
+    "reason": "Boşanma Talebi",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "http://www.star.com.tr/guncel/nigdede-karisini-olduren-zanli-kayinvalidesini-yaraladi-haber-1326945/"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/1302018.jpg",
     "url": "https://anitsayac.com/details.aspx?id=2473"
   },
   {
