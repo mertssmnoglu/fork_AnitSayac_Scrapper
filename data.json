@@ -1,5 +1,24 @@
 [
   {
+    "id": 50244,
+    "name": "Saliha Akkaş",
+    "fullname": "Saliha Akkaş",
+    "age": "Reşit",
+    "location": "Ankara",
+    "date": "06/08/2025",
+    "reason": "Boşanma Talebi",
+    "by": "Kocası",
+    "protection": "Var (Uzaklaştırma Kararı)",
+    "method": "Kesici Alet",
+    "status": "İntihar",
+    "source": [
+      "https://www.t24.com.tr/haber/tbmm-den-bosanma-asamasindaki-esi-tarafindan-katledilen-saliha-akkas-icin-bassagligi-mesaji,1253903",
+      "https://www.sozcu.com.tr/tbmm-chp-grubunda-calisiyordu-esi-tarafindan-37-yerinden-bicaklanan-saliha-akkas-hayatini-kaybetti-p203276"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/2612025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=50244"
+  },
+  {
     "id": 50240,
     "name": "Sinem Somon Topaloğlu",
     "fullname": "Sinem Somon Topaloğlu",
@@ -35586,6 +35605,24 @@
     "url": "https://anitsayac.com/details.aspx?id=3673"
   },
   {
+    "id": 50245,
+    "name": "Sally Ali Challab-Abbood",
+    "fullname": "Sally Ali Challab-Abbood",
+    "age": "Reşit",
+    "location": "Eskişehir",
+    "date": "01/01/2021",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tanıdığı Birisi ",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.t24.com.tr/haber/istanbul-dan-eskisehir-e-sevgilisini-baltayla-parcalayan-adamin-evinde-5-farkli-kan-ornegi-bulundu,1253965"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/4332021.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=50245"
+  },
+  {
     "id": 3716,
     "name": "Selma Taşkaya",
     "fullname": "Selma Taşkaya",
@@ -51794,6 +51831,24 @@
     ],
     "image": "https://anitsayac.com///i.anitsayac.com/ii/3922018.jpg",
     "url": "https://anitsayac.com/details.aspx?id=2909"
+  },
+  {
+    "id": 50246,
+    "name": "Emine Özkaya",
+    "fullname": "Emine Özkaya",
+    "age": "Reşit",
+    "location": "Eskişehir",
+    "date": "02/12/2018",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tanıdığı Birisi",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.t24.com.tr/haber/istanbul-dan-eskisehir-e-sevgilisini-baltayla-parcalayan-adamin-evinde-5-farkli-kan-ornegi-bulundu,1253965"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/4132021.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=50246"
   },
   {
     "id": 2698,
