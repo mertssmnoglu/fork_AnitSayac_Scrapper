@@ -1,5 +1,41 @@
 [
   {
+    "id": 50255,
+    "name": "Neşe Karakaya",
+    "fullname": "Neşe Karakaya",
+    "age": "Reşit",
+    "location": "Kayseri",
+    "date": "10/08/2025",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/kayseride-dehset-anlari-esini-oldurup-intihar-etti-42908985"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/2692025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=50255"
+  },
+  {
+    "id": 50256,
+    "name": "Tuğba S.",
+    "fullname": "Tuğba S.",
+    "age": "Reşit",
+    "location": "Trabzon",
+    "date": "09/08/2025",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Kesici Alet, Ateşli Silah",
+    "status": "Aranııyor",
+    "source": [
+      "https://www.t24.com.tr/haber/kadina-siddet-son-bulmuyor-trabzon-da-esi-tarafindan-bicaklanan-ve-tufekle-vurulan-kadin-hayatini-kaybetti,1254487"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/2702025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=50256"
+  },
+  {
     "id": 50251,
     "name": "Teslime Hanedan",
     "fullname": "Teslime Hanedan",
