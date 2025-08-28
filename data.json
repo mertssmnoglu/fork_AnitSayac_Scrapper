@@ -1,5 +1,77 @@
 [
   {
+    "id": 50277,
+    "name": "Sevgül Ulutaş",
+    "fullname": "Sevgül Ulutaş",
+    "age": "Reşit",
+    "location": "Kocaeli",
+    "date": "27/08/2025",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/cani-koca-esini-katletti-42927050"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/2892025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=50277"
+  },
+  {
+    "id": 50278,
+    "name": "Sevgi Ş.",
+    "fullname": "Sevgi Ş.",
+    "age": "Reşit",
+    "location": "Bursa",
+    "date": "27/08/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/daha-once-esini-bicaklamisti-esini-yine-bicaklayip-oldurdu-42927082"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/2902025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=50278"
+  },
+  {
+    "id": 50279,
+    "name": "Aric Aljarouk",
+    "fullname": "Aric Aljarouk",
+    "age": "Reşit Değil",
+    "location": "Kilis",
+    "date": "25/08/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Yüksekten Düşme",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/kiliste-3-yasindaki-kayip-kiz-cocugu-kuyuda-olu-bulundu-42925074"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/2912025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=50279"
+  },
+  {
+    "id": 50280,
+    "name": "Yaren Erkaplan",
+    "fullname": "Yaren Erkaplan",
+    "age": "Reşit Değil",
+    "location": "Diyarbakır",
+    "date": "25/08/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Ateşli Silah ",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.vanekspres.com.tr/17-yasindaki-9-aylik-hamile-yaren-ve-bebegi-kurtarilamadi"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/2922025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=50280"
+  },
+  {
     "id": 50275,
     "name": "Çiğdem Kınay",
     "fullname": "Çiğdem Kınay",
@@ -114,13 +186,14 @@
     "age": "Reşit",
     "location": "Muğla",
     "date": "22/08/2025",
-    "reason": "Tespit Edilemeyen",
-    "by": "Tespit Edilemeyen",
+    "reason": "Kıskançlık",
+    "by": "Eski Sevgilisi",
     "protection": "Yok",
     "method": "Ateşli Silah",
-    "status": "Soruşturma Sürüyor",
+    "status": "Tutuklu",
     "source": [
-      "https://www.haberturk.com/mugla-haberleri/38897919-muglada-silahli-saldiriya-ugrayan-kadin-oldu"
+      "https://www.haberturk.com/mugla-haberleri/38897919-muglada-silahli-saldiriya-ugrayan-kadin-oldu",
+      "https://www.sozcu.com.tr/kanli-pusunun-sir-perdesi-aralandi-cinayet-sebebi-pes-dedirtti-p217137"
     ],
     "image": "https://anitsayac.com///i.anitsayac.com/ii/2832025.jpg",
     "url": "https://anitsayac.com/details.aspx?id=50270"
