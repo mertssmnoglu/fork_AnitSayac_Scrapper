@@ -96549,33 +96549,37 @@
   {
     "id": 196,
     "name": "Medine Kızmaz",
-    "fullname": "",
+    "fullname": "Medine Kızmaz",
     "age": "",
     "location": "",
-    "date": "",
-    "reason": "",
-    "by": "",
-    "protection": "",
-    "method": "",
+    "date": "31/12/2008",
+    "reason": "Boşanmak isteme",
+    "by": "Kocası ve erkek kardeşleri",
+    "protection": "Tespit Edilemeyen",
+    "method": "Ateşli Silah",
     "status": "",
-    "source": null,
-    "image": "",
+    "source": [
+      "http://www.radikal.com.tr/Radikal.aspx?aType=RadikalDetayV3\u0026ArticleID=915049\u0026CategoryID=77"
+    ],
+    "image": "https://anitsayac.com/",
     "url": "https://anitsayac.com/details.aspx?id=196"
   },
   {
     "id": 195,
     "name": "Fatma Aktaş",
-    "fullname": "",
+    "fullname": "Fatma Aktaş",
     "age": "",
     "location": "",
-    "date": "",
-    "reason": "",
-    "by": "",
-    "protection": "",
-    "method": "",
+    "date": "28/12/2008",
+    "reason": "Hırsızlık",
+    "by": "Akrabası",
+    "protection": "Tespit Edilemeyen",
+    "method": "Boğma",
     "status": "",
-    "source": null,
-    "image": "",
+    "source": [
+      "http://www.haberturk.com/yasam/haber/117729-paraya-ihtiyacim-vardi-oldurdum"
+    ],
+    "image": "https://anitsayac.com/",
     "url": "https://anitsayac.com/details.aspx?id=195"
   },
   {
