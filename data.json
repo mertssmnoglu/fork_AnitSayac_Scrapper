@@ -55,6 +55,42 @@
     "url": "https://anitsayac.com/details.aspx?id=50287"
   },
   {
+    "id": 50303,
+    "name": "Şilan Tekin",
+    "fullname": "Şilan Tekin",
+    "age": "Reşit",
+    "location": "Van",
+    "date": "30/08/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Tespit Edilemeyen",
+    "source": [
+      "https://www.colemerghaber.com/van-golunde-olu-bulunan-kadin-hakkari-nufusuna-kayitli-cikti"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/3132025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=50303"
+  },
+  {
+    "id": 50304,
+    "name": "N.M.",
+    "fullname": "N.M.",
+    "age": "Reşit",
+    "location": "Muğla",
+    "date": "28/08/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://bodrumolay.com/milasta-43-yasindaki-kadin-evinde-olduruldu/"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/3142025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=50304"
+  },
+  {
     "id": 50281,
     "name": "N.M",
     "fullname": "N.M",
@@ -161,6 +197,42 @@
     ],
     "image": "https://anitsayac.com///i.anitsayac.com/ii/2922025.jpg",
     "url": "https://anitsayac.com/details.aspx?id=50280"
+  },
+  {
+    "id": 50295,
+    "name": "Büşra Nur Taşkın",
+    "fullname": "Büşra Nur Taşkın",
+    "age": "Reşit Değil",
+    "location": "Samsun",
+    "date": "25/08/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Tespit Edilemeyen",
+    "source": [
+      "https://www.haberturk.com/samsun-haberleri-kayip-busra-insaatin-onunde-olu-bulundu-son-dakika-haberi-3817305"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/3052025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=50295"
+  },
+  {
+    "id": 50300,
+    "name": "Gülsüm Sarı",
+    "fullname": "Gülsüm Sarı",
+    "age": "Reşit",
+    "location": "Isparta",
+    "date": "25/08/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Asılarak",
+    "status": "Soruştuma Sürüyor",
+    "source": [
+      "https://www.ispartaduysun.com/ispartada-kayip-olan-yasli-kadin-tarlada-olu-bulundu/"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/3102025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=50300"
   },
   {
     "id": 50275,
@@ -307,6 +379,24 @@
     "url": "https://anitsayac.com/details.aspx?id=50285"
   },
   {
+    "id": 50297,
+    "name": "Dilek Aslan",
+    "fullname": "Dilek Aslan",
+    "age": "Reşit",
+    "location": "Van",
+    "date": "22/08/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Tespit Edilemeyen",
+    "source": [
+      "https://yeniyasamgazetesi9.com/wanda-supheli-kadin-olumu-10/"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/3072025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=50297"
+  },
+  {
     "id": 50270,
     "name": "Keziban Süne",
     "fullname": "Keziban Süne",
@@ -324,6 +414,24 @@
     ],
     "image": "https://anitsayac.com///i.anitsayac.com/ii/2832025.jpg",
     "url": "https://anitsayac.com/details.aspx?id=50270"
+  },
+  {
+    "id": 50305,
+    "name": "Olga Aydın",
+    "fullname": "Olga Aydın",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "21/08/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Tespit Edilemeyen",
+    "source": [
+      "https://www.birgun.net/haber/iki-kentte-bir-kadin-olduruldu-biri-darbedildi-647198"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/3152025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=50305"
   },
   {
     "id": 50269,
@@ -378,6 +486,24 @@
     ],
     "image": "https://anitsayac.com///i.anitsayac.com/ii/3002025.jpg",
     "url": "https://anitsayac.com/details.aspx?id=50289"
+  },
+  {
+    "id": 50306,
+    "name": "Meryem Mercan",
+    "fullname": "Meryem Mercan",
+    "age": "Reşit",
+    "location": "Isparta",
+    "date": "18/08/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Tespit Edilemeyen",
+    "source": [
+      "https://www.sabah.com.tr/yasam/genc-kiz-evinin-balkonunda-olu-bulundu-7407375"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/3162025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=50306"
   },
   {
     "id": 50263,
@@ -435,22 +561,22 @@
     "url": "https://anitsayac.com/details.aspx?id=50267"
   },
   {
-    "id": 50262,
-    "name": "Hatice Fırtına",
-    "fullname": "Hatice Fırtına",
+    "id": 50296,
+    "name": "Edibe Özel",
+    "fullname": "Edibe Özel",
     "age": "Reşit",
-    "location": "Manisa",
-    "date": "16/08/2025",
+    "location": "Van",
+    "date": "17/08/2025",
     "reason": "Tespit Edilemeyen",
-    "by": "Akrabası",
+    "by": "Tespit Edilemeyen",
     "protection": "Yok",
-    "method": "Kesici Alet",
-    "status": "Tutuklu",
+    "method": "Tespit Edilemeyen",
+    "status": "Tespit Edilemeyen",
     "source": [
-      "https://www.t24.com.tr/haber/manisa-da-16-yasindaki-kiz-cocugu-evinde-bicaklanmis-halde-olu-bulundu,1255804"
+      "https://politikahaber.com/vanda-supheli-kadin-olumu-16/"
     ],
-    "image": "https://anitsayac.com///i.anitsayac.com/ii/2762025.jpg",
-    "url": "https://anitsayac.com/details.aspx?id=50262"
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/3062025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=50296"
   },
   {
     "id": 50292,
@@ -469,6 +595,24 @@
     ],
     "image": "https://anitsayac.com///i.anitsayac.com/ii/3022025.jpg",
     "url": "https://anitsayac.com/details.aspx?id=50292"
+  },
+  {
+    "id": 50262,
+    "name": "Hatice Fırtına",
+    "fullname": "Hatice Fırtına",
+    "age": "Reşit",
+    "location": "Manisa",
+    "date": "16/08/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Akrabası",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.t24.com.tr/haber/manisa-da-16-yasindaki-kiz-cocugu-evinde-bicaklanmis-halde-olu-bulundu,1255804"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/2762025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=50262"
   },
   {
     "id": 50260,
@@ -505,6 +649,42 @@
     ],
     "image": "https://anitsayac.com///i.anitsayac.com/ii/2752025.jpg",
     "url": "https://anitsayac.com/details.aspx?id=50261"
+  },
+  {
+    "id": 50301,
+    "name": "Derya Yaşar",
+    "fullname": "Derya Yaşar",
+    "age": "Reşit",
+    "location": "Balıkesir",
+    "date": "14/08/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Yüksekten Düşme",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.haberturk.com/balikesir-haberleri/114130717-bandirmada-apartmanin-3uncu-katindan-dusen-kadin-oldu"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/3112025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=50301"
+  },
+  {
+    "id": 50308,
+    "name": "Hacer Kepçe",
+    "fullname": "Hacer Kepçe",
+    "age": "Reşit",
+    "location": "Çorum",
+    "date": "14/08/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Yüksekten Düşme",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.milliyet.com.tr/gundem/atik-yag-tankina-dusen-anne-ile-oglu-oldu-7426661"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/3182025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=50308"
   },
   {
     "id": 50259,
@@ -579,6 +759,24 @@
     "url": "https://anitsayac.com/details.aspx?id=50255"
   },
   {
+    "id": 50302,
+    "name": "Hüsniye İlhan",
+    "fullname": "Hüsniye İlhan",
+    "age": "Reşit",
+    "location": "Malatya",
+    "date": "10/08/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.malatyatime.com/haber/supheli-olum-camdan-giren-ekipler-husniye-ilhanin-cansiz-bedenini-buldu-109578"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/3122025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=50302"
+  },
+  {
     "id": 50256,
     "name": "Tuğba Sağlam",
     "fullname": "Tuğba Sağlam",
@@ -595,6 +793,78 @@
     ],
     "image": "https://anitsayac.com///i.anitsayac.com/ii/2702025.jpg",
     "url": "https://anitsayac.com/details.aspx?id=50256"
+  },
+  {
+    "id": 50298,
+    "name": "Merve Demir",
+    "fullname": "Merve Demir",
+    "age": "Reşit",
+    "location": "Mardin",
+    "date": "08/08/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://politikahaber.com/mardinde-supheli-2-kadin-olumu/#:~:text=Edinilen%20bilgilere%20g%C3%B6re%3B%20Derik%20il%C3%A7esine,Devlet%20Hastanesine%20kald%C4%B1r%C4%B1lan%20kad%C4%B1n%20kurtar%C4%B1lamad%C4%B1."
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/3082025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=50298"
+  },
+  {
+    "id": 50299,
+    "name": "Bayan Acabey",
+    "fullname": "Bayan Acabey",
+    "age": "Reşit",
+    "location": "Mardin",
+    "date": "08/08/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Yüksekten Düşme",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://politikahaber.com/mardinde-supheli-2-kadin-olumu/#:~:text=Edinilen%20bilgilere%20g%C3%B6re%3B%20Derik%20il%C3%A7esine,Devlet%20Hastanesine%20kald%C4%B1r%C4%B1lan%20kad%C4%B1n%20kurtar%C4%B1lamad%C4%B1."
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/3092025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=50299"
+  },
+  {
+    "id": 50307,
+    "name": "Badegül Maden",
+    "fullname": "Badegül Maden",
+    "age": "Reşit",
+    "location": "Sakarya",
+    "date": "07/08/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.sakaryadetayhaber.com/haber/eve-gelen-yakinlari-kanlar-icinde-buldu-108319.html"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/3172025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=50307"
+  },
+  {
+    "id": 50288,
+    "name": "Gülten Bakan",
+    "fullname": "Gülten Bakan",
+    "age": "Reşit",
+    "location": "Mardin",
+    "date": "07/08/2025",
+    "reason": "Tartışma",
+    "by": "Kayınbiraderi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.milliyet.com.tr/gundem/mardinde-aile-ici-dehset-gelin-ve-kayinbirader-olduruldu-7422525"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/2992025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=50288"
   },
   {
     "id": 50251,
@@ -649,24 +919,6 @@
     ],
     "image": "https://anitsayac.com///i.anitsayac.com/ii/2682025.jpg",
     "url": "https://anitsayac.com/details.aspx?id=50253"
-  },
-  {
-    "id": 50288,
-    "name": "Gülten Bakan",
-    "fullname": "Gülten Bakan",
-    "age": "Reşit",
-    "location": "Mardin",
-    "date": "07/08/2025",
-    "reason": "Tartışma",
-    "by": "Kayınbiraderi",
-    "protection": "Yok",
-    "method": "Ateşli Silah",
-    "status": "Tutuklu",
-    "source": [
-      "https://www.milliyet.com.tr/gundem/mardinde-aile-ici-dehset-gelin-ve-kayinbirader-olduruldu-7422525"
-    ],
-    "image": "https://anitsayac.com///i.anitsayac.com/ii/2992025.jpg",
-    "url": "https://anitsayac.com/details.aspx?id=50288"
   },
   {
     "id": 50244,
@@ -758,6 +1010,24 @@
     ],
     "image": "https://anitsayac.com///i.anitsayac.com/ii/3032025.jpg",
     "url": "https://anitsayac.com/details.aspx?id=50293"
+  },
+  {
+    "id": 50294,
+    "name": "Müesser Ü.",
+    "fullname": "Müesser Ü.",
+    "age": "Reşit",
+    "location": "Ankara",
+    "date": "04/08/2025",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/bosanma-asamasindaki-esini-cocuklarinin-gozu-onunde-tabancayla-oldurdu-42937872"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/3042025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=50294"
   },
   {
     "id": 50250,
