@@ -1,5 +1,77 @@
 [
   {
+    "id": 50309,
+    "name": "Başak Gürkan Aslan",
+    "fullname": "Başak Gürkan Aslan",
+    "age": "Reşit",
+    "location": "Ankara",
+    "date": "09/09/2025",
+    "reason": "Tartışma",
+    "by": "Kayınpederi",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.ntv.com.tr/amp/galeri/turkiye/ankarada-kadin-cinayeti-msbde-gorevli-yuksek-muhendis-5-yasindaki-kizi-onunde-olduruldu,lkgGKfSDvEyNxYjs0pX_LA"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/3192025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=50309"
+  },
+  {
+    "id": 50310,
+    "name": "Kübra Türkan",
+    "fullname": "Kübra Türkan",
+    "age": "Reşit",
+    "location": "Afyonkarahisar",
+    "date": "09/09/2025",
+    "reason": "Boşanma Talebi",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.sabah.com.tr/haberplus/afyonkarahisarda-dehset-veren-olay-bosanma-asamasindaki-esini-ve-kayinvalidesini-oldurdu-baldizi-agir-yarali-7421227"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/3202025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=50310"
+  },
+  {
+    "id": 50311,
+    "name": "Elvida Karadeniz",
+    "fullname": "Elvida Karadeniz",
+    "age": "Reşit",
+    "location": "Afyonkarahisar",
+    "date": "09/09/2025",
+    "reason": "Kızını Korumaya Çalışırken",
+    "by": "Damadı",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.sabah.com.tr/haberplus/afyonkarahisarda-dehset-veren-olay-bosanma-asamasindaki-esini-ve-kayinvalidesini-oldurdu-baldizi-agir-yarali-7421227"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/3212025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=50311"
+  },
+  {
+    "id": 50312,
+    "name": "Gülşah Güngör",
+    "fullname": "Gülşah Güngör",
+    "age": "Reşit",
+    "location": "Tekirdağ",
+    "date": "09/09/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.t24.com.tr/haber/basindan-vurulan-gulsah-in-supheli-olumune-dair-gozaltina-alinan-uzman-cavus-serbest-birakildi,1260418"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/3222025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=50312"
+  },
+  {
     "id": 50284,
     "name": "Hiranur Nilgün Aygar",
     "fullname": "Hiranur Nilgün Aygar",
