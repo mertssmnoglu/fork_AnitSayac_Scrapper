@@ -1,5 +1,77 @@
 [
   {
+    "id": 50314,
+    "name": "Selin Angun",
+    "fullname": "Selin Angun",
+    "age": "Reşit",
+    "location": "İzmir",
+    "date": "11/09/2025",
+    "reason": "Tartışma",
+    "by": "Eski Sevgilisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.posta.com.tr/gundem/izmirde-kadin-cinayeti-eski-sevgilisini-oldurup-2-kisiyi-yaraladiktan-sonra-intihar-etti-2907856"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/3242025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=50314"
+  },
+  {
+    "id": 50315,
+    "name": "Z.M.",
+    "fullname": "Z.M.",
+    "age": "Reşit",
+    "location": "Ankara",
+    "date": "10/09/2025",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.cumhuriyet.com.tr/turkiye/ankara-da-erkek-dehseti-evli-oldugu-kadini-oldurup-intihar-etti-2433799"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/3252025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=50315"
+  },
+  {
+    "id": 50316,
+    "name": "Dursune Bilgili",
+    "fullname": "Dursune Bilgili",
+    "age": "Reşit",
+    "location": "Kocaeli",
+    "date": "10/09/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Oğlu",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/kocaelideki-vahset-anne-ile-5-yasindaki-kizi-evlerinde-olu-bulunmustu-16-yasindaki-supheli-gozaltinda-42943677"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/3262025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=50316"
+  },
+  {
+    "id": 50317,
+    "name": "Havva Nur Anzerli",
+    "fullname": "Havva Nur Anzerli",
+    "age": "Reşit Değil",
+    "location": "Kocaeli",
+    "date": "10/09/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Üvey Abisi",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/kocaelideki-vahset-anne-ile-5-yasindaki-kizi-evlerinde-olu-bulunmustu-16-yasindaki-supheli-gozaltinda-42943677"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/3272025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=50317"
+  },
+  {
     "id": 50313,
     "name": "Jawhara Aboucheikh",
     "fullname": "Jawhara Aboucheikh",
@@ -957,6 +1029,24 @@
     "url": "https://anitsayac.com/details.aspx?id=50288"
   },
   {
+    "id": 50319,
+    "name": "Devrim Saf",
+    "fullname": "Devrim Saf",
+    "age": "Reşit",
+    "location": "Hatay",
+    "date": "07/08/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Kayınbiraderi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.milliyet.com.tr/gundem/aci-son-21-yil-boyunca-evlatlarina-hem-anne-hem-baba-oldu-kayinbiraderi-tarafindan-canice-olduruldu-7421952"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/3292025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=50319"
+  },
+  {
     "id": 50251,
     "name": "Teslime Hanedan",
     "fullname": "Teslime Hanedan",
@@ -1229,6 +1319,42 @@
     "url": "https://anitsayac.com/details.aspx?id=50239"
   },
   {
+    "id": 50321,
+    "name": "Merve Verimli",
+    "fullname": "Merve Verimli",
+    "age": "Reşit",
+    "location": "Adana",
+    "date": "28/07/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.evrensel.net/haber/563364/adanada-kadin-cinayet-merve-verimli-ve-kizi-elif-evli-oldugu-erkek-tarafindan-olduruldu"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/3312025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=50321"
+  },
+  {
+    "id": 50322,
+    "name": "Elif Verimli",
+    "fullname": "Elif Verimli",
+    "age": "Reşit Değil ",
+    "location": "Adana",
+    "date": "28/07/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Babası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.evrensel.net/haber/563364/adanada-kadin-cinayet-merve-verimli-ve-kizi-elif-evli-oldugu-erkek-tarafindan-olduruldu"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/3322025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=50322"
+  },
+  {
     "id": 50237,
     "name": "Türkan Söylemez",
     "fullname": "Türkan Söylemez",
@@ -1409,9 +1535,45 @@
     "url": "https://anitsayac.com/details.aspx?id=50226"
   },
   {
+    "id": 50318,
+    "name": "Semra Çelik",
+    "fullname": "Semra Çelik",
+    "age": "Reşit",
+    "location": "Edirne",
+    "date": "20/07/2025",
+    "reason": "Tartışma",
+    "by": "Sevgilisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.sozcu.com.tr/yasak-ask-tarlada-basladi-tarlada-bitti-p200408"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/3282025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=50318"
+  },
+  {
+    "id": 50320,
+    "name": "Aynur İşgüder",
+    "fullname": "Aynur İşgüder",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "19/07/2025",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.ekoltv.com.tr/gundem/basaksehirde-vahset-66-yasindaki-adam-40-yillik-esini-bogazini-keserek-oldurdu-52523h"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/3302025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=50320"
+  },
+  {
     "id": 50227,
-    "name": "Haniye Arap",
-    "fullname": "Haniye Arap",
+    "name": "Haniye Arab",
+    "fullname": "Haniye Arab",
     "age": "Reşit",
     "location": "Manisa",
     "date": "19/07/2025",
@@ -1421,7 +1583,6 @@
     "method": "Tespit Edilemeyen",
     "status": "Tutuklu",
     "source": [
-      "https://www.iha.com.tr/malatya-haberleri/malatyada-bir-kadin-eski-esi-tarafindan-olduruldu-272085590",
       "https://www.haberturk.com/manisa-da-birlikte-yasadigi-afgan-uyruklu-haniyeye-esarbiyla-bogdu-3808854-amp"
     ],
     "image": "https://anitsayac.com///i.anitsayac.com/ii/2442025.jpg",
@@ -1660,6 +1821,24 @@
     ],
     "image": "https://anitsayac.com///i.anitsayac.com/ii/2342025.jpg",
     "url": "https://anitsayac.com/details.aspx?id=49228"
+  },
+  {
+    "id": 50323,
+    "name": "G. Mercan Cengiz",
+    "fullname": "G. Mercan Cengiz",
+    "age": "Reşit Değil",
+    "location": "Aydın",
+    "date": "10/07/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Asılarak",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.haberugur.com/cinede-17-yasindaki-genc-kiz-hayatina-son-verdi"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/3332025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=50323"
   },
   {
     "id": 49216,
@@ -78127,65 +78306,73 @@
   {
     "id": 1133,
     "name": "İsmi Bilinmiyor",
-    "fullname": "",
+    "fullname": "İsmi Bilinmiyor",
     "age": "",
     "location": "",
-    "date": "",
-    "reason": "",
-    "by": "",
-    "protection": "",
-    "method": "",
+    "date": "20/09/2014",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
     "status": "",
-    "source": null,
-    "image": "",
+    "source": [
+      "http://www.gundemelazig.com/asayis/suriyeli-kadin-evinde-olduruldu-h79546.html"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/2012014.jpg",
     "url": "https://anitsayac.com/details.aspx?id=1133"
   },
   {
     "id": 1130,
     "name": "Elif Y.",
-    "fullname": "",
+    "fullname": "Elif Y.",
     "age": "",
     "location": "",
-    "date": "",
-    "reason": "",
-    "by": "",
-    "protection": "",
-    "method": "",
+    "date": "18/09/2014",
+    "reason": "Tespit Edilemeyen",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Kesici Alet, Vurucu Alet",
     "status": "",
-    "source": null,
-    "image": "",
+    "source": [
+      "http://www.haber1.com/haber/277042/kan-donduran-kadin-cinayeti"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/1982014.jpg",
     "url": "https://anitsayac.com/details.aspx?id=1130"
   },
   {
     "id": 1113,
     "name": "Zahide Akgül",
-    "fullname": "",
+    "fullname": "Zahide Akgül",
     "age": "",
     "location": "",
-    "date": "",
-    "reason": "",
-    "by": "",
-    "protection": "",
-    "method": "",
+    "date": "18/09/2014",
+    "reason": "Töre",
+    "by": "Babası",
+    "protection": "Yok",
+    "method": "Boğularak",
     "status": "",
-    "source": null,
-    "image": "",
+    "source": [
+      "http://www.hurriyet.com.tr/gundem/27225386.asp"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/1822014.jpg",
     "url": "https://anitsayac.com/details.aspx?id=1113"
   },
   {
     "id": 1132,
     "name": "İsmi Bilinmiyor",
-    "fullname": "",
+    "fullname": "İsmi Bilinmiyor",
     "age": "",
     "location": "",
-    "date": "",
-    "reason": "",
-    "by": "",
-    "protection": "",
-    "method": "",
+    "date": "17/09/2014",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Tespit Edilemeyen",
+    "method": "Boğulma",
     "status": "",
-    "source": null,
-    "image": "",
+    "source": [
+      "http://www.haberler.com/iple-bogularak-oldurulen-kadinin-cesedi-yol-6492499-haberi/"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/2002014.jpg",
     "url": "https://anitsayac.com/details.aspx?id=1132"
   },
   {
