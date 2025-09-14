@@ -1,5 +1,41 @@
 [
   {
+    "id": 50329,
+    "name": "Hanım Biçer",
+    "fullname": "Hanım Biçer",
+    "age": "Reşit",
+    "location": "Antalya",
+    "date": "12/09/2025",
+    "reason": "Tartışma",
+    "by": "Eski Kocası",
+    "protection": "Yok",
+    "method": "Boğularak",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/korkunc-olay-eski-esini-esarbiyla-bogdu-42946972"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/3372025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=50329"
+  },
+  {
+    "id": 50330,
+    "name": "İpek Genç",
+    "fullname": "İpek Genç",
+    "age": "Reşit",
+    "location": "Kocaeli",
+    "date": "12/09/2025",
+    "reason": "Reddedilme",
+    "by": "Eski Sevgilisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.sabah.com.tr/haberplus/kocaelide-kiskanc-sevgili-vahseti-hemsire-sevgilisi-ve-kardesini-oldurup-intihar-etti-7423556"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/3382025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=50330"
+  },
+  {
     "id": 50314,
     "name": "Selin Angun",
     "fullname": "Selin Angun",
