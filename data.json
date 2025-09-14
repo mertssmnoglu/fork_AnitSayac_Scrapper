@@ -1,5 +1,41 @@
 [
   {
+    "id": 50329,
+    "name": "Hanım Biçer",
+    "fullname": "Hanım Biçer",
+    "age": "Reşit",
+    "location": "Antalya",
+    "date": "12/09/2025",
+    "reason": "Tartışma",
+    "by": "Eski Kocası",
+    "protection": "Yok",
+    "method": "Boğularak",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/korkunc-olay-eski-esini-esarbiyla-bogdu-42946972"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/3372025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=50329"
+  },
+  {
+    "id": 50330,
+    "name": "İpek Genç",
+    "fullname": "İpek Genç",
+    "age": "Reşit",
+    "location": "Kocaeli",
+    "date": "12/09/2025",
+    "reason": "Reddedilme",
+    "by": "Eski Sevgilisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.sabah.com.tr/haberplus/kocaelide-kiskanc-sevgili-vahseti-hemsire-sevgilisi-ve-kardesini-oldurup-intihar-etti-7423556"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/3382025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=50330"
+  },
+  {
     "id": 50314,
     "name": "Selin Angun",
     "fullname": "Selin Angun",
@@ -73197,55 +73233,49 @@
   {
     "id": 1562,
     "name": "Nuray Çakmak",
-    "fullname": "Nuray Çakmak",
+    "fullname": "",
     "age": "",
     "location": "",
-    "date": "27/08/2015",
-    "reason": "Ayrılma",
-    "by": "Eski Sevgili",
-    "protection": "Yok",
-    "method": "Ateşli Silah",
+    "date": "",
+    "reason": "",
+    "by": "",
+    "protection": "",
+    "method": "",
     "status": "",
-    "source": [
-      "http://www.haberler.com/giresun-da-sokak-ortasinda-kadin-cinayeti-7634756-haberi/"
-    ],
-    "image": "https://anitsayac.com///i.anitsayac.com/ii/2092015.jpg",
+    "source": null,
+    "image": "",
     "url": "https://anitsayac.com/details.aspx?id=1562"
   },
   {
     "id": 1665,
     "name": "Sedef Tuncay",
-    "fullname": "Sedef Tuncay",
+    "fullname": "",
     "age": "",
-    "location": "Mersin",
-    "date": "26/08/2015",
-    "reason": "Tespit Edilemeyen",
-    "by": "Sevgilisi",
-    "protection": "Yok",
-    "method": "Darp, Boğulma",
-    "status": "Tutuklu",
-    "source": [
-      "http://www.milliyet.com.tr/sevgililer-gunu-sakasi-esinin-gundem-2194311/"
-    ],
-    "image": "https://anitsayac.com///i.anitsayac.com/ii/2922015.jpg",
+    "location": "",
+    "date": "",
+    "reason": "",
+    "by": "",
+    "protection": "",
+    "method": "",
+    "status": "",
+    "source": null,
+    "image": "",
     "url": "https://anitsayac.com/details.aspx?id=1665"
   },
   {
     "id": 1535,
     "name": "Güneş K.",
-    "fullname": "Güneş K.",
+    "fullname": "",
     "age": "",
     "location": "",
-    "date": "25/08/2015",
-    "reason": "Tartışma",
-    "by": "Sevgilisi",
-    "protection": "Yok",
-    "method": "Kesici Alet, Darp",
+    "date": "",
+    "reason": "",
+    "by": "",
+    "protection": "",
+    "method": "",
     "status": "",
-    "source": [
-      "http://www.milliyet.com.tr/kiz-arkadasini-oldurdu-testereyle-gundem-2107724/"
-    ],
-    "image": "https://anitsayac.com///i.anitsayac.com/ii/1852015.jpg",
+    "source": null,
+    "image": "",
     "url": "https://anitsayac.com/details.aspx?id=1535"
   },
   {
