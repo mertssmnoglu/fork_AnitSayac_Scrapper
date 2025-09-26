@@ -1,14 +1,50 @@
 [
   {
+    "id": 50346,
+    "name": "Bülbül Özcan",
+    "fullname": "Bülbül Özcan",
+    "age": "Reşit",
+    "location": "Van",
+    "date": "24/09/2025",
+    "reason": "Husumet",
+    "by": "Tanıdığı Birileri",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.milliyet.com.tr/yerel-haberler/van/vanda-silahli-saldirida-anne-ve-2-oglu-oldu-7452082"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/3502025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=50346"
+  },
+  {
+    "id": 50347,
+    "name": "Durgül Sivrikaya",
+    "fullname": "Durgül Sivrikaya",
+    "age": "Reşit",
+    "location": "Muğla",
+    "date": "24/09/2025",
+    "reason": "Tartışma",
+    "by": "Oğlu",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.ntv.com.tr/amp/turkiye/muglada-dehsetava-gitmesini-istemeyen-annesini-oldurdu,9KxyMJhtxEOLcT_0FbpJyQ"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/3512025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=50347"
+  },
+  {
     "id": 50345,
-    "name": "R.K.",
-    "fullname": "R.K.",
+    "name": "Rümeysa Karagöz",
+    "fullname": "Rümeysa Karagöz",
     "age": "Reşit",
     "location": "Sakarya",
     "date": "23/09/2025",
     "reason": "Tespit Edilemeyen",
     "by": "Tespit Edilemeyen",
-    "protection": "Yo",
+    "protection": "Yok",
     "method": "Ateşli Silah",
     "status": "Soruşturma Sürüyor",
     "source": [
