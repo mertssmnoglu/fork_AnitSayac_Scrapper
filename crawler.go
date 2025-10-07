@@ -60,13 +60,88 @@ type Detail struct {
 
 // Static and dynamic Variables
 var (
-	baseUrl = "https://anitsayac.com"
+	baseUrl      = "https://anitsayac.com"
+	jsonFileName = "data.json"
+	csvFileName  = "data.csv"
 )
 
 func ReplaceAll(s, old, new string, n int) string {
 	// Replace All for Regexp
 	re := regexp.MustCompile(old)
 	return re.ReplaceAllString(s, new)
+}
+
+// validateFiles checks if the generated files are valid and have reasonable content
+func validateFiles(jsonFile, csvFile string, expectedCount int) bool {
+	// Check if files exist
+	if _, err := os.Stat(jsonFile); os.IsNotExist(err) {
+		log.Printf("JSON file %s does not exist", jsonFile)
+		return false
+	}
+
+	if _, err := os.Stat(csvFile); os.IsNotExist(err) {
+		log.Printf("CSV file %s does not exist", csvFile)
+		return false
+	}
+
+	// Check file sizes
+	jsonInfo, err := os.Stat(jsonFile)
+	if err != nil {
+		log.Printf("Failed to get JSON file info: %s", err)
+		return false
+	}
+
+	csvInfo, err := os.Stat(csvFile)
+	if err != nil {
+		log.Printf("Failed to get CSV file info: %s", err)
+		return false
+	}
+
+	// Files should not be empty
+	if jsonInfo.Size() == 0 {
+		log.Printf("JSON file is empty")
+		return false
+	}
+
+	if csvInfo.Size() == 0 {
+		log.Printf("CSV file is empty")
+		return false
+	}
+
+	// Basic JSON validation - try to parse
+	jsonFileContent, err := os.ReadFile(jsonFile)
+	if err != nil {
+		log.Printf("Failed to read JSON file: %s", err)
+		return false
+	}
+
+	var incidents []Incident
+	if err := json.Unmarshal(jsonFileContent, &incidents); err != nil {
+		log.Printf("Invalid JSON format: %s", err)
+		return false
+	}
+
+	// Check if we have reasonable number of incidents
+	if len(incidents) < expectedCount/2 {
+		log.Printf("Too few incidents in JSON: got %d, expected at least %d", len(incidents), expectedCount/2)
+		return false
+	}
+
+	// Basic CSV validation - count lines
+	csvFileContent, err := os.ReadFile(csvFile)
+	if err != nil {
+		log.Printf("Failed to read CSV file: %s", err)
+		return false
+	}
+
+	lines := strings.Split(string(csvFileContent), "\n")
+	// Should have header + data lines (allowing for empty last line)
+	if len(lines) < expectedCount {
+		log.Printf("Too few lines in CSV: got %d, expected at least %d", len(lines), expectedCount)
+		return false
+	}
+
+	return true
 }
 
 // Get article content
@@ -154,14 +229,6 @@ func getArticleContent(url string) Detail {
 }
 
 func main() {
-	fName := "data.json"
-	file, err := os.Create(fName)
-	if err != nil {
-		log.Fatalf("Cannot create file %q: %s\n", fName, err)
-		return
-	}
-	defer file.Close()
-
 	// Instantiate default collector
 	c := colly.NewCollector(
 		// Visit only domains: hackerspaces.org, wiki.hackerspaces.org
@@ -175,7 +242,7 @@ func main() {
 	// Create another collector to scrape additional details
 	// detailCollector := c.Clone()
 
-	incidents := make([]Incident, 0, 20000)
+	incidents := make([]Incident, 0, 100000)
 
 	/*
 		<span class='xxy'>
@@ -222,23 +289,45 @@ func main() {
 	// Url: https://anitsayac.com/?year=2000
 	c.Visit(baseUrl + "/?year=2000")
 
+	// Check if we have valid data before writing
+	if len(incidents) == 0 {
+		log.Println("No incidents found, not updating files")
+		return
+	}
+
+	// Write to temporary files first to avoid data loss
+	tempJsonFile := jsonFileName + ".tmp"
+	tempCsvFile := csvFileName + ".tmp"
+
+	// Write JSON to temporary file
+	file, err := os.Create(tempJsonFile)
+	if err != nil {
+		log.Fatalf("Cannot create temp file %q: %s\n", tempJsonFile, err)
+		return
+	}
+	defer file.Close()
+
 	enc := json.NewEncoder(file)
 	enc.SetIndent("", "  ")
 
-	// Dump json to the standard output
-	enc.Encode(incidents)
-
-	// CSV conversion
-	csvFile, err := os.Create("data.csv")
-	if err != nil {
-		log.Fatalf("Cannot create file %q: %s\n", "data.csv", err)
+	// Encode json to temporary file
+	if err := enc.Encode(incidents); err != nil {
+		log.Fatalf("Failed to encode JSON: %s\n", err)
 		return
 	}
-	defer csvFile.Close()
+	file.Close()
 
-	csvFile.WriteString("Id,Name,FullName,Age,Location,Date,Reason,By,Protection,Method,Status,Source,Image,Url\n")
+	// Write CSV to temporary file
+	csvTempFile, err := os.Create(tempCsvFile)
+	if err != nil {
+		log.Fatalf("Cannot create temp CSV file %q: %s\n", tempCsvFile, err)
+		return
+	}
+	defer csvTempFile.Close()
+
+	csvTempFile.WriteString("Id,Name,FullName,Age,Location,Date,Reason,By,Protection,Method,Status,Source,Image,Url\n")
 	for _, incident := range incidents {
-		csvFile.WriteString(fmt.Sprintf("%d,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s\n",
+		csvTempFile.WriteString(fmt.Sprintf("%d,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s\n",
 			incident.Id,
 			incident.Name,
 			incident.FullName,
@@ -255,4 +344,27 @@ func main() {
 			incident.Url,
 		))
 	}
+	csvTempFile.Close()
+
+	// Validate temporary files before replacing originals
+	if !validateFiles(tempJsonFile, tempCsvFile, len(incidents)) {
+		log.Println("Validation failed, not updating original files")
+		// Clean up temporary files
+		os.Remove(tempJsonFile)
+		os.Remove(tempCsvFile)
+		return
+	}
+
+	// If validation passes, replace original files
+	if err := os.Rename(tempJsonFile, jsonFileName); err != nil {
+		log.Fatalf("Failed to replace JSON file: %s\n", err)
+		return
+	}
+
+	if err := os.Rename(tempCsvFile, csvFileName); err != nil {
+		log.Fatalf("Failed to replace CSV file: %s\n", err)
+		return
+	}
+
+	fmt.Printf("Successfully updated files with %d incidents\n", len(incidents))
 }

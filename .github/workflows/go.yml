@@ -36,9 +36,23 @@ jobs:
     - name: Run
       run: go run .
 
+    - name: Check if files were updated
+      id: check_files
+      run: |
+        # Check if there are any changes to commit
+        git add data.csv data.json
+        if git diff --cached --quiet; then
+          echo "No changes to commit"
+          echo "should_commit=false" >> $GITHUB_OUTPUT
+        else
+          echo "Files updated, ready to commit"
+          echo "should_commit=true" >> $GITHUB_OUTPUT
+        fi
+
     - name: Deploy
+      if: steps.check_files.outputs.should_commit == 'true'
       uses: stefanzweifel/git-auto-commit-action@v5
       with:
         commit_author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
-        commit_message: "upd:  data updated"
-        file_pattern: "*.json *.csv"
+        commit_message: "upd: data updated"
+        file_pattern: "data.json data.csv"
