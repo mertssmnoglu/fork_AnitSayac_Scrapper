@@ -875,7 +875,7 @@
     "reason": "Tespit Edilemeyen",
     "by": "Tespit Edilemeyen",
     "protection": "Yok",
-    "method": "Ateşli Silah ",
+    "method": "Ateşli Silah",
     "status": "Soruşturma Sürüyor",
     "source": [
       "https://www.vanekspres.com.tr/17-yasindaki-9-aylik-hamile-yaren-ve-bebegi-kurtarilamadi"
@@ -1792,7 +1792,7 @@
     "name": "Duru Söylemez",
     "fullname": "Duru Söylemez",
     "age": "Reşit Değil",
-    "location": "Denizli ",
+    "location": "Denizli",
     "date": "01/08/2025",
     "reason": "Bunalım",
     "by": "Babası",
@@ -1845,7 +1845,7 @@
     "id": 50324,
     "name": "Havva Ş.",
     "fullname": "Havva Ş.",
-    "age": "Reşit ",
+    "age": "Reşit",
     "location": "Çanakkale",
     "date": "29/07/2025",
     "reason": "Tespit Edilemeyen",
@@ -1881,7 +1881,7 @@
     "id": 50322,
     "name": "Elif Verimli",
     "fullname": "Elif Verimli",
-    "age": "Reşit Değil ",
+    "age": "Reşit Değil",
     "location": "Adana",
     "date": "28/07/2025",
     "reason": "Tespit Edilemeyen",
@@ -3286,7 +3286,7 @@
     "id": 47180,
     "name": "Şevval Çiftçi",
     "fullname": "Şevval Çiftçi",
-    "age": "Reşit ",
+    "age": "Reşit",
     "location": "Adana",
     "date": "20/05/2025",
     "reason": "Tartışma",
@@ -3434,7 +3434,7 @@
     "location": "Giresun",
     "date": "09/05/2025",
     "reason": "Tespit Edilemeyen",
-    "by": "Tanıdığı Birisi ",
+    "by": "Tanıdığı Birisi",
     "protection": "Yok",
     "method": "Ateşli Silah",
     "status": "Tutuklu",
@@ -3453,7 +3453,7 @@
     "location": "Giresun",
     "date": "09/05/2025",
     "reason": "Tespit Edilemeyen",
-    "by": "Tanıdığı Birisi ",
+    "by": "Tanıdığı Birisi",
     "protection": "Yok",
     "method": "Ateşli Silah",
     "status": "Tutuklu",
@@ -3776,7 +3776,7 @@
     "id": 42183,
     "name": "Pınar Altınel",
     "fullname": "Pınar Altınel",
-    "age": "Reşit ",
+    "age": "Reşit",
     "location": "Samsun",
     "date": "24/04/2025",
     "reason": "Boşanma Talebi, Tartışma",
@@ -4353,7 +4353,7 @@
     "id": 42141,
     "name": "Zeliha Yorgun",
     "fullname": "Zeliha Yorgun",
-    "age": "Reşit ",
+    "age": "Reşit",
     "location": "Şanlıurfa",
     "date": "07/04/2025",
     "reason": "Tartışma",
@@ -4676,7 +4676,7 @@
   {
     "id": 42123,
     "name": "Damla Bakiler",
-    "fullname": "Damla Bakiler ",
+    "fullname": "Damla Bakiler",
     "age": "Reşit",
     "location": "İstanbul",
     "date": "26/03/2025",
@@ -4984,7 +4984,7 @@
   {
     "id": 42101,
     "name": "Habeeb Abed Abed",
-    "fullname": "Habeeb Abed Abed ",
+    "fullname": "Habeeb Abed Abed",
     "age": "Reşit",
     "location": "Sakarya",
     "date": "12/03/2025",
@@ -5149,7 +5149,7 @@
     "name": "Yıldız Cam",
     "fullname": "Yıldız Cam",
     "age": "Reşit",
-    "location": "Mardin ",
+    "location": "Mardin",
     "date": "07/03/2025",
     "reason": "Tespit Edilemeyen",
     "by": "Tespit Edilemeyen",
@@ -5870,7 +5870,7 @@
     "id": 40067,
     "name": "Aysun Yenigün",
     "fullname": "Aysun Yenigün",
-    "age": "Reşit ",
+    "age": "Reşit",
     "location": "İstanbul",
     "date": "31/01/2025",
     "reason": "Tespit Edilemeyen",
@@ -6015,7 +6015,7 @@
     "id": 40064,
     "name": "Ummuhan Korkut",
     "fullname": "Ummuhan Korkut",
-    "age": "Reşit ",
+    "age": "Reşit",
     "location": "Muğla",
     "date": "28/01/2025",
     "reason": "Tartışma",
@@ -7823,7 +7823,7 @@
     "id": 38946,
     "name": "Damla Nur Kavraz",
     "fullname": "Damla Nur Kavraz",
-    "age": "Reşit Değil ",
+    "age": "Reşit Değil",
     "location": "Giresun",
     "date": "29/10/2024",
     "reason": "Tespit Edilemeyen",
@@ -8621,7 +8621,7 @@
     "id": 38916,
     "name": "Medine Demir",
     "fullname": "Medine Demir",
-    "age": "Reşit Değil ",
+    "age": "Reşit Değil",
     "location": "Gaziantep",
     "date": "12/10/2024",
     "reason": "Tespit Edilemeyen",
@@ -8790,7 +8790,7 @@
     "location": "İstanbul",
     "date": "04/10/2024",
     "reason": "Tespit Edilemeyen",
-    "by": "Tanımadığı Birisi ",
+    "by": "Tanımadığı Birisi",
     "protection": "Yok",
     "method": "Kesici Alet",
     "status": "İntihar",
@@ -8841,7 +8841,7 @@
     "id": 37899,
     "name": "Sibel Aygan",
     "fullname": "Sibel Aygan",
-    "age": "Reşit ",
+    "age": "Reşit",
     "location": "Aydın",
     "date": "01/10/2024",
     "reason": "Boşanma Talebi",
@@ -9417,7 +9417,7 @@
     "id": 38968,
     "name": "Hatice Rençber",
     "fullname": "Hatice Rençber",
-    "age": "Reşit ",
+    "age": "Reşit",
     "location": "Gaziantep",
     "date": "11/09/2024",
     "reason": "Tartışma",
@@ -9742,7 +9742,7 @@
     "name": "Ebru Duvar",
     "fullname": "Ebru Duvar",
     "age": "Reşit",
-    "location": "İzmir ",
+    "location": "İzmir",
     "date": "29/08/2024",
     "reason": "Arkadaşını Korumaya Çalışırken",
     "by": "Arkadaşının Kocası",
@@ -9797,7 +9797,7 @@
     "name": "Nira Şimşek",
     "fullname": "Nira Şimşek",
     "age": "Reşit Değil",
-    "location": "İzmir ",
+    "location": "İzmir",
     "date": "27/08/2024",
     "reason": "Tespit Edilemeyen",
     "by": "Babası",
@@ -10291,7 +10291,7 @@
     "name": "Müge Elbeli",
     "fullname": "Müge Elbeli",
     "age": "Reşit",
-    "location": "Denizli ",
+    "location": "Denizli",
     "date": "01/08/2024",
     "reason": "Aldatma Şüphesi",
     "by": "Kocası",
@@ -10566,7 +10566,7 @@
     "reason": "Tartışma",
     "by": "Kardeşi",
     "protection": "Yok",
-    "method": "Kesici Alet ",
+    "method": "Kesici Alet",
     "status": "Tutuklu",
     "source": [
       "https://www.hurriyet.com.tr/gundem/rat-atarak-polatlari-yakti-eski-dostlari-dusman-oldu-42488357"
@@ -10887,7 +10887,7 @@
   {
     "id": 36816,
     "name": "Semiha Türk",
-    "fullname": "Semiha Türk ",
+    "fullname": "Semiha Türk",
     "age": "Reşit",
     "location": "Niğde",
     "date": "24/06/2024",
@@ -10907,7 +10907,7 @@
     "name": "Gizem Nazife Türk",
     "fullname": "Gizem Nazife Türk",
     "age": "Reşit Değil",
-    "location": "Niğde ",
+    "location": "Niğde",
     "date": "24/06/2024",
     "reason": "Tartışma",
     "by": "Akrabası",
@@ -11576,7 +11576,7 @@
   {
     "id": 35776,
     "name": "Hangül Ciğerli",
-    "fullname": "Hangül Ciğerli ",
+    "fullname": "Hangül Ciğerli",
     "age": "Reşit",
     "location": "Erzurum",
     "date": "24/05/2024",
@@ -11963,7 +11963,7 @@
     "reason": "Tespit Edilemeyen",
     "by": "Babası",
     "protection": "Yok",
-    "method": "Boğularak ",
+    "method": "Boğularak",
     "status": "İntihar",
     "source": [
       "https://www.hurriyet.com.tr/gundem/kiliste-5-kisilik-aile-olu-bulunmustu-korkunc-detaylar-ortaya-cikti-42457328"
@@ -13005,7 +13005,7 @@
     "fullname": "Naciye Cengiz",
     "age": "Reşit",
     "location": "Gaziantep",
-    "date": "29/03/2024 ",
+    "date": "29/03/2024",
     "reason": "Tespit Edilemeyen",
     "by": "Tespit Edilemeyen",
     "protection": "Yok",
@@ -13743,7 +13743,7 @@
     "id": 35686,
     "name": "Pınar Bulunmaz",
     "fullname": "Pınar Bulunmaz",
-    "age": "Reşit ",
+    "age": "Reşit",
     "location": "Urfa",
     "date": "23/02/2024",
     "reason": "Tartışma",
@@ -13889,7 +13889,7 @@
     "name": "Gülhan Korkmaz",
     "fullname": "Gülhan Korkmaz",
     "age": "Reşit",
-    "location": "Gaziantep ",
+    "location": "Gaziantep",
     "date": "13/02/2024",
     "reason": "Tartışma",
     "by": "Dini Nikahlı Eşi",
@@ -14466,7 +14466,7 @@
     "id": 35598,
     "name": "Ayşegül Oğuz",
     "fullname": "Ayşegül Oğuz",
-    "age": "Reşit ",
+    "age": "Reşit",
     "location": "Sakarya",
     "date": "19/01/2024",
     "reason": "Tartışma",
@@ -14681,7 +14681,7 @@
   {
     "id": 35623,
     "name": "Gülseven D.",
-    "fullname": "Gülseven D. ",
+    "fullname": "Gülseven D.",
     "age": "Reşit",
     "location": "Ankara",
     "date": "07/01/2024",
@@ -15461,7 +15461,7 @@
     "location": "İstanbul",
     "date": "22/11/2023",
     "reason": "Tartışma",
-    "by": "Tanıdığı Birisi ",
+    "by": "Tanıdığı Birisi",
     "protection": "Yok",
     "method": "Ateşli Silah",
     "status": "İntihar",
@@ -15624,7 +15624,7 @@
     "age": "Reşit",
     "location": "Şanlıurfa",
     "date": "16/11/2023",
-    "reason": "Tartışma, Büyü ",
+    "reason": "Tartışma, Büyü",
     "by": "Kocası",
     "protection": "Yok",
     "method": "Ateşli Silah",
@@ -16888,7 +16888,7 @@
     "age": "Reşit",
     "location": "Konya",
     "date": "15/09/2023",
-    "reason": "Aldatma Şüphesi ",
+    "reason": "Aldatma Şüphesi",
     "by": "Kocası",
     "protection": "Yok",
     "method": "Kesici Alet",
@@ -17769,7 +17769,7 @@
     "id": 29421,
     "name": "Ebru K.",
     "fullname": "Ebru K.",
-    "age": "Reşit ",
+    "age": "Reşit",
     "location": "İstanbul",
     "date": "19/08/2023",
     "reason": "Tespit Edilemeyen",
@@ -18075,7 +18075,7 @@
   {
     "id": 28415,
     "name": "Esma Kalenderli",
-    "fullname": "Esma Kalenderli ",
+    "fullname": "Esma Kalenderli",
     "age": "Reşit",
     "location": "Şanlıurfa",
     "date": "06/08/2023",
@@ -19230,7 +19230,7 @@
   {
     "id": 25387,
     "name": "Gülkamar Hanimova",
-    "fullname": "Gülkamar Hanimova ",
+    "fullname": "Gülkamar Hanimova",
     "age": "Reşit",
     "location": "İzmir",
     "date": "19/06/2023",
@@ -19289,7 +19289,7 @@
     "name": "Ayşe Sevim Akarçay",
     "fullname": "Ayşe Sevim Akarçay",
     "age": "Reşit",
-    "location": "Aydın ",
+    "location": "Aydın",
     "date": "19/06/2023",
     "reason": "Tespit Edilemeyen",
     "by": "Tespit Edilemeyen",
@@ -19494,7 +19494,7 @@
     "reason": "Tespit Edilemeyen",
     "by": "Tespit Edilemeyen",
     "protection": "Yok",
-    "method": "Yüksekten Düşme ",
+    "method": "Yüksekten Düşme",
     "status": "Tespit Edilemeyen",
     "source": [
       "https://www.birgun.net/haber/21-yasindaki-sabah-azezi-nin-supheli-olumu-apartmanin-5-katindan-dustugu-iddia-edildi-445301"
@@ -20320,7 +20320,7 @@
     "date": "09/05/2023",
     "reason": "Reddedilme, Tartışma",
     "by": "Sevgilisi",
-    "protection": "Yok ",
+    "protection": "Yok",
     "method": "Kesici Alet",
     "status": "Tutuklu",
     "source": [
@@ -20809,7 +20809,7 @@
     "location": "Karaman",
     "date": "13/04/2023",
     "reason": "Reddedilme",
-    "by": "Kuzeni ",
+    "by": "Kuzeni",
     "protection": "Yok",
     "method": "Ateşli Silah",
     "status": "Tutuklu",
@@ -20877,7 +20877,7 @@
     "id": 23363,
     "name": "Gina Mercimek",
     "fullname": "Gina Mercimek",
-    "age": "Reşit Değil ",
+    "age": "Reşit Değil",
     "location": "Kilis",
     "date": "06/04/2023",
     "reason": "Tespit Edilemeyen",
@@ -21131,7 +21131,7 @@
     "name": "Beril Yağmur Rüzgar",
     "fullname": "Beril Yağmur Rüzgar",
     "age": "Reşit Değil",
-    "location": "Kocaeli ",
+    "location": "Kocaeli",
     "date": "23/03/2023",
     "reason": "Tespit Edilemeyen",
     "by": "Babası",
@@ -21335,7 +21335,7 @@
     "reason": "Tartışma",
     "by": "Kocası",
     "protection": "Yok",
-    "method": "Kesici Alet ",
+    "method": "Kesici Alet",
     "status": "İntihar",
     "source": [
       "https://www.cumhuriyet.com.tr/turkiye/istanbul-pendikte-kadin-cinayeti-tartistigi-esini-bicakla-oldurup-5-kattan-atladi-2058883"
@@ -21729,7 +21729,7 @@
     "name": "E.Y.",
     "fullname": "E.Y.",
     "age": "Reşit",
-    "location": "Bursa ",
+    "location": "Bursa",
     "date": "28/01/2023",
     "reason": "Tespit Edilemeyen",
     "by": "Tespit Edilemeyen",
@@ -21842,7 +21842,7 @@
     "reason": "Tespit Edilemeyen",
     "by": "Kocası",
     "protection": "Yok",
-    "method": "Kesici Alet ",
+    "method": "Kesici Alet",
     "status": "Aranıyor",
     "source": [
       "https://www.hurriyet.com.tr/gundem/efyanin-kocasina-kirmizi-bulten-42487848"
@@ -21944,7 +21944,7 @@
   {
     "id": 21310,
     "name": "Hülya Çetinkaya",
-    "fullname": "Hülya Çetinkaya ",
+    "fullname": "Hülya Çetinkaya",
     "age": "Reşit",
     "location": "Antalya",
     "date": "22/01/2023",
@@ -22059,7 +22059,7 @@
     "reason": "Tartışma",
     "by": "Kocası",
     "protection": "Yok",
-    "method": "Kesici Alet ",
+    "method": "Kesici Alet",
     "status": "Tutuklu",
     "source": [
       "https://www.milliyet.com.tr/gundem/barisma-randevusunda-cinayet-aldatma-iddiasi-nedeniyle-karisini-kalbinden-bicakladi-6888574"
@@ -22125,7 +22125,7 @@
   {
     "id": 20320,
     "name": "Necmiye Vural",
-    "fullname": "Necmiye Vural ",
+    "fullname": "Necmiye Vural",
     "age": "Reşit",
     "location": "İzmir",
     "date": "09/01/2023",
@@ -22887,7 +22887,7 @@
   {
     "id": 19300,
     "name": "Tülay Vural",
-    "fullname": "Tülay Vural ",
+    "fullname": "Tülay Vural",
     "age": "Reşit Değil",
     "location": "İstanbul",
     "date": "26/11/2022",
@@ -23164,7 +23164,7 @@
     "reason": "Tartışma",
     "by": "Kocası",
     "protection": "Yok",
-    "method": "Kesici Alet ",
+    "method": "Kesici Alet",
     "status": "Tutuklu",
     "source": [
       "https://www.hurriyet.com.tr/gundem/ankarada-esi-bahar-benguyu-katleden-cani-es-icin-istenen-ceza-belli-oldu-42328720"
@@ -23468,7 +23468,7 @@
     "location": "İstanbul",
     "date": "23/10/2022",
     "reason": "Para",
-    "by": "Tanıdığı Birisi ",
+    "by": "Tanıdığı Birisi",
     "protection": "Yok",
     "method": "Kesici Alet",
     "status": "Tutuklu",
@@ -23609,7 +23609,7 @@
     "id": 18292,
     "name": "Nursel Bircan",
     "fullname": "Nursel Bircan",
-    "age": "Reşit ",
+    "age": "Reşit",
     "location": "İstanbul",
     "date": "16/10/2022",
     "reason": "Tartışma",
@@ -23845,7 +23845,7 @@
     "name": "Tuğçe Uğur",
     "fullname": "Tuğçe Uğur",
     "age": "Reşit Değil",
-    "location": "Ankara ",
+    "location": "Ankara",
     "date": "09/10/2022",
     "reason": "Tespit Edilemeyen",
     "by": "Babası",
@@ -24607,7 +24607,7 @@
     "date": "01/09/2022",
     "reason": "Tartışma",
     "by": "Eski Kocası",
-    "protection": "Var ",
+    "protection": "Var",
     "method": "Vurucu Alet",
     "status": "Tutuklu",
     "source": [
@@ -24799,7 +24799,7 @@
   {
     "id": 20304,
     "name": "Dürdane Özkan",
-    "fullname": "Dürdane Özkan ",
+    "fullname": "Dürdane Özkan",
     "age": "Reşit",
     "location": "Tokat",
     "date": "20/08/2022",
@@ -25477,7 +25477,7 @@
     "reason": "Tartışma",
     "by": "Tanıdığı Birisi",
     "protection": "Yok",
-    "method": "Kesici Alet ",
+    "method": "Kesici Alet",
     "status": "Tutuklu",
     "source": [
       "https://www.hurriyet.com.tr/gundem/aysecik-dagistanli-ceylan-cinayetinde-2-tutuklama-42087122"
@@ -25548,7 +25548,7 @@
     "date": "14/07/2022",
     "reason": "Maganda Kurşunu",
     "by": "Tanıdığı Birisi",
-    "protection": "Yok ",
+    "protection": "Yok",
     "method": "Ateşli Silah",
     "status": "Tutuklu",
     "source": [
@@ -26192,7 +26192,7 @@
   {
     "id": 11234,
     "name": "Hatice Barış",
-    "fullname": "Hatice Barış ",
+    "fullname": "Hatice Barış",
     "age": "Reşit",
     "location": "Adana",
     "date": "19/06/2022",
@@ -26498,7 +26498,7 @@
   {
     "id": 13236,
     "name": "Meryem Köşek",
-    "fullname": "Meryem Köşek ",
+    "fullname": "Meryem Köşek",
     "age": "Reşit",
     "location": "İzmir",
     "date": "10/06/2022",
@@ -26812,7 +26812,7 @@
     "reason": "Tespit Edilemeyen",
     "by": "Babası",
     "protection": "Yok",
-    "method": "Kesici Alet ",
+    "method": "Kesici Alet",
     "status": "Tutuklu",
     "source": [
       "https://www.hurriyet.com.tr/gundem/alanyada-ukraynali-baba-dehset-sacmisti-2-kardes-ayni-tabuta-konuldu-42070047"
@@ -26953,7 +26953,7 @@
     "id": 9213,
     "name": "Şeyma Biran",
     "fullname": "Şeyma Biran",
-    "age": "Reşit ",
+    "age": "Reşit",
     "location": "İstanbul",
     "date": "22/05/2022",
     "reason": "Tespit Edilemeyen",
@@ -27187,7 +27187,7 @@
   {
     "id": 11213,
     "name": "Z.M.",
-    "fullname": "Z.M. ",
+    "fullname": "Z.M.",
     "age": "Reşit",
     "location": "Afyonkarahisar",
     "date": "16/05/2022",
@@ -28057,7 +28057,7 @@
     "id": 7227,
     "name": "Gülşen Onat",
     "fullname": "Gülşen Onat",
-    "age": "Reşit ",
+    "age": "Reşit",
     "location": "İstanbul",
     "date": "30/03/2022",
     "reason": "Tespit Edilemeyen",
@@ -28244,7 +28244,7 @@
     "reason": "Tespit Edilemeyen",
     "by": "Tespit Edilemeyen",
     "protection": "Yok",
-    "method": "Yüksekten Düşme ",
+    "method": "Yüksekten Düşme",
     "status": "Tespit Edilemeyen",
     "source": [
       "https://www.hurriyet.com.tr/gundem/ece-kilicaslan-acarin-supheli-olumu-esi-adli-kontrolle-serbest-42024990"
@@ -28327,7 +28327,7 @@
   {
     "id": 7201,
     "name": "Adviye Özgür",
-    "fullname": "Adviye Özgür ",
+    "fullname": "Adviye Özgür",
     "age": "Reşit",
     "location": "Çorlu",
     "date": "10/03/2022",
@@ -28417,7 +28417,7 @@
   {
     "id": 6202,
     "name": "Aıdanah Abykaliewa",
-    "fullname": "Aıdanah Abykaliewa ",
+    "fullname": "Aıdanah Abykaliewa",
     "age": "Reşit",
     "location": "İstanbul",
     "date": "03/03/2022",
@@ -29086,7 +29086,7 @@
   {
     "id": 4203,
     "name": "Simay Solak",
-    "fullname": "Simay Solak ",
+    "fullname": "Simay Solak",
     "age": "Reşit",
     "location": "Didim",
     "date": "30/01/2022",
@@ -29176,7 +29176,7 @@
   {
     "id": 4204,
     "name": "Mzia Okriashvili",
-    "fullname": "Mzia Okriashvili ",
+    "fullname": "Mzia Okriashvili",
     "age": "Reşit",
     "location": "Samsun",
     "date": "27/01/2022",
@@ -29428,7 +29428,7 @@
   {
     "id": 4161,
     "name": "Canan Işık",
-    "fullname": "Canan Işık ",
+    "fullname": "Canan Işık",
     "age": "Reşit",
     "location": "Adıyaman",
     "date": "17/01/2022",
@@ -31215,7 +31215,7 @@
   {
     "id": 4062,
     "name": "Sanem Kafalı",
-    "fullname": "Sanem Kafalı ",
+    "fullname": "Sanem Kafalı",
     "age": "Reşit",
     "location": "Hatay",
     "date": "12/11/2021",
@@ -31234,7 +31234,7 @@
     "id": 4041,
     "name": "Neslihan Batur",
     "fullname": "Neslihan Batur",
-    "age": "Reşit ",
+    "age": "Reşit",
     "location": "İstanbul",
     "date": "12/11/2021",
     "reason": "Kıskançlık",
@@ -33061,7 +33061,7 @@
     "name": "Emel Göker",
     "fullname": "Emel Göker",
     "age": "Reşit",
-    "location": "Konya ",
+    "location": "Konya",
     "date": "14/08/2021",
     "reason": "Tartışma",
     "by": "Tanımadığı Birisi",
@@ -33313,9 +33313,9 @@
   {
     "id": 3936,
     "name": "Sultan Duran",
-    "fullname": "Sultan Duran ",
-    "age": "Reşit ",
-    "location": "Denizli ",
+    "fullname": "Sultan Duran",
+    "age": "Reşit",
+    "location": "Denizli",
     "date": "05/08/2021",
     "reason": "Tartışma, Kızını Korumaya Çalışırken",
     "by": "Damadı",
@@ -33496,7 +33496,7 @@
     "name": "Hamiyet Yıldırım",
     "fullname": "Hamiyet Yıldırım",
     "age": "Reşit",
-    "location": "Ankara ",
+    "location": "Ankara",
     "date": "26/07/2021",
     "reason": "Tespit Edilemeyen",
     "by": "Kocası",
@@ -33972,7 +33972,7 @@
     "date": "25/06/2021",
     "reason": "Tespit Edilemeyen",
     "by": "Tanıdığı Birisi",
-    "protection": "Yok ",
+    "protection": "Yok",
     "method": "Ateşli Silah",
     "status": "İntihar",
     "source": [
@@ -34116,7 +34116,7 @@
     "location": "İzmir",
     "date": "18/06/2021",
     "reason": "Nefret",
-    "by": "Tanımadığı Birisi ",
+    "by": "Tanımadığı Birisi",
     "protection": "Yok",
     "method": "Ateşli Silah",
     "status": "Tutuklu",
@@ -34318,7 +34318,7 @@
     "by": "Kocası",
     "protection": "Yok",
     "method": "Ateşli Silah",
-    "status": "İntihar ",
+    "status": "İntihar",
     "source": [
       "https://www.hurriyet.com.tr/gundem/samsunda-dehset-karisini-oldurup-intihar-etti-41826432"
     ],
@@ -34563,7 +34563,7 @@
   {
     "id": 4046,
     "name": "Bedriye Kaynak",
-    "fullname": "Bedriye Kaynak ",
+    "fullname": "Bedriye Kaynak",
     "age": "Reşit",
     "location": "Mardin",
     "date": "22/05/2021",
@@ -34660,7 +34660,7 @@
     "reason": "Tartışma",
     "by": "Oğlu",
     "protection": "Yok",
-    "method": "Kesici Alet ",
+    "method": "Kesici Alet",
     "status": "Öldü",
     "source": [
       "https://www.haberler.com/yerli-otomobilin-yapilamayacagini-soyleyen-chp-li-14528138-haberi/"
@@ -35304,7 +35304,7 @@
     "id": 6206,
     "name": "Bahar B.",
     "fullname": "Bahar B.",
-    "age": "Reşit ",
+    "age": "Reşit",
     "location": "Elazığ",
     "date": "08/04/2021",
     "reason": "Tespit Edilemeyen",
@@ -35645,7 +35645,7 @@
   {
     "id": 3824,
     "name": "Engin Dağlı",
-    "fullname": "Engin Dağlı ",
+    "fullname": "Engin Dağlı",
     "age": "Reşit",
     "location": "Gazipaşa",
     "date": "26/03/2021",
@@ -35771,7 +35771,7 @@
   {
     "id": 3794,
     "name": "Elif Atay",
-    "fullname": "Elif Atay ",
+    "fullname": "Elif Atay",
     "age": "Reşit",
     "location": "Antalya",
     "date": "22/03/2021",
@@ -35845,7 +35845,7 @@
     "name": "Hatice Yıldız",
     "fullname": "Hatice Yıldız",
     "age": "Reşit",
-    "location": "Denizli ",
+    "location": "Denizli",
     "date": "21/03/2021",
     "reason": "Tartışma",
     "by": "Kocası",
@@ -35938,7 +35938,7 @@
     "location": "Diyarbakır",
     "date": "19/03/2021",
     "reason": "Tespit Edilemeyen",
-    "by": "Yeğeni ",
+    "by": "Yeğeni",
     "protection": "Yok",
     "method": "Yanarak",
     "status": "Tutuklu",
@@ -36025,7 +36025,7 @@
     "name": "Mediha Aygün",
     "fullname": "Mediha Aygün",
     "age": "Reşit",
-    "location": "Düzce ",
+    "location": "Düzce",
     "date": "16/03/2021",
     "reason": "Tartışma",
     "by": "Kocası",
@@ -36261,7 +36261,7 @@
     "name": "Fatma Kovan",
     "fullname": "Fatma Kovan",
     "age": "Reşit",
-    "location": "Denizli ",
+    "location": "Denizli",
     "date": "07/03/2021",
     "reason": "Tartışma",
     "by": "Eski Kocası",
@@ -36333,10 +36333,10 @@
     "name": "Halime Türkaslan",
     "fullname": "Halime Türkaslan",
     "age": "Reşit",
-    "location": "Niğde ",
+    "location": "Niğde",
     "date": "04/03/2021",
     "reason": "Reddedilme",
-    "by": "Eski Kocası ",
+    "by": "Eski Kocası",
     "protection": "Yok",
     "method": "Kesici Alet",
     "status": "Tutuklu",
@@ -36745,7 +36745,7 @@
   {
     "id": 3765,
     "name": "Karanfil Özcan",
-    "fullname": "Karanfil Özcan ",
+    "fullname": "Karanfil Özcan",
     "age": "Reşit",
     "location": "Manisa",
     "date": "15/02/2021",
@@ -36806,7 +36806,7 @@
     "reason": "Tartışma",
     "by": "Kocası",
     "protection": "Yok",
-    "method": "Kesici Alet ",
+    "method": "Kesici Alet",
     "status": "Tutuklu",
     "source": [
       "https://www.hurriyet.com.tr/gundem/sevgililer-gununde-korkunc-cinayet-41740044"
@@ -37106,7 +37106,7 @@
     "id": 3751,
     "name": "Feride Yılmaz",
     "fullname": "Feride Yılmaz",
-    "age": "Reşit ",
+    "age": "Reşit",
     "location": "Gaziantep",
     "date": "28/01/2021",
     "reason": "Tespit Edilemeyen",
@@ -37195,7 +37195,7 @@
   {
     "id": 3754,
     "name": "Nasıma Sharıfı",
-    "fullname": "Nasıma Sharıfı ",
+    "fullname": "Nasıma Sharıfı",
     "age": "Reşit",
     "location": "Nevşehir",
     "date": "25/01/2021",
@@ -37596,7 +37596,7 @@
     "location": "Eskişehir",
     "date": "01/01/2021",
     "reason": "Tespit Edilemeyen",
-    "by": "Tanıdığı Birisi ",
+    "by": "Tanıdığı Birisi",
     "protection": "Yok",
     "method": "Kesici Alet",
     "status": "Tutuklu",
@@ -38131,7 +38131,7 @@
     "id": 3650,
     "name": "Burçin Arslan",
     "fullname": "Burçin Arslan",
-    "age": "Reşit ",
+    "age": "Reşit",
     "location": "Erzurum",
     "date": "08/12/2020",
     "reason": "Annesini Korurken",
@@ -38256,7 +38256,7 @@
   {
     "id": 3695,
     "name": "Nuray E.",
-    "fullname": "Nuray E. ",
+    "fullname": "Nuray E.",
     "age": "Reşit",
     "location": "Bursa",
     "date": "01/12/2020",
@@ -38814,7 +38814,7 @@
   {
     "id": 3639,
     "name": "Melihat Tuncel",
-    "fullname": "Melihat Tuncel ",
+    "fullname": "Melihat Tuncel",
     "age": "Reşit",
     "location": "Afyonkarahisar",
     "date": "11/11/2020",
@@ -39648,7 +39648,7 @@
     "date": "22/09/2020",
     "reason": "Tespit Edilemeyen",
     "by": "Tespit Edilemeyen",
-    "protection": "Yok ",
+    "protection": "Yok",
     "method": "Ateşli Silah",
     "status": "Soruşturma Sürüyor",
     "source": [
@@ -39715,7 +39715,7 @@
     "id": 3536,
     "name": "Şükran Aksu",
     "fullname": "Şükran Aksu",
-    "age": "Reşit ",
+    "age": "Reşit",
     "location": "Sivas",
     "date": "17/09/2020",
     "reason": "Kızını Korurken, Tartışma",
@@ -40526,7 +40526,7 @@
     "id": 3564,
     "name": "İsmi Bilinmiyor",
     "fullname": "İsmi Bilinmiyor",
-    "age": "Reşit ",
+    "age": "Reşit",
     "location": "Mardin",
     "date": "17/08/2020",
     "reason": "Tespit Edilemeyen",
@@ -40977,7 +40977,7 @@
     "id": 3499,
     "name": "Berfin A.",
     "fullname": "Berfin A.",
-    "age": "Reşit ",
+    "age": "Reşit",
     "location": "Mardin",
     "date": "30/07/2020",
     "reason": "Tespit Edilemeyen",
@@ -41379,7 +41379,7 @@
     "date": "12/07/2020",
     "reason": "Tespit Edilemeyen",
     "by": "Babası",
-    "protection": "Yok ",
+    "protection": "Yok",
     "method": "Ateşli Silah",
     "status": "İntihar",
     "source": [
@@ -42387,7 +42387,7 @@
     "name": "Hatice Batmaz",
     "fullname": "Hatice Batmaz",
     "age": "Reşit",
-    "location": "Denizli ",
+    "location": "Denizli",
     "date": "04/06/2020",
     "reason": "Tespit Edilemeyen",
     "by": "Tespit Edilemeyen",
@@ -42820,7 +42820,7 @@
     "fullname": "Ceren Kultaş",
     "age": "Reşit",
     "location": "Manisa",
-    "date": "22/05/2020 ",
+    "date": "22/05/2020",
     "reason": "Tespit Edilemeyen",
     "by": "Tanımadığı Birisi",
     "protection": "Yok",
@@ -42980,7 +42980,7 @@
     "id": 3329,
     "name": "Mehtap G.",
     "fullname": "Mehtap G.",
-    "age": "Reşit ",
+    "age": "Reşit",
     "location": "İstanbul",
     "date": "17/05/2020",
     "reason": "Tespit Edilemeyen",
@@ -43021,7 +43021,7 @@
     "date": "15/05/2020",
     "reason": "Tespit Edilemeyen",
     "by": "Tespit Edilemeyen",
-    "protection": "Yok ",
+    "protection": "Yok",
     "method": "Tespit Edilemeyen",
     "status": "Soruşturma Sürüyor",
     "source": [
@@ -43033,7 +43033,7 @@
   {
     "id": 3411,
     "name": "Neslihan Çalar",
-    "fullname": "Neslihan Çalar ",
+    "fullname": "Neslihan Çalar",
     "age": "Reşit",
     "location": "Batman",
     "date": "15/05/2020",
@@ -43125,7 +43125,7 @@
     "name": "Ceren Atlı",
     "fullname": "Ceren Atlı",
     "age": "Reşit",
-    "location": "Van ",
+    "location": "Van",
     "date": "09/05/2020",
     "reason": "Tespit Edilemeyen",
     "by": "Tespit Edilemeyen",
@@ -43757,7 +43757,7 @@
     "name": "Esra Kılıçaslan",
     "fullname": "Esra Kılıçaslan",
     "age": "Reşit",
-    "location": "Tunceli ",
+    "location": "Tunceli",
     "date": "08/04/2020",
     "reason": "Tespit Edilemeyen",
     "by": "Tespit Edilemeyen",
@@ -43941,7 +43941,7 @@
     "date": "26/03/2020",
     "reason": "Tespit Edilemeyen",
     "by": "Tespit Edilemeyen",
-    "protection": "Yok ",
+    "protection": "Yok",
     "method": "Kesici Alet",
     "status": "Soruşturma Sürüyor",
     "source": [
@@ -44154,7 +44154,7 @@
     "name": "İsmi Bilinmiyor",
     "fullname": "İsmi Bilinmiyor",
     "age": "Reşit",
-    "location": "Denizli ",
+    "location": "Denizli",
     "date": "07/03/2020",
     "reason": "Tespit Edilemeyen",
     "by": "Kocası",
@@ -44188,7 +44188,7 @@
   {
     "id": 3303,
     "name": "Didem Turan",
-    "fullname": "Didem Turan ",
+    "fullname": "Didem Turan",
     "age": "Reşit Değil",
     "location": "Erzurum",
     "date": "05/03/2020",
@@ -44495,7 +44495,7 @@
     "id": 3275,
     "name": "Şeyma Yıldız",
     "fullname": "Şeyma Yıldız",
-    "age": "Reşit Değil ",
+    "age": "Reşit Değil",
     "location": "Ankara",
     "date": "07/02/2020",
     "reason": "Namus",
@@ -44855,7 +44855,7 @@
     "id": 3272,
     "name": "Alev Ergin",
     "fullname": "Alev Ergin",
-    "age": "Reşit ",
+    "age": "Reşit",
     "location": "Kırşehir",
     "date": "22/01/2020",
     "reason": "Tespit Edilemeyen",
@@ -45126,7 +45126,7 @@
     "name": "Nergüzel Kocabıyık",
     "fullname": "Nergüzel Kocabıyık",
     "age": "Reşit",
-    "location": "İzmir ",
+    "location": "İzmir",
     "date": "13/11/2010",
     "reason": "Tespit Edilemeyen",
     "by": "Kocası",
@@ -45540,7 +45540,7 @@
   {
     "id": 3213,
     "name": "Sevgi Polat",
-    "fullname": "Sevgi Polat ",
+    "fullname": "Sevgi Polat",
     "age": "Reşit",
     "location": "İzmir",
     "date": "26/11/2019",
@@ -45636,7 +45636,7 @@
     "date": "24/11/2019",
     "reason": "Kıskançlık",
     "by": "Eski Kocası",
-    "protection": "Var ",
+    "protection": "Var",
     "method": "Kesici Alet",
     "status": "Tutuklu",
     "source": [
@@ -46016,7 +46016,7 @@
     "reason": "Maddi Sıkıntı",
     "by": "Babası",
     "protection": "Yok",
-    "method": "Zehirlenme ",
+    "method": "Zehirlenme",
     "status": "İntihar",
     "source": [
       "https://www.sozcu.com.tr/2019/gundem/antalyadaki-korkunc-olayda-sir-perdesi-aralaniyor-5440394/"
@@ -46027,7 +46027,7 @@
   {
     "id": 3429,
     "name": "İrem Bahçe",
-    "fullname": "İrem Bahçe ",
+    "fullname": "İrem Bahçe",
     "age": "Reşit Değil",
     "location": "Mersin",
     "date": "07/11/2019",
@@ -46279,7 +46279,7 @@
   {
     "id": 3161,
     "name": "Songül Önemli",
-    "fullname": "Songül Önemli ",
+    "fullname": "Songül Önemli",
     "age": "Reşit",
     "location": "Adıyaman",
     "date": "26/10/2019",
@@ -46680,7 +46680,7 @@
     "fullname": "Emel Gaga",
     "age": "Reşit",
     "location": "Çanakkale",
-    "date": "05/10/2019 ",
+    "date": "05/10/2019",
     "reason": "Tespit Edilemeyen",
     "by": "Kocası",
     "protection": "Yok",
@@ -46858,7 +46858,7 @@
   {
     "id": 3147,
     "name": "A.M.M.A.O.",
-    "fullname": "A.M.M.A.O. ",
+    "fullname": "A.M.M.A.O.",
     "age": "Reşit",
     "location": "Adapazarı",
     "date": "29/09/2019",
@@ -46969,7 +46969,7 @@
     "name": "Hülya Üstün",
     "fullname": "Hülya Üstün",
     "age": "Reşit",
-    "location": "Bursa ",
+    "location": "Bursa",
     "date": "26/09/2019",
     "reason": "Tartışma",
     "by": "Sevgilisi",
@@ -47116,9 +47116,9 @@
     "location": "İstanbul",
     "date": "21/09/2019",
     "reason": "Tespit Edilemeyen",
-    "by": "Abisi ",
+    "by": "Abisi",
     "protection": "Yok",
-    "method": "Kesici Alet ",
+    "method": "Kesici Alet",
     "status": "Tutuklu",
     "source": [
       "https://www.mersinhaber.com/haber-cinnet-geciren-genc-annesinibabasini-ve-2-kardesini-bicaklayarak-oldurdu/388086"
@@ -47435,7 +47435,7 @@
   {
     "id": 3110,
     "name": "Ozodkhon Abdıkarımova",
-    "fullname": "Ozodkhon Abdıkarımova ",
+    "fullname": "Ozodkhon Abdıkarımova",
     "age": "Reşit",
     "location": "Zonguldak",
     "date": "09/09/2019",
@@ -48121,7 +48121,7 @@
   {
     "id": 3050,
     "name": "Emine Şahin",
-    "fullname": "Emine Şahin ",
+    "fullname": "Emine Şahin",
     "age": "Reşit",
     "location": "Samsun",
     "date": "15/08/2019",
@@ -48325,7 +48325,7 @@
     "location": "Kırıkkale",
     "date": "07/08/2019",
     "reason": "Tartışma",
-    "by": "Kocası ",
+    "by": "Kocası",
     "protection": "Yok",
     "method": "Ateşli Silah",
     "status": "İntihar",
@@ -48610,7 +48610,7 @@
     "id": 3064,
     "name": "Saime Durgel",
     "fullname": "Saime Durgel",
-    "age": "Reşit ",
+    "age": "Reşit",
     "location": "Adana",
     "date": "23/07/2019",
     "reason": "Tespit Edilemeyen",
@@ -48647,7 +48647,7 @@
     "name": "Hasine Şanlı",
     "fullname": "Hasine Şanlı",
     "age": "Reşit",
-    "location": "Denizli ",
+    "location": "Denizli",
     "date": "18/07/2019",
     "reason": "Tespit Edilemeyen",
     "by": "Sevgilisi",
@@ -48919,7 +48919,7 @@
     "age": "Reşit",
     "location": "Çorum",
     "date": "30/06/2019",
-    "reason": "Boşanma Talebi ",
+    "reason": "Boşanma Talebi",
     "by": "Kocası",
     "protection": "Yok",
     "method": "Ateşli Silah",
@@ -48952,7 +48952,7 @@
     "id": 3020,
     "name": "Tuğba Sarı",
     "fullname": "Tuğba Sarı",
-    "age": "Reşit ",
+    "age": "Reşit",
     "location": "Konya",
     "date": "28/06/2019",
     "reason": "Tespit Edilemeyen",
@@ -49330,7 +49330,7 @@
     "id": 3023,
     "name": "N.S.",
     "fullname": "N.S.",
-    "age": "Reşit ",
+    "age": "Reşit",
     "location": "Sakarya",
     "date": "16/06/2019",
     "reason": "Tespit Edilemeyen",
@@ -50072,7 +50072,7 @@
     "age": "Reşit",
     "location": "Adana",
     "date": "07/05/2019",
-    "reason": "Boşanma Talebi ",
+    "reason": "Boşanma Talebi",
     "by": "Kocası",
     "protection": "Yok",
     "method": "Vurucu Alet, Kesici Alet",
@@ -50109,7 +50109,7 @@
     "location": "Antalya",
     "date": "04/05/2019",
     "reason": "Kendi hayatına karar vermek istediği için",
-    "by": "Eski Kocası ",
+    "by": "Eski Kocası",
     "protection": "Yok",
     "method": "Kesici Alet",
     "status": "Tutuklu",
@@ -50267,7 +50267,7 @@
     "id": 2940,
     "name": "Serra Bozbay",
     "fullname": "Serra Bozbay",
-    "age": "Reşit Değil ",
+    "age": "Reşit Değil",
     "location": "Sakarya",
     "date": "28/04/2019",
     "reason": "Tespit Edilemeyen",
@@ -50680,7 +50680,7 @@
   {
     "id": 2921,
     "name": "Nur Muhammet Berzo",
-    "fullname": "Nur Muhammet Berzo ",
+    "fullname": "Nur Muhammet Berzo",
     "age": "Reşit",
     "location": "Niğde",
     "date": "08/04/2019",
@@ -51816,7 +51816,7 @@
   {
     "id": 2819,
     "name": "Aysel Zeren",
-    "fullname": "Aysel Zeren ",
+    "fullname": "Aysel Zeren",
     "age": "Reşit",
     "location": "Malatya",
     "date": "06/02/2019",
@@ -52129,7 +52129,7 @@
     "date": "27/01/2019",
     "reason": "Tartışma",
     "by": "Torunu",
-    "protection": "Yok ",
+    "protection": "Yok",
     "method": "Ateşli Silah",
     "status": "Tutuklu",
     "source": [
@@ -52592,7 +52592,7 @@
   {
     "id": 2786,
     "name": "Ayça Songur",
-    "fullname": "Ayça Songur ",
+    "fullname": "Ayça Songur",
     "age": "Reşit",
     "location": "Denizli",
     "date": "07/01/2019",
@@ -52919,10 +52919,10 @@
     "name": "Fatma Korur",
     "fullname": "Fatma Korur",
     "age": "Reşit",
-    "location": "Bursa ",
+    "location": "Bursa",
     "date": "19/06/2019",
     "reason": "Tartışma",
-    "by": "Kocası ",
+    "by": "Kocası",
     "protection": "Yok",
     "method": "Kesici Alet",
     "status": "Tutuklu",
@@ -53373,7 +53373,7 @@
     "date": "18/12/2018",
     "reason": "Tartışma",
     "by": "Kocası",
-    "protection": "Yok ",
+    "protection": "Yok",
     "method": "Ateşli Silah",
     "status": "Tutuklu",
     "source": [
@@ -53549,7 +53549,7 @@
   {
     "id": 2712,
     "name": "Gülten Gülüm Dil",
-    "fullname": "Gülten Gülüm Dil ",
+    "fullname": "Gülten Gülüm Dil",
     "age": "Reşit",
     "location": "İstanbul",
     "date": "12/12/2018",
@@ -54185,7 +54185,7 @@
     "date": "23/10/2018",
     "reason": "Tespit Edilemeyen",
     "by": "Tanıdığı Birisi",
-    "protection": "Yok ",
+    "protection": "Yok",
     "method": "Tespit Edilemeyen",
     "status": "Tutuklu",
     "source": [
@@ -54361,7 +54361,7 @@
     "name": "Hamide Çavdar",
     "fullname": "Hamide Çavdar",
     "age": "Reşit",
-    "location": "Denizli ",
+    "location": "Denizli",
     "date": "14/10/2018",
     "reason": "Tartşma",
     "by": "Tanıdığı Birileri",
@@ -54399,7 +54399,7 @@
     "age": "Reşit",
     "location": "Diyarbakır",
     "date": "11/10/2018",
-    "reason": "Tartışma ",
+    "reason": "Tartışma",
     "by": "Kocası",
     "protection": "Yok",
     "method": "Boğularak",
@@ -56528,7 +56528,7 @@
     "reason": "Tartışma",
     "by": "Oğlu",
     "protection": "Yok",
-    "method": "Kesici Alet ",
+    "method": "Kesici Alet",
     "status": "Soruşturma Sürüyor",
     "source": [
       "https://www.tarsusakdeniz.com/haber-mersinde-kadin-cinayeti/38129"
@@ -56596,7 +56596,7 @@
     "fullname": "Melek S.",
     "age": "Reşit",
     "location": "Edirne",
-    "date": "27/06/2018 ",
+    "date": "27/06/2018",
     "reason": "Kıskançlık",
     "by": "Kocası",
     "protection": "Yok",
@@ -56614,7 +56614,7 @@
     "fullname": "Tespit Edilemeyen",
     "age": "Reşit",
     "location": "İstanbul",
-    "date": "27/06/2018 ",
+    "date": "27/06/2018",
     "reason": "Tartışma",
     "by": "Kocası",
     "protection": "Yok",
@@ -56811,7 +56811,7 @@
     "name": "Gülsüm Köse",
     "fullname": "Gülsüm Köse",
     "age": "Reşit",
-    "location": "Gaziantep ",
+    "location": "Gaziantep",
     "date": "20/06/2018",
     "reason": "Kızını Korurken",
     "by": "Damadı",
@@ -56991,7 +56991,7 @@
   {
     "id": 2593,
     "name": "Yüksel Nur Şen",
-    "fullname": "Yüksel Nur Şen ",
+    "fullname": "Yüksel Nur Şen",
     "age": "Reşit",
     "location": "Muğla",
     "date": "12/06/2018",
@@ -57390,7 +57390,7 @@
     "fullname": "Selin Buse Balcı",
     "age": "Reşit",
     "location": "Tekirdağ",
-    "date": "25/05/2018 ",
+    "date": "25/05/2018",
     "reason": "Tespit Edilemeyen",
     "by": "Akrabası",
     "protection": "Yok",
@@ -57515,7 +57515,7 @@
     "name": "Havva Sakin",
     "fullname": "Havva Sakin",
     "age": "Reşit",
-    "location": "Bursa ",
+    "location": "Bursa",
     "date": "19/05/2018",
     "reason": "Namus",
     "by": "Kocası",
@@ -57750,7 +57750,7 @@
     "fullname": "Satı F.",
     "age": "Reşit",
     "location": "Ankara",
-    "date": "08/05/2018 ",
+    "date": "08/05/2018",
     "reason": "Boşanma Talebi",
     "by": "Kocası",
     "protection": "Yok",
@@ -59082,7 +59082,7 @@
   {
     "id": 2321,
     "name": "Maiko Dzidziguri",
-    "fullname": "Maiko Dzidziguri ",
+    "fullname": "Maiko Dzidziguri",
     "age": "Reşit",
     "location": "İstanbul",
     "date": "23/02/2018",
@@ -59376,7 +59376,7 @@
     "name": "Nurdan Şahin",
     "fullname": "Nurdan Şahin",
     "age": "Reşit Değil",
-    "location": "Denizli ",
+    "location": "Denizli",
     "date": "15/02/2018",
     "reason": "Bilinmiyor",
     "by": "Babası",
@@ -59500,7 +59500,7 @@
   {
     "id": 2368,
     "name": "Nurgül Karakoç",
-    "fullname": "Nurgül Karakoç ",
+    "fullname": "Nurgül Karakoç",
     "age": "Reşit",
     "location": "Zonguldak",
     "date": "11/02/2018",
@@ -61327,7 +61327,7 @@
     "name": "Şennur Genişol",
     "fullname": "Şennur Genişol",
     "age": "",
-    "location": "Denizli ",
+    "location": "Denizli",
     "date": "29/10/2017",
     "reason": "Tartışma",
     "by": "Oğlu",
@@ -61907,7 +61907,7 @@
     "age": "",
     "location": "İstanbul",
     "date": "19/09/2017",
-    "reason": "İntikam ",
+    "reason": "İntikam",
     "by": "Eski Kocası",
     "protection": "Yok",
     "method": "Kesici Alet",
@@ -62029,7 +62029,7 @@
   {
     "id": 2133,
     "name": "Sanaa Mımı Abdelrahman Mkboul",
-    "fullname": "Sanaa Mımı Abdelrahman Mkboul ",
+    "fullname": "Sanaa Mımı Abdelrahman Mkboul",
     "age": "",
     "location": "Konya",
     "date": "14/09/2017",
@@ -62051,7 +62051,7 @@
     "age": "",
     "location": "Konya",
     "date": "14/09/2017",
-    "reason": "Karısınla arkadaşlık ettiği için ",
+    "reason": "Karısınla arkadaşlık ettiği için",
     "by": "Tanıdığı Birisi",
     "protection": "Yok",
     "method": "Kesici Alet",
@@ -63549,7 +63549,7 @@
     "fullname": "N.M.",
     "age": "",
     "location": "Tekirdağ",
-    "date": "23/06/2017 ",
+    "date": "23/06/2017",
     "reason": "Tespit Edilemeyen",
     "by": "Tespit Edilemeyen",
     "protection": "Yok",
@@ -63853,7 +63853,7 @@
   {
     "id": 2103,
     "name": "Dilem İçoğlu Öz",
-    "fullname": "Dilem İçoğlu Öz ",
+    "fullname": "Dilem İçoğlu Öz",
     "age": "",
     "location": "Antalya",
     "date": "03/06/2017",
@@ -64165,7 +64165,7 @@
     "date": "24/05/2017",
     "reason": "Aldatılma İddiası",
     "by": "Kocası",
-    "protection": "Yok ",
+    "protection": "Yok",
     "method": "Ateşli Silah",
     "status": "Tutuklu",
     "source": [
@@ -65132,7 +65132,7 @@
   {
     "id": 2096,
     "name": "Yadigar Bozkurt",
-    "fullname": "Yadigar Bozkurt ",
+    "fullname": "Yadigar Bozkurt",
     "age": "",
     "location": "Denizli",
     "date": "01/04/2017",
@@ -65658,7 +65658,7 @@
     "fullname": "Nevin Gültekin",
     "age": "",
     "location": "Kastomonu",
-    "date": "06/03/2017 ",
+    "date": "06/03/2017",
     "reason": "Tespit Edilemeyen",
     "by": "Tespit Edilemeyen",
     "protection": "Bilinmiyor",
@@ -65820,7 +65820,7 @@
     "name": "Cansu Ç.",
     "fullname": "Cansu Ç.",
     "age": "",
-    "location": "İsstanbul ",
+    "location": "İsstanbul",
     "date": "12/02/2017",
     "reason": "Ayrılma Talebi",
     "by": "Eski Sevgilisi",
@@ -66187,7 +66187,7 @@
     "by": "Damadı",
     "protection": "Yok",
     "method": "Kesici Alet",
-    "status": "Kaçak ",
+    "status": "Kaçak",
     "source": [
       "http://www.milliyet.com.tr/esini-ve-kayinvalidesini-yol-kenari-gundem-2382118/"
     ],
@@ -66329,7 +66329,7 @@
     "date": "17/01/2017",
     "reason": "Tartışma",
     "by": "Tanımadığı Birisi",
-    "protection": "Yok ",
+    "protection": "Yok",
     "method": "Kesici Alet",
     "status": "Tutuklu",
     "source": [
@@ -66994,7 +66994,7 @@
     "fullname": "Vildan Kandemir",
     "age": "",
     "location": "Kütahya",
-    "date": "04/12/2016 ",
+    "date": "04/12/2016",
     "reason": "Tartışma",
     "by": "Kocası",
     "protection": "Yok",
@@ -67102,11 +67102,11 @@
     "fullname": "Selime Ateş",
     "age": "",
     "location": "Eskişehir",
-    "date": "24/11/2016 ",
+    "date": "24/11/2016",
     "reason": "Tartışma",
     "by": "Kocası",
     "protection": "Yok",
-    "method": "Kesici Alet ",
+    "method": "Kesici Alet",
     "status": "Tutuklu",
     "source": [
       "http://www.sabah.com.tr/yasam/2016/11/24/telefonu-neden-acmiyorsun-dedi-karisini-oldurdu"
@@ -67123,7 +67123,7 @@
     "date": "22/11/2016",
     "reason": "Tartışma, Kavga",
     "by": "Tanımadığı Birileri",
-    "protection": "Yok ",
+    "protection": "Yok",
     "method": "Ateşli Silah",
     "status": "Tutuklu",
     "source": [
@@ -67769,7 +67769,7 @@
     "age": "",
     "location": "Tokat",
     "date": "14/10/2016",
-    "reason": "Kendi Hayatına Dair Karar Almak İstediği İçin ",
+    "reason": "Kendi Hayatına Dair Karar Almak İstediği İçin",
     "by": "Kocası",
     "protection": "Yok",
     "method": "Ateşli Silah",
@@ -68169,7 +68169,7 @@
     "date": "23/09/2016",
     "reason": "Tartışma",
     "by": "Kocası",
-    "protection": "Yok ",
+    "protection": "Yok",
     "method": "Kesici Alet",
     "status": "Tutuklu",
     "source": [
@@ -68307,7 +68307,7 @@
   {
     "id": 1821,
     "name": "Asma Bouchane",
-    "fullname": "Asma Bouchane ",
+    "fullname": "Asma Bouchane",
     "age": "",
     "location": "İstanbul",
     "date": "17/09/2016",
@@ -68525,7 +68525,7 @@
     "name": "Hatice Çimentepe",
     "fullname": "Hatice Çimentepe",
     "age": "",
-    "location": "Denizli ",
+    "location": "Denizli",
     "date": "06/09/2016",
     "reason": "Tespit Edilemeyen",
     "by": "Tespit Edilemeyen",
@@ -69232,7 +69232,7 @@
     "date": "20/07/2016",
     "reason": "Kızını Korurken",
     "by": "Damadı",
-    "protection": "Yok ",
+    "protection": "Yok",
     "method": "Ateşli Silah",
     "status": "Tutuklu",
     "source": [
@@ -70145,7 +70145,7 @@
   {
     "id": 1705,
     "name": "Esmira Bairamova",
-    "fullname": "Esmira Bairamova ",
+    "fullname": "Esmira Bairamova",
     "age": "",
     "location": "Gürcistan",
     "date": "22/04/2016",
@@ -70399,7 +70399,7 @@
     "name": "Serap Demir",
     "fullname": "Serap Demir",
     "age": "",
-    "location": "Mersin ",
+    "location": "Mersin",
     "date": "09/04/2016",
     "reason": "Tartışma",
     "by": "Eski Sevgilisi",
@@ -70963,7 +70963,7 @@
     "date": "08/03/2016",
     "reason": "Tespit Edilemeyen",
     "by": "Akraba",
-    "protection": "Yok ",
+    "protection": "Yok",
     "method": "Ateşli Silah",
     "status": "Tutuklu",
     "source": [
@@ -71778,7 +71778,7 @@
     "reason": "Tespit Edilemeyen",
     "by": "Oğlu",
     "protection": "Yok",
-    "method": "Kesici Alet ",
+    "method": "Kesici Alet",
     "status": "Tutuklu",
     "source": [
       "http://www.onmedya.com.tr/annesini-243-kez-bicaklayarak-oldurmustu--cezaevi-kogusunda-neler-yasandi--1038.html"
@@ -72154,7 +72154,7 @@
     "age": "",
     "location": "",
     "date": "13/12/2015",
-    "reason": "Miras ",
+    "reason": "Miras",
     "by": "Abileri",
     "protection": "Yok",
     "method": "Ateşli Silah",
@@ -72281,9 +72281,9 @@
     "location": "",
     "date": "08/12/2015",
     "reason": "Tespit Edilemeyen",
-    "by": "Erkek Kardeşi ",
+    "by": "Erkek Kardeşi",
     "protection": "Yok",
-    "method": "Kesici Alet ",
+    "method": "Kesici Alet",
     "status": "",
     "source": [
       "http://www.milliyet.com.tr/emekli-ciftin-katili-hemsire-gundem-2160323/"
@@ -74443,7 +74443,7 @@
   {
     "id": 1487,
     "name": "Ayşe Şahin",
-    "fullname": "Ayşe Şahin ",
+    "fullname": "Ayşe Şahin",
     "age": "",
     "location": "",
     "date": "26/06/2015",
@@ -75442,7 +75442,7 @@
     "location": "",
     "date": "19/04/2015",
     "reason": "Tartışma",
-    "by": "Kocası ",
+    "by": "Kocası",
     "protection": "Var -Uzaklaştırma Kararı",
     "method": "Ateşli Silah",
     "status": "",
@@ -75459,7 +75459,7 @@
     "age": "",
     "location": "",
     "date": "18/04/2015",
-    "reason": "Tecavüz ",
+    "reason": "Tecavüz",
     "by": "Tanımadığı Birisi",
     "protection": "Yok",
     "method": "Kesici Alet",
@@ -76033,7 +76033,7 @@
   {
     "id": 1410,
     "name": "Kıymet H.",
-    "fullname": "Kıymet H. ",
+    "fullname": "Kıymet H.",
     "age": "",
     "location": "",
     "date": "17/03/2015",
@@ -76220,7 +76220,7 @@
     "location": "",
     "date": "04/03/2015",
     "reason": "Tartışma",
-    "by": "Kocasının Kardeşi ",
+    "by": "Kocasının Kardeşi",
     "protection": "Yok",
     "method": "Ateşli Silah",
     "status": "",
@@ -76397,7 +76397,7 @@
   {
     "id": 1306,
     "name": "Mehtap Özcan",
-    "fullname": "Mehtap Özcan ",
+    "fullname": "Mehtap Özcan",
     "age": "",
     "location": "",
     "date": "23/02/2015",
@@ -77457,7 +77457,7 @@
   {
     "id": 1229,
     "name": "Yüksel Ela D.",
-    "fullname": "Yüksel Ela D. ",
+    "fullname": "Yüksel Ela D.",
     "age": "",
     "location": "",
     "date": "23/12/2014",
@@ -77499,7 +77499,7 @@
     "date": "20/12/2014",
     "reason": "Tartışma",
     "by": "Oğlu",
-    "protection": "Yok ",
+    "protection": "Yok",
     "method": "Kesici Alet",
     "status": "",
     "source": [
@@ -77571,7 +77571,7 @@
     "date": "19/12/2014",
     "reason": "Dedikodu",
     "by": "Tanıdığı Birisi",
-    "protection": "Yok ",
+    "protection": "Yok",
     "method": "Kesici Alet",
     "status": "",
     "source": [
@@ -77805,7 +77805,7 @@
     "location": "",
     "date": "11/12/2014",
     "reason": "Tartışma",
-    "by": "Tanıdığı Birisi ",
+    "by": "Tanıdığı Birisi",
     "protection": "Yok",
     "method": "Boğma",
     "status": "",
@@ -78106,7 +78106,7 @@
   {
     "id": 1190,
     "name": "Dilara Münevver Yeşiltepe",
-    "fullname": "Dilara Münevver Yeşiltepe ",
+    "fullname": "Dilara Münevver Yeşiltepe",
     "age": "",
     "location": "",
     "date": "13/11/2014",
@@ -78437,7 +78437,7 @@
     "date": "20/10/2014",
     "reason": "Tartışma",
     "by": "Tanıdığı Birisi",
-    "protection": "Yok ",
+    "protection": "Yok",
     "method": "Kesici Alet",
     "status": "",
     "source": [
@@ -78744,7 +78744,7 @@
     "date": "04/10/2014",
     "reason": "Tespit Edilemeyen",
     "by": "Tespit Edilemeyen",
-    "protection": "Yok ",
+    "protection": "Yok",
     "method": "Yanma",
     "status": "",
     "source": [
@@ -78792,7 +78792,7 @@
   {
     "id": 1158,
     "name": "Elif Köse",
-    "fullname": "Elif Köse ",
+    "fullname": "Elif Köse",
     "age": "",
     "location": "",
     "date": "01/10/2014",
@@ -79952,7 +79952,7 @@
   {
     "id": 1046,
     "name": "Kanat Abishevo",
-    "fullname": "Kanat Abishevo ",
+    "fullname": "Kanat Abishevo",
     "age": "",
     "location": "",
     "date": "11/07/2014",
@@ -80006,7 +80006,7 @@
   {
     "id": 1034,
     "name": "Nuriye T.",
-    "fullname": "Nuriye T. ",
+    "fullname": "Nuriye T.",
     "age": "",
     "location": "",
     "date": "09/07/2014",
@@ -80496,7 +80496,7 @@
   {
     "id": 1032,
     "name": "Rabia Benek",
-    "fullname": "Rabia Benek ",
+    "fullname": "Rabia Benek",
     "age": "",
     "location": "",
     "date": "09/06/2014",
@@ -81246,7 +81246,7 @@
     "age": "",
     "location": "",
     "date": "10/04/2014",
-    "reason": "Tartışma ",
+    "reason": "Tartışma",
     "by": "Kocası",
     "protection": "Yok",
     "method": "Kesici Alet",
@@ -81736,7 +81736,7 @@
     "location": "",
     "date": "11/03/2014",
     "reason": "Velayet",
-    "by": "Eski Kocasının Kardeşi ",
+    "by": "Eski Kocasının Kardeşi",
     "protection": "Yok",
     "method": "Ateşli Silah",
     "status": "",
@@ -82174,7 +82174,7 @@
     "age": "",
     "location": "",
     "date": "27/01/2014",
-    "reason": "Namus ",
+    "reason": "Namus",
     "by": "Kardeşi",
     "protection": "Yok",
     "method": "Ateşli Silah",
@@ -82208,7 +82208,7 @@
   {
     "id": 915,
     "name": "Olga M.",
-    "fullname": "Olga M. ",
+    "fullname": "Olga M.",
     "age": "",
     "location": "",
     "date": "26/01/2014",
@@ -82233,7 +82233,7 @@
     "reason": "Tespit Edilemeyen",
     "by": "Kocası",
     "protection": "Yok",
-    "method": "Elektrik Akımı ",
+    "method": "Elektrik Akımı",
     "status": "",
     "source": [
       "http://gundem.milliyet.com.tr/korkunc-olumde-cani-kocaya/gundem/detay/1827077/default.htm"
@@ -82262,7 +82262,7 @@
   {
     "id": 911,
     "name": "Servet D.",
-    "fullname": "Servet D. ",
+    "fullname": "Servet D.",
     "age": "",
     "location": "",
     "date": "22/01/2014",
@@ -83011,7 +83011,7 @@
     "date": "05/12/2013",
     "reason": "Tartışma",
     "by": "Kocası",
-    "protection": "Yok ",
+    "protection": "Yok",
     "method": "Bıçaklama",
     "status": "",
     "source": [
@@ -84704,7 +84704,7 @@
   {
     "id": 968,
     "name": "Faize K.",
-    "fullname": "Faize K. ",
+    "fullname": "Faize K.",
     "age": "",
     "location": "",
     "date": "15/07/2013",
@@ -84764,7 +84764,7 @@
     "date": "09/07/2013",
     "reason": "Tespit Edilemeyen",
     "by": "Kocası",
-    "protection": "Yok ",
+    "protection": "Yok",
     "method": "Dövülme",
     "status": "",
     "source": [
@@ -84800,7 +84800,7 @@
     "date": "30/06/2013",
     "reason": "Karşılıksız Aşk",
     "by": "Tanıdığı Birisi",
-    "protection": "Yok ",
+    "protection": "Yok",
     "method": "Bıçaklama",
     "status": "Gözaltında",
     "source": [
@@ -84926,7 +84926,7 @@
     "date": "19/06/2013",
     "reason": "Tartısma",
     "by": "Kocası",
-    "protection": "Yok ",
+    "protection": "Yok",
     "method": "Ateşli Silah",
     "status": "",
     "source": [
@@ -84944,7 +84944,7 @@
     "date": "16/06/2013",
     "reason": "Evi Terkettiği için",
     "by": "Kocası",
-    "protection": "Yok ",
+    "protection": "Yok",
     "method": "Bıçaklama",
     "status": "Tutuklandı",
     "source": [
@@ -85034,7 +85034,7 @@
     "date": "05/06/2013",
     "reason": "Namus cinayeti",
     "by": "Kocası",
-    "protection": "Yok ",
+    "protection": "Yok",
     "method": "Ateşli Silah",
     "status": "",
     "source": [
@@ -85160,7 +85160,7 @@
     "date": "27/05/2013",
     "reason": "Reddetme",
     "by": "Tanıdığı birisi",
-    "protection": "Yok ",
+    "protection": "Yok",
     "method": "Ateşli Silah",
     "status": "",
     "source": [
@@ -85214,7 +85214,7 @@
     "date": "22/05/2013",
     "reason": "Tespit Edilemeyen",
     "by": "Kocası",
-    "protection": "Yok ",
+    "protection": "Yok",
     "method": "Ateşli Silah",
     "status": "",
     "source": [
@@ -85569,7 +85569,7 @@
   {
     "id": 688,
     "name": "Selma Alasırt",
-    "fullname": "Selma Alasırt ",
+    "fullname": "Selma Alasırt",
     "age": "",
     "location": "",
     "date": "10/04/2013",
@@ -85593,7 +85593,7 @@
     "location": "",
     "date": "10/04/2013",
     "reason": "Tartışma",
-    "by": "Oğlu ",
+    "by": "Oğlu",
     "protection": "Yok",
     "method": "Kesici Alet",
     "status": "",
@@ -85703,7 +85703,7 @@
     "date": "07/04/2013",
     "reason": "Tespit Edilemeyen",
     "by": "Tespit Edilemeyen",
-    "protection": "Yok ",
+    "protection": "Yok",
     "method": "Boğulma",
     "status": "",
     "source": [
@@ -85850,7 +85850,7 @@
     "by": "Kocası",
     "protection": "Yok",
     "method": "Ateşli Silah",
-    "status": "\u003cbr\u003e\u003cb\u003eKaynak:\u003c/b\u003e  \u003ca target=_blank href='http://www.hurriyet.com.tr/gundem/22910059.asp'\u003e\u003cu\u003ehttp://www.hurriyet.com.tr/gundem/22910059.asp\u003c/u\u003e\u003c/a\u003e",
+    "status": "Kaynak:  http://www.hurriyet.com.tr/gundem/22910059.asp",
     "source": [
       "http://www.hurriyet.com.tr/gundem/22910059.asp"
     ],
@@ -85868,7 +85868,7 @@
     "by": "Kocası",
     "protection": "Korunma talebi var. Kocanın hakkında uzaklaştırma kararı var.",
     "method": "Ateşli Silah",
-    "status": "\u003cbr\u003e\u003cb\u003eKaynak:\u003c/b\u003e  \u003ca target=_blank href='http://www.yarinhaber.net/news/2800'\u003e\u003cu\u003ehttp://www.yarinhaber.net/news/2800\u003c/u\u003e\u003c/a\u003e",
+    "status": "Kaynak:  http://www.yarinhaber.net/news/2800",
     "source": [
       "http://www.yarinhaber.net/news/2800"
     ],
@@ -85900,11 +85900,11 @@
     "age": "",
     "location": "",
     "date": "19/03/2013",
-    "reason": "Reddetme ",
+    "reason": "Reddetme",
     "by": "Tanımadığı birisi",
     "protection": "Yok",
     "method": "Vurucu Alet",
-    "status": "\u003cbr\u003e\u003cb\u003eKaynak:\u003c/b\u003e  \u003ca target=_blank href='http://www.hurriyet.com.tr/gundem/22840568.asp'\u003e\u003cu\u003ehttp://www.hurriyet.com.tr/gundem/22840568.asp\u003c/u\u003e\u003c/a\u003e",
+    "status": "Kaynak:  http://www.hurriyet.com.tr/gundem/22840568.asp",
     "source": [
       "http://www.hurriyet.com.tr/gundem/22840568.asp"
     ],
@@ -85956,7 +85956,7 @@
     "age": "",
     "location": "",
     "date": "17/03/2013",
-    "reason": "Tespit Edilemeyen ",
+    "reason": "Tespit Edilemeyen",
     "by": "Kocası",
     "protection": "Yok",
     "method": "Bıçaklama",
@@ -86009,13 +86009,13 @@
     "name": "Kadriye Menkeş",
     "fullname": "Kadriye Menkeş",
     "age": "",
-    "location": "Bursa ",
+    "location": "Bursa",
     "date": "15/03/2013",
     "reason": "Tespit Edilemeyen",
     "by": "Kocası",
     "protection": "Bilinmiyor",
     "method": "Vurucu Alet",
-    "status": "\u003cbr\u003e\u003cb\u003eKaynak:\u003c/b\u003e  \u003ca target=_blank href='http://www.radikal.com.tr/radikal.aspx?aType=RadikalDetayV3\u0026ArticleID=1125261\u0026CategoryID=77'\u003e\u003cu\u003ehttp://www.radikal.com.tr/radikal.aspx?aType=RadikalDetayV3\u0026ArticleID=1125261\u0026CategoryID=77\u003c/u\u003e\u003c/a\u003e",
+    "status": "Kaynak:  http://www.radikal.com.tr/radikal.aspx?aType=RadikalDetayV3\u0026ArticleID=1125261\u0026CategoryID=77",
     "source": [
       "http://www.radikal.com.tr/radikal.aspx?aType=RadikalDetayV3\u0026ArticleID=1125261\u0026CategoryID=77"
     ],
@@ -86460,7 +86460,7 @@
     "age": "",
     "location": "",
     "date": "22/01/2013",
-    "reason": "Annesinin başka erkeklerle görüştüğünü düşündüğü için ",
+    "reason": "Annesinin başka erkeklerle görüştüğünü düşündüğü için",
     "by": "Oğlu",
     "protection": "Yok",
     "method": "Boğma",
@@ -86552,7 +86552,7 @@
     "date": "14/01/2013",
     "reason": "Tespit Edilemeyen",
     "by": "Sevgilisi",
-    "protection": "Yok ",
+    "protection": "Yok",
     "method": "Bıçaklama",
     "status": "",
     "source": [
@@ -87399,7 +87399,7 @@
     "fullname": "Fatma Bilgin",
     "age": "",
     "location": "",
-    "date": "16/09/2012  ",
+    "date": "16/09/2012",
     "reason": "Tespit Edilemeyen",
     "by": "Kocası",
     "protection": "Var",
@@ -88101,7 +88101,7 @@
     "reason": "Boşanma",
     "by": "Kocası",
     "protection": "Yok",
-    "method": "İşkence ",
+    "method": "İşkence",
     "status": "Teslim oldu,sonucu bilinmiyor",
     "source": [
       "http://www.sabah.de/esini-seytan-saniyormus.html"
@@ -88574,7 +88574,7 @@
     "reason": "Kıskançlık",
     "by": "Sevgilisi",
     "protection": "Yok",
-    "method": "İşkence ",
+    "method": "İşkence",
     "status": "Tutuklu",
     "source": [
       "http://www.adanakent.com/3-sayfa-haberleri/ozlem-ustun-makasla-bogazi-kesilerek-olduruldu-h13932.html"
@@ -88717,7 +88717,7 @@
     "date": "30/03/2012",
     "reason": "Tartışma",
     "by": "Kocası",
-    "protection": "Yok ",
+    "protection": "Yok",
     "method": "Bıçaklama",
     "status": "",
     "source": [
@@ -88836,7 +88836,7 @@
   {
     "id": 16,
     "name": "Diyar Japarzade Mengitay",
-    "fullname": "Diyar Japarzade Mengitay ",
+    "fullname": "Diyar Japarzade Mengitay",
     "age": "",
     "location": "",
     "date": "08/03/2012",
@@ -89183,7 +89183,7 @@
     "reason": "Ayrılma",
     "by": "Sevgilisi",
     "protection": "Yok",
-    "method": "Bıçaklama ",
+    "method": "Bıçaklama",
     "status": "İtiraf etti,sonucu bilinmiyor",
     "source": [
       "http://www.haberturk.com/yasam/haber/714578-kesik-bas-cinayetinin-sirri-cozuldu"
@@ -89255,7 +89255,7 @@
     "reason": "Aile Meclisi Kararı",
     "by": "Erkek Kardeşi",
     "protection": "Var - Kadın Sığınma Evi",
-    "method": "İşkence ",
+    "method": "İşkence",
     "status": "Tutuklu",
     "source": [
       "http://www.istanbulhaber.com.tr/haber/arzu-ozmen-cinayeti-yargilanmaya-basladi-156946.htm"
@@ -89273,7 +89273,7 @@
     "reason": "Tecavüz",
     "by": "Tanıdığı biri",
     "protection": "Yok",
-    "method": "Boğulma ",
+    "method": "Boğulma",
     "status": "İtiraf etti,sonucu bilinmiyor",
     "source": [
       "http://www.haberturk.com/yasam/haber/706258-tecavuz-etmek-icin-sundus-ogretmeni-esarbiyla-bogdu"
@@ -89528,7 +89528,7 @@
     "reason": "Kadın hayatına dair bir karar vermek istediği için",
     "by": "Babası",
     "protection": "Yok",
-    "method": "İşkence ",
+    "method": "İşkence",
     "status": "",
     "source": [
       "http://gundem.milliyet.com.tr/nisanlisi-sevim-i-damatligiyla-ugurladi/gundem/gundemdetay/01.11.2011/1457955/default.htm"
@@ -89708,7 +89708,7 @@
     "reason": "Ayrılık",
     "by": "Kocası",
     "protection": "Yok",
-    "method": "İşkence ",
+    "method": "İşkence",
     "status": "",
     "source": [
       "http://hurarsiv.hurriyet.com.tr/goster/printnews.aspx?DocID=19098405"
@@ -89870,7 +89870,7 @@
     "reason": "Boşanma",
     "by": "Kocası",
     "protection": "Var",
-    "method": "İşkence ",
+    "method": "İşkence",
     "status": "",
     "source": [
       "http://www.sabah.com.tr/Yasam/2012/06/28/polisten-koca-kurbani-kadina-ol-de-kurtulalim"
@@ -90683,7 +90683,7 @@
     "reason": "Para",
     "by": "2 Arkadaşı",
     "protection": "Tespit Edilemeyen",
-    "method": "İşkence ",
+    "method": "İşkence",
     "status": "",
     "source": [
       "http://gundem.milliyet.com.tr/gurcu-kadini-parcaladilar/gundem/gundemdetay/14.05.2011/1390110/default.htm"
@@ -90737,7 +90737,7 @@
     "reason": "Tespit Edilemeyen",
     "by": "Kocası",
     "protection": "yok",
-    "method": "Ateşli Silah ",
+    "method": "Ateşli Silah",
     "status": "",
     "source": [
       "http://www.dha.com.tr/gaziantep-cinayetinin-ayrintilari-cikiyor_160174.html"
@@ -91061,7 +91061,7 @@
     "reason": "Reddetme",
     "by": "Tanımadığı Birisi",
     "protection": "yok",
-    "method": "İşkence ",
+    "method": "İşkence",
     "status": "",
     "source": [
       "http://www.haberturk.com/yasam/haber/690844-gamzenin-katiline-muebbet"
@@ -91349,7 +91349,7 @@
     "reason": "Tespit Edilemeyen",
     "by": "Tespit Edilemeyen",
     "protection": "Yok",
-    "method": "İşkence ",
+    "method": "İşkence",
     "status": "",
     "source": [
       "http://www.hurriyet.com.tr/gundem/17436156.asp"
@@ -91763,7 +91763,7 @@
     "reason": "Kriz ve İşsizlik",
     "by": "Kocası",
     "protection": "yok",
-    "method": "İşkence ",
+    "method": "İşkence",
     "status": "",
     "source": [
       "http://www.sabah.com.tr/Yasam/2011/09/08/karisini-basina-tas-vurarak-oldurdu"
@@ -91835,7 +91835,7 @@
     "reason": "Boşanma",
     "by": "Kocası",
     "protection": "Tespit Edilemeyen",
-    "method": "İşkence ",
+    "method": "İşkence",
     "status": "",
     "source": [
       "http://www.birgun.net/actuel_index.php?news_code=1293457128\u0026year=2010\u0026month=12\u0026day=27"
@@ -91887,7 +91887,7 @@
     "location": "",
     "date": "21/12/2010",
     "reason": "Kıskançlık",
-    "by": "Aile Meclisi ",
+    "by": "Aile Meclisi",
     "protection": "yok",
     "method": "Ateşli Silah",
     "status": "",
@@ -91960,7 +91960,7 @@
     "date": "13/12/2010",
     "reason": "Töre Cinayeti",
     "by": "Abisi",
-    "protection": "Yok ",
+    "protection": "Yok",
     "method": "Ateşli Silah",
     "status": "",
     "source": [
@@ -92030,7 +92030,7 @@
     "age": "",
     "location": "",
     "date": "04/12/2010",
-    "reason": "Tartışma ",
+    "reason": "Tartışma",
     "by": "Tanıdığı Birisi",
     "protection": "Yok",
     "method": "Ateşli Silah",
@@ -92196,7 +92196,7 @@
     "reason": "Kadın hayatına dair bir karar vermek istediği için",
     "by": "Kocası",
     "protection": "Gerçekleşmemiş",
-    "method": "İşkence ",
+    "method": "İşkence",
     "status": "",
     "source": [
       "http://www.radikal.com.tr/Radikal.aspx?aType=RadikalDetayV3\u0026ArticleID=1029031\u0026CategoryID=77"
@@ -92214,7 +92214,7 @@
     "reason": "Kıskançlık",
     "by": "Tespit Edilemeyen",
     "protection": "Tespit Edilemeyen",
-    "method": "İşkence ",
+    "method": "İşkence",
     "status": "",
     "source": [
       "http://dostlarcemaati.blogspot.com/2010/11/koca-dunyaya-serap-da-sgmad.html"
@@ -92250,7 +92250,7 @@
     "reason": "Kriz ve İşsizlik",
     "by": "Akraba",
     "protection": "Yok",
-    "method": "İşkence ",
+    "method": "İşkence",
     "status": "",
     "source": [
       "http://www.ensonhaber.com/universiteli-genc-dayisini-ve-yengesini-oldurdu-2010-11-14.html"
@@ -92286,7 +92286,7 @@
     "reason": "Erkeğin istediği bir şeyin gerçekleşmemesi sebebiyle",
     "by": "Kocası",
     "protection": "Tespit Edilemeyen",
-    "method": "İşkence ",
+    "method": "İşkence",
     "status": "",
     "source": [
       "http://www.haber7.com/haber/20101112/Esi-tarafindan-baltayla-yaralanan-kadin-oldu.php"
@@ -92521,7 +92521,7 @@
     "location": "",
     "date": "25/10/2010",
     "reason": "Namus",
-    "by": "Aile Meclisi ",
+    "by": "Aile Meclisi",
     "protection": "Yok",
     "method": "Asılma",
     "status": "",
@@ -93085,7 +93085,7 @@
     "reason": "Kıskançlık",
     "by": "Kocası",
     "protection": "Yok",
-    "method": "İşkence ",
+    "method": "İşkence",
     "status": "",
     "source": [
       "http://www.sabah.com.tr/Yasam/2010/09/14/kiskanclik_krizi_cinayetle_bitti"
@@ -93283,7 +93283,7 @@
     "reason": "Erkeğin istediği bir şeyin gerçekleşmemesi sebebiyle",
     "by": "Kocası",
     "protection": "Tespit EdilemeyenBilinmiyor",
-    "method": "İşkence ",
+    "method": "İşkence",
     "status": "",
     "source": [
       "http://www.milliyet.com.tr/anneleri-gozlerinin-onunde-olduruldu/yasam/haberdetay/24.08.2010/1280169/default.htm"
@@ -93481,7 +93481,7 @@
     "reason": "Kıskançlık",
     "by": "Sevgilisi",
     "protection": "Tespit Edilemeyen",
-    "method": "İşkence ",
+    "method": "İşkence",
     "status": "",
     "source": [
       "http://www.gazete5.com/haber/ankara-keciorende-ali-yasar-cvil-makbule-seyfi-ile-sevda-gul-erkulu-oldurdu--32806.htm"
@@ -93609,7 +93609,7 @@
     "by": "Sevgilisi",
     "protection": "Yok",
     "method": "Dövülme",
-    "status": "\u003cbr\u003e\u003cb\u003eKaynak:\u003c/b\u003e  ",
+    "status": "Kaynak:",
     "source": [
       "http://www.hurriyet.com.tr/gundem/22690073.asp",
       "http://www.memurlar.net/haber/345853/"
@@ -93717,7 +93717,7 @@
     "reason": "kıskançlık",
     "by": "Kocası",
     "protection": "Tespit Edilemeyen",
-    "method": "İşkence ",
+    "method": "İşkence",
     "status": "",
     "source": [
       "http://www.iha.com.tr/NewsDetail.aspx?nid=129929\u0026cid=6"
@@ -93753,7 +93753,7 @@
     "reason": "Kıskançlık",
     "by": "Kocası",
     "protection": "Tespit Edilemeyen",
-    "method": "İşkence ",
+    "method": "İşkence",
     "status": "",
     "source": [
       "http://haber.gazetevatan.com/acimasizca-olduruldu/317002/1/Haber"
@@ -94023,7 +94023,7 @@
     "reason": "Tespit Edilemeyen",
     "by": "Tespit Edilemeyen",
     "protection": "Tespit Edilemeyen",
-    "method": "İşkence ",
+    "method": "İşkence",
     "status": "",
     "source": [
       "http://haber.gazetevatan.com/50_yerinden_bicakladilar/297541/1/Haber"
@@ -94329,7 +94329,7 @@
     "age": "",
     "location": "",
     "date": "05/05/2010",
-    "reason": "Töre ",
+    "reason": "Töre",
     "by": "Kocası",
     "protection": "Yok",
     "method": "Tespit Edilemeyen",
@@ -94530,7 +94530,7 @@
     "reason": "Erkeğin istediği bir şeyin gerçekleşmemesi sebebiyle",
     "by": "Kocası",
     "protection": "yok",
-    "method": "İşkence ",
+    "method": "İşkence",
     "status": "",
     "source": [
       "http://www.lifeinbursa.com/haberx/206796/5/esini_tasla_olduren_azeri_tutuklandi.htm"
@@ -94649,7 +94649,7 @@
   {
     "id": 1281,
     "name": "Dilek A.",
-    "fullname": "Dilek A. ",
+    "fullname": "Dilek A.",
     "age": "",
     "location": "",
     "date": "01/04/2010",
@@ -94728,7 +94728,7 @@
     "reason": "Tespit Edilemeyen",
     "by": "Tespit Edilemeyen",
     "protection": "Tespit Edilemeyen",
-    "method": "İşkence ",
+    "method": "İşkence",
     "status": "",
     "source": [
       "http://www.ntvmsnbc.com/id/25076418/"
@@ -94908,7 +94908,7 @@
     "reason": "Reddetme",
     "by": "Tanımadığı Biri",
     "protection": "Gerçekleşmemiş",
-    "method": "İşkence ",
+    "method": "İşkence",
     "status": "",
     "source": [
       "http://www.nethabercilik.com/haber/saadet-ulus-ogretmen-satirla-olduruldu.htm"
@@ -95288,7 +95288,7 @@
     "reason": "Erkeğin istediği bir şeyin gerçekleşmemesi sebebiyle",
     "by": "Kocası",
     "protection": "Tespit EdilemeyenBilinmiyor",
-    "method": "İşkence ",
+    "method": "İşkence",
     "status": "",
     "source": [
       "http://www.milliyet.com.tr/cuma-namazindan-cikti-evde-esini-bicaklayarak-oldurdu/turkiye/sondakika/06.02.2010/1195623/default.htm"
@@ -95378,7 +95378,7 @@
     "reason": "Kriz ve İşsizlik",
     "by": "Arkadaşı",
     "protection": "Yok",
-    "method": "İşkence ",
+    "method": "İşkence",
     "status": "",
     "source": [
       "http://www.sabah.com.tr/Gundem/2010/01/28/kocaelide_korkunc_cinayet"
@@ -95632,7 +95632,7 @@
     "reason": "Kadın hayatına dair bir karar vermek istediği için",
     "by": "Sevgilisi",
     "protection": "Yok",
-    "method": "İşkence ",
+    "method": "İşkence",
     "status": "",
     "source": [
       "http://www.milliyet.com.tr/GaleriHaber.aspx?aType=GaleriHaber\u0026ArticleID=1170370\u0026PAGE=2\u0026Date=09.12.2009\u0026KategoriID=15"
@@ -95794,7 +95794,7 @@
     "reason": "Kıskançlık",
     "by": "Kocası",
     "protection": "Yok",
-    "method": "İşkence ",
+    "method": "İşkence",
     "status": "",
     "source": [
       "http://www.hport.com.tr/yasam/cihangir-topcu-nun-parcaladigi-esi-yeter-topcu-yu-ailesiyle-birlikte-aradigi-ortaya-cikti"
@@ -95810,7 +95810,7 @@
     "location": "",
     "date": "12/11/2009",
     "reason": "Tespit Edilemeyen",
-    "by": "Tanıdığı Birisi ",
+    "by": "Tanıdığı Birisi",
     "protection": "Yok",
     "method": "Kesici Alet",
     "status": "",
@@ -95841,7 +95841,7 @@
   {
     "id": 1308,
     "name": "Demet Eygi",
-    "fullname": "Demet Eygi ",
+    "fullname": "Demet Eygi",
     "age": "",
     "location": "",
     "date": "07/11/2009",
@@ -96352,7 +96352,7 @@
     "date": "09/08/2009",
     "reason": "Nefret Cinayeti",
     "by": "Tanıdığı Birisi",
-    "protection": "Yok ",
+    "protection": "Yok",
     "method": "İşkence",
     "status": "",
     "source": [
@@ -97257,7 +97257,7 @@
     "reason": "Para",
     "by": "Tanıdığı Birisi",
     "protection": "Yok",
-    "method": "İşkence ",
+    "method": "İşkence",
     "status": "",
     "source": [
       "http://www.milliyet.com.tr/default.aspx?aType=SonDakika\u0026ArticleID=1073426"
@@ -97329,7 +97329,7 @@
     "reason": "Kıskançlık",
     "by": "Sevgilisi",
     "protection": "Yok",
-    "method": "İşkence ",
+    "method": "İşkence",
     "status": "",
     "source": [
       "http://tr.wikipedia.org/wiki/M%C3%BCnevver_Karabulut_cinayeti"
@@ -97636,7 +97636,7 @@
     "reason": "Kıskançlık",
     "by": "Aile Meclisi - Erkek Kardeşi",
     "protection": "Bilinmiyor",
-    "method": "İşkence ",
+    "method": "İşkence",
     "status": "",
     "source": [
       "http://www.cnnturk.com/2009/turkiye/01/13/erkek.kardes.tore.ugruna.ablasinin.canina.kiydi/508750.0/index.html"
@@ -97870,7 +97870,7 @@
     "reason": "Kriz ve İşsizlik",
     "by": "Oğlu",
     "protection": "Tespit Edilemeyen",
-    "method": "İşkence ",
+    "method": "İşkence",
     "status": "",
     "source": [
       "http://www.milliyet.com.tr/Yasam/SonDakika.aspx?aType=SonDakika\u0026ArticleID=1030031"
@@ -97924,7 +97924,7 @@
     "reason": "Erkeğin istediği bir şeyin gerçekleşmemesi sebebiyle",
     "by": "Sevgilisi ve arkadaşları",
     "protection": "Yok",
-    "method": "İşkence ",
+    "method": "İşkence",
     "status": "",
     "source": [
       "http://haber.gazetevatan.com/Ormanda_seks_cinayetine_ceza_yagdi/246277/7/Haber",
@@ -97960,7 +97960,7 @@
     "date": "20/11/2008",
     "reason": "Tartışma",
     "by": "Sevgilisi",
-    "protection": "Yok ",
+    "protection": "Yok",
     "method": "Boğma",
     "status": "Tutuklu",
     "source": [
@@ -98033,7 +98033,7 @@
     "reason": "Tespit Edilemeyen",
     "by": "Yengesi, amcası ve amcasının oğlu",
     "protection": "Yok",
-    "method": "İşkence ",
+    "method": "İşkence",
     "status": "",
     "source": [
       "http://www.kirsehirtv.com/1283_Parcalanarak-oldurulen-11-Yasindaki-Sabire-Akcakaya%E2%80%99nin-katil-zanlilari-bugun-mahkeye-cikarildi--.html"
@@ -98069,7 +98069,7 @@
     "reason": "Para",
     "by": "Oğlu",
     "protection": "Tespit Edilemeyen",
-    "method": "İşkence ",
+    "method": "İşkence",
     "status": "",
     "source": [
       "http://www.milliyet.com.tr/default.aspx?aType=SonDakika\u0026ArticleID=996613"
@@ -98161,7 +98161,7 @@
     "reason": "Kıskançlık",
     "by": "Kocası",
     "protection": "Tespit Edilemeyen",
-    "method": "İşkence ",
+    "method": "İşkence",
     "status": "",
     "source": [
       "http://www.siverekgenclik.com/haber/7aylik-karisini-makasla-100-yerinden-kesti-1959.html"
@@ -98359,7 +98359,7 @@
     "reason": "Erkeğin istediği bir şeyin gerçekleşmemesi sebebiyle",
     "by": "Oğlu",
     "protection": "Tespit Edilemeyen",
-    "method": "İşkence ",
+    "method": "İşkence",
     "status": "",
     "source": [
       "http://arama.hurriyet.com.tr/arsivnews.aspx?id=9047649"
@@ -98542,7 +98542,7 @@
     "reason": "Erkeğin istediği bir şeyin gerçekleşmemesi sebebiyle",
     "by": "Komşusu",
     "protection": "Tespit Edilemeyen",
-    "method": "İşkence ",
+    "method": "İşkence",
     "status": "",
     "source": [
       "http://www.milliyet.com.tr/default.aspx?aType=SonDakika\u0026ArticleID=510112"
@@ -98579,7 +98579,7 @@
     "by": "Tanımadığı birisi",
     "protection": "Yok",
     "method": "Boğulma",
-    "status": "\u003cbr\u003e\u003cb\u003eKaynak:\u003c/b\u003e  \u003ca target=_blank href=' http://www.cnnturk.com/2012/turkiye/04/21/pippa.baccanin.katiline.ceza.indirimi/658133.0/index.html'\u003e\u003cu\u003e http://www.cnnturk.com/2012/turkiye/04/21/pippa.baccanin.katiline.ceza.indirimi/658133.0/index.html\u003c/u\u003e\u003c/a\u003e",
+    "status": "Kaynak:   http://www.cnnturk.com/2012/turkiye/04/21/pippa.baccanin.katiline.ceza.indirimi/658133.0/index.html",
     "source": [
       "http://www.cnnturk.com/2012/turkiye/04/21/pippa.baccanin.katiline.ceza.indirimi/658133.0/index.html"
     ],
@@ -98740,7 +98740,7 @@
     "reason": "Madde bağımlılığı",
     "by": "Oğlu",
     "protection": "Gerçekleşmemiş",
-    "method": "İşkence ",
+    "method": "İşkence",
     "status": "",
     "source": [
       "http://www.haberturk.com/yasam/haber/54743-seytanin-basini-kestim"

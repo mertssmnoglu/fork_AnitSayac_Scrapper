@@ -184,47 +184,59 @@ func getArticleContent(url string) Detail {
 	c.OnHTML("body", func(e *colly.HTMLElement) {
 		nameMatches := regexp.MustCompile(`(?i)<b>Ad Soyad:\s*</b>\s*(.+?)<br>`).FindStringSubmatch(string(e.Response.Body))
 		if len(nameMatches) > 1 {
-			detail.Name = nameMatches[1]
+			detail.Name = strings.TrimSpace(nameMatches[1])
 		}
 
 		ageMatches := regexp.MustCompile(`(?i)<b>Maktülün yaşı:\s*</b>\s*(.+?)<br>`).FindStringSubmatch(string(e.Response.Body))
 		if len(ageMatches) > 1 {
-			detail.Age = ageMatches[1]
+			detail.Age = strings.TrimSpace(ageMatches[1])
 		}
 
 		locationMatches := regexp.MustCompile(`(?i)<b>İl/ilçe:\s*</b>\s*(.+?)<br>`).FindStringSubmatch(string(e.Response.Body))
 		if len(locationMatches) > 1 {
-			detail.Location = locationMatches[1]
+			detail.Location = strings.TrimSpace(locationMatches[1])
 		}
 
 		dateMatches := regexp.MustCompile(`(?i)<b>Tarih:\s*</b>\s*(.+?)<br>`).FindStringSubmatch(string(e.Response.Body))
 		if len(dateMatches) > 1 {
-			detail.Date = dateMatches[1]
+			detail.Date = strings.TrimSpace(dateMatches[1])
 		}
 
 		reasonMatches := regexp.MustCompile(`(?i)<b>Neden öldürüldü:\s*</b>\s*(.+?)<br>`).FindStringSubmatch(string(e.Response.Body))
 		if len(reasonMatches) > 1 {
-			detail.Reason = reasonMatches[1]
+			detail.Reason = strings.TrimSpace(reasonMatches[1])
 		}
 
 		byMatches := regexp.MustCompile(`(?i)<b>Kim tarafından öldürüldü:\s*</b>\s*(.+?)<br>`).FindStringSubmatch(string(e.Response.Body))
 		if len(byMatches) > 1 {
-			detail.By = byMatches[1]
+			detail.By = strings.TrimSpace(byMatches[1])
 		}
 
 		protectionMatches := regexp.MustCompile(`(?i)<b>Korunma talebi:\s*</b>\s*(.+?)<br>`).FindStringSubmatch(string(e.Response.Body))
 		if len(protectionMatches) > 1 {
-			detail.Protection = protectionMatches[1]
+			detail.Protection = strings.TrimSpace(protectionMatches[1])
 		}
 
 		methodMatches := regexp.MustCompile(`(?i)<b>Öldürülme şekli:\s*</b>\s*(.+?)<br>`).FindStringSubmatch(string(e.Response.Body))
 		if len(methodMatches) > 1 {
-			detail.Method = methodMatches[1]
+			detail.Method = strings.TrimSpace(methodMatches[1])
 		}
 
-		statusMatches := regexp.MustCompile(`(?i)<b>Failin durumu:\s*</b>\s*(.+?)<br>`).FindStringSubmatch(string(e.Response.Body))
+		statusMatches := regexp.MustCompile(`(?i)<b>Failin durumu:\s*</b>\s*(.+?)(?:<br>|$)`).FindStringSubmatch(string(e.Response.Body))
 		if len(statusMatches) > 1 {
-			detail.Status = statusMatches[1]
+			// Clean status from HTML tags and unwanted content
+			status := statusMatches[1]
+			// Remove HTML tags like <br>, <b>, <a>, etc.
+			status = regexp.MustCompile(`<[^>]*>`).ReplaceAllString(status, "")
+			// Remove "Kaynak:" prefix and any URLs that might be left
+			status = regexp.MustCompile(`(?i).*?Kaynak:\s*`).ReplaceAllString(status, "")
+			// Clean extra whitespace
+			status = strings.TrimSpace(status)
+			// If status is empty or just contains URL fragments, set to empty
+			if status == "" || strings.Contains(status, "http") {
+				status = ""
+			}
+			detail.Status = status
 		}
 
 		sources := e.ChildAttrs("a", "href")
