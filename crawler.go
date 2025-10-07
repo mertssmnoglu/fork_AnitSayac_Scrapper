@@ -147,13 +147,24 @@ func validateFiles(jsonFile, csvFile string, expectedCount int) bool {
 // Get article content
 func getArticleContent(url string) Detail {
 	/*
+		! - Unknown Url :( (ID: 38934 - https://anitsayac.com/details.aspx?id=38934 - Commit: 38b5d7f6b113f4894c703624a15880ae0b7c0bb8 - https://github.com/ramazansancar/AnitSayac_Scrapper/commit/38b5d7f6b113f4894c703624a15880ae0b7c0bb8)
 		<b>Ad Soyad:</b> Fidan Çakır<br><b>Maktülün yaşı: </b>Reşit<br><b>İl/ilçe: </b>İzmir<br><b>Tarih: </b>16/10/2024<br><b>Neden öldürüldü:</b>  Tespit Edilemeyen<br><b>Kim tarafından öldürüldü:</b>  Tespit Edilemeyen<br><b>Korunma talebi:</b>  Yok<br><b>Öldürülme şekli:</b>  Kesici Alet<br><b>Failin durumu: </b>Soruşturma Sürüyor<br><b>Kaynak:</b>  <a target=_blank href='https://www.t24.com.tr/haber/supheli-bir-kadin-olumu-daha-izmir-de-bir-kadin-evinde-vucudunda-kesi-izleriyle-olu-bulundu,1190726'><u>https://www.t24.com.tr/haber/supheli-bir-kadin-olumu-daha-izmir-de-bir-kadin-evinde-vucudunda-kesi-izleriyle-olu-bulundu,1190726</u></a><br><img width=750 style='margin-top:10px' src=ii/3202024.jpg>
 
+		https://anitsayac.com/details.aspx?id=151
 		<b>Ad Soyad:</b> Beyhan Yavuz<br><b>Tarih: </b>05/02/2008<br><b>Neden öldürüldü:</b>  Reddetme<br><b>Kim tarafından öldürüldü:</b>  Dini nikahlı kocası<br><b>Korunma talebi:</b>  Tespit Edilemeyen<br><b>Öldürülme şekli:</b>  Ateşli Silah<br><b>Kaynak:</b>  <a target=_blank href='http://hurarsiv.hurriyet.com.tr/goster/haber.aspx?id=8170561&tarih=2008-02-05'><u>http://hurarsiv.hurriyet.com.tr/goster/haber.aspx?id=8170561&tarih=2008-02-05</u></a>
 
+		https://anitsayac.com/details.aspx?id=37902
 		<b>Ad Soyad:</b> Ayşenur Halil<br><b>Maktülün yaşı: </b>Reşit<br><b>İl/ilçe: </b>İstanbul<br><b>Tarih: </b>04/10/2024<br><b>Neden öldürüldü:</b>  Tespit Edilemeyen<br><b>Kim tarafından öldürüldü:</b>  Eski Sevgilisi<br><b>Korunma talebi:</b>  Yok<br><b>Öldürülme şekli:</b>  Kesici Alet<br><b>Failin durumu: </b>İntihar<br><b>Kaynak:</b>  <br><a target=_blank href='https://www.t24.com.tr/haber/fatih-te-vahset-kadinin-kafasini-kesip-surlardan-atladi,1187812'><u>https://www.t24.com.tr/haber/fatih-te-vahset-kadinin-kafasini-kesip-surlardan-atladi,1187812</u></a><br><a target=_blank href='https://www.t24.com.tr/haber/yarim-saat-arayla-iki-kadini-katleden-semih-celik-5-kez-psikolojik-tedavi-gormus,1187904'><u>https://www.t24.com.tr/haber/yarim-saat-arayla-iki-kadini-katleden-semih-celik-5-kez-psikolojik-tedavi-gormus,1187904</u></a><br><img width=750 style='margin-top:10px' src=ii/2892024.jpg>
 
+		https://anitsayac.com/details.aspx?id=37903
 		<b>Ad Soyad:</b> İkbal Uzuner<br><b>Maktülün yaşı: </b>Reşit<br><b>İl/ilçe: </b>İstanbul<br><b>Tarih: </b>04/10/2024<br><b>Neden öldürüldü:</b>  Tespit Edilemeyen<br><b>Kim tarafından öldürüldü:</b>  Tanımadığı Birisi <br><b>Korunma talebi:</b>  Yok<br><b>Öldürülme şekli:</b>  Kesici Alet<br><b>Failin durumu: </b>İntihar<br><b>Kaynak:</b>  <br><a target=_blank href='https://www.t24.com.tr/haber/fatih-te-vahset-kadinin-kafasini-kesip-surlardan-atladi,1187812'><u>https://www.t24.com.tr/haber/fatih-te-vahset-kadinin-kafasini-kesip-surlardan-atladi,1187812</u></a><br><a target=_blank href='https://www.t24.com.tr/haber/yarim-saat-arayla-iki-kadini-katleden-semih-celik-5-kez-psikolojik-tedavi-gormus,1187904'><u>https://www.t24.com.tr/haber/yarim-saat-arayla-iki-kadini-katleden-semih-celik-5-kez-psikolojik-tedavi-gormus,1187904</u></a><br><img width=750 style='margin-top:10px' src=ii/2902024.jpg>
+
+		New Version:
+
+		https://anitsayac.com/details.aspx?id=35697
+		<b>Ad Soyad:</b> Selma Çiftçi<br><b>Maktülün yaşı: </b>Reşit<br><b>İl/ilçe: </b>Mersin<br><b>Tarih: </b>04/04/2024<br><b>Neden öldürüldü:</b>  Tartışma<br><b>Kim tarafından öldürüldü:</b>  Oğlu<br><b>Korunma talebi:</b>  Yok<br><b>Öldürülme şekli:</b>  Kesic Alet, Ateşli Silah<br><b>Failin durumu: </b>Tutuklu<br><b>Kaynak:</b>  <a target=_blank href='https://www.hurriyet.com.tr/gundem/mersinde-hastanede-kan-donduran-cinayet-annesinin-bogazini-ve-ayaklarini-kesip-tek-kursunla-oldurdu-42441309'><u>https://www.hurriyet.com.tr/gundem/mersinde-hastanede-kan-donduran-cinayet-annesinin-bogazini-ve-ayaklarini-kesip-tek-kursunla-oldurdu-42441309</u></a><br><img width=750    onerror='this.style.display="none";'  style='margin-top:10px' src='//i.anitsayac.com/ii/972024.jpg'>
+
+
 	*/
 
 	detail := Detail{}
@@ -219,7 +230,22 @@ func getArticleContent(url string) Detail {
 		sources := e.ChildAttrs("a", "href")
 		detail.Source = sources
 
-		detail.Image = baseUrl + "/" + e.ChildAttr("img", "src")
+		// Check if image exists and has valid src attribute
+		imgSrc := e.ChildAttr("img", "src")
+		if imgSrc != "" {
+			// Handle protocol-relative URLs (//domain.com/path)
+			if strings.HasPrefix(imgSrc, "//") {
+				detail.Image = "https:" + imgSrc
+			} else if strings.HasPrefix(imgSrc, "http://") || strings.HasPrefix(imgSrc, "https://") {
+				// Full URL, use as is
+				detail.Image = imgSrc
+			} else {
+				// Relative path, prepend base URL
+				detail.Image = baseUrl + "/" + imgSrc
+			}
+		} else {
+			detail.Image = ""
+		}
 	})
 
 	c.Visit(url)
@@ -259,6 +285,9 @@ func main() {
 			detail := getArticleContent(baseUrl + "/" + e.ChildAttr("span.xxy > a", "href"))
 			incident := Incident{
 				Id: func() int {
+					/*
+						<span class="xxy bgyear2025"> <a href="details.aspx?id=50364" data-width="800" data-height="380" class="html5lightbox" adata-group="mygroup">Keziban Pars</a></span>
+					*/
 					id, _ := strconv.Atoi(strings.Split(e.ChildAttr("span.xxy > a", "href"), "=")[1])
 					return id
 				}(),
