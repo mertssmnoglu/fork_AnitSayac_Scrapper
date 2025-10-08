@@ -6,7 +6,7 @@ It is recommended that people who will use it for data processing use the JSON f
 
 ## ❗ Important Information
 
-- It is known that errors occur due to incorrect data entry in data with IDs 70, 69, 114, 78, 71, 511, 605, 607, 3580, 1051, 934, 675, 617, 616, 611, 599, 138.
+- It is known that errors occur due to incorrect data entry in data with IDs 70, 69, 114, 78, 71, 511, 605, 607, 3580, 1051, 934, 675, 617, 616, 611, 599, 138, 4185.
 - Blank data appears that way because it is not available on the site.
 
 ## Installation

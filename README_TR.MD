@@ -6,7 +6,7 @@ Veri işleme için kullanacak kişilerin JSON dosyasını kullanması önerilir.
 
 ## ❗ Önemli Bilgiler
 
-- ID'leri 70, 69, 114, 78, 71, 511, 605, 607, 3580, 1051, 934, 675, 617, 616, 611, 599, 138 olan verilerde yanlış veri girişi nedeniyle hatalar olduğu bilinmektedir.
+- ID'leri 70, 69, 114, 78, 71, 511, 605, 607, 3580, 1051, 934, 675, 617, 616, 611, 599, 138, 4185 olan verilerde yanlış veri girişi nedeniyle hatalar olduğu bilinmektedir.
 - Boş veriler sitede mevcut olmadığı için o şekilde görünmektedir.
 
 ## Kurulum

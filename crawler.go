@@ -182,6 +182,66 @@ func getArticleContent(url string) Detail {
 	})
 
 	c.OnHTML("body", func(e *colly.HTMLElement) {
+		allFieldCorrections := map[string]string{
+			"Tespit Edİlemeyen":    "Tespit Edilemeyen",
+			"Tespi Edilemeyen":     "Tespit Edilemeyen",
+			"Tespite Edilemeyen":   "Tespit Edilemeyen",
+			"Tespit Edlemeyen":     "Tespit Edilemeyen",
+			"Tespite Edlielemeyen": "Tespit Edilemeyen",
+			"Tespit Edielmeyen":    "Tespit Edilemeyen",
+			"Tespit Edilemyen":     "Tespit Edilemeyen",
+			"Tespit Edilmeyen":     "Tespit Edilemeyen",
+			"Tesbit Edilemeyen":    "Tespit Edilemeyen",
+			"Tespit Edielemeyen":   "Tespit Edilemeyen",
+			"Tespite Edilemeye":    "Tespit Edilemeyen",
+			"Tespit Edilmeyem":     "Tespit Edilemeyen",
+			"Tespit Edilemeye":     "Tespit Edilemeyen",
+
+			"Erkek Karkeşleri":          "Erkek Kardeşleri",
+			"Eniltesi":                  "Eniştesi",
+			"Kocacı":                    "Kocası",
+			"Kocasi":                    "Kocası",
+			"Tanımdıkları Birileri":     "Tanımadıkları Birileri",
+			"Tespit edilemeyen":         "Tespit Edilemeyen",
+			"Tanımadığı BIrileri":       "Tanımadığı Birileri",
+			"Tanıdıği Birileri":         "Tanıdığı Birileri",
+			"Tanımadıği Birisi":         "Tanımadığı Birisi",
+			"Tanımadığı biri":           "Tanımadığı Birisi",
+			"Babasi":                    "Babası",
+			"Yo":                        "Yok",
+			"YoK":                       "Yok",
+			"yok":                       "Yok",
+			"Var Uzaklaştırma Kararı":   "Var (Uzaklaştırma Kararı)",
+			"Var(Uzaklaştırma Kararı)":  "Var (Uzaklaştırma Kararı)",
+			"Var - Uzaklaştırma Kararı": "Var (Uzaklaştırma Kararı)",
+			"Uzaklaştırma Kararı Var":   "Var (Uzaklaştırma Kararı)",
+			"Uzaklaştırma Kararı":       "Var (Uzaklaştırma Kararı)",
+			"Var (Uzaklaştıma Kararı)":  "Var (Uzaklaştırma Kararı)",
+			"Var. Uzaklaştırma Kararı.": "Var (Uzaklaştırma Kararı)",
+			"Uzaklaştırma kararı var":   "Var (Uzaklaştırma Kararı)",
+			"Var -Uzaklaştırma Kararı":  "Var (Uzaklaştırma Kararı)",
+			"Var (Uzaklaştırma kararı)": "Var (Uzaklaştırma Kararı)",
+			"Korunma Talebi Var":        "Var (Korunma Talebi)",
+			"Korunma talebi var":        "Var (Korunma Talebi)",
+			"Var(Korunma Talebi)":       "Var (Korunma Talebi)",
+			"İnithar":                   "İntihar",
+			"İntiihar Teşebbüsü":        "İntihar Teşebbüsü",
+			"İnthihara Teşebbüs":        "İntihara Teşebbüs",
+			"Aranııyor":                 "Aranıyor",
+			"Soruştutma Sürüyor":        "Soruşturma Sürüyor",
+			"Tutuklu Değik":             "Tutuklu Değil",
+			"Tutuklul":                  "Tutuklu",
+			"Ateşl Silah":               "Ateşli Silah",
+			"Ateşli Slah":               "Ateşli Silah",
+			"Atesli Silah":              "Ateşli Silah",
+			"Ateşli Sialh":              "Ateşli Silah",
+			"Ateşlil Silah":             "Ateşli Silah",
+			"Ateşli SIlah":              "Ateşli Silah",
+			"Kesici Aelt":               "Kesici Alet",
+			"Kesici alet":               "Kesici Alet",
+			"-":                         "",
+		}
+
 		nameMatches := regexp.MustCompile(`(?i)<b>Ad Soyad:\s*</b>\s*(.+?)<br>`).FindStringSubmatch(string(e.Response.Body))
 		if len(nameMatches) > 1 {
 			detail.Name = strings.TrimSpace(nameMatches[1])
@@ -189,12 +249,134 @@ func getArticleContent(url string) Detail {
 
 		ageMatches := regexp.MustCompile(`(?i)<b>Maktülün yaşı:\s*</b>\s*(.+?)<br>`).FindStringSubmatch(string(e.Response.Body))
 		if len(ageMatches) > 1 {
-			detail.Age = strings.TrimSpace(ageMatches[1])
+			age := strings.TrimSpace(ageMatches[1])
+
+			// Normalize age values - use exact matching
+			ageCorrections := map[string]string{
+				"Reşi":        "Reşit",
+				"ReşİT":       "Reşit",
+				"Re\u0013şit": "Reşit",
+				"Re\u0001şit": "Reşit",
+			}
+
+			// Apply age corrections with exact matching
+			for incorrect, correct := range ageCorrections {
+				if age == incorrect {
+					age = correct
+					break
+				}
+			}
+			age = strings.TrimSpace(age)
+			// Apply all field corrections
+			for incorrect, correct := range allFieldCorrections {
+				if age == incorrect {
+					age = correct
+					break
+				}
+			}
+			age = strings.TrimSpace(age)
+
+			detail.Age = age
 		}
 
 		locationMatches := regexp.MustCompile(`(?i)<b>İl/ilçe:\s*</b>\s*(.+?)<br>`).FindStringSubmatch(string(e.Response.Body))
 		if len(locationMatches) > 1 {
-			detail.Location = strings.TrimSpace(locationMatches[1])
+			location := strings.TrimSpace(locationMatches[1])
+
+			// Common location corrections (alphabetically sorted)
+			locationCorrections := map[string]string{
+				"Adapazarı":         "Adapazarı/Sakarya",
+				"Afyonharahisar":    "Afyonkarahisar",
+				"Agrı":              "Ağrı",
+				"Akhisar":           "Akhisar/Manisa",
+				"Aksu":              "Aksu/Antalya",
+				"Akyazı":            "Akyazı/Sakarya",
+				"ankara":            "Ankara",
+				"Aralık":            "Aralık/Iğdır",
+				"Arnavutköy":        "Arnavutköy/Istanbul",
+				"Ayvalık":           "Ayvalık/Balıkesir",
+				"Buca":              "Buca/İzmir",
+				"Çiğli":             "Çiğli/İzmir",
+				"Çine":              "Çine/Aydın",
+				"Datça":             "Datça/Muğla",
+				"Dersim":            "Dersim/Tunceli",
+				"Devrek":            "Devrek/Zonguldak",
+				"Didim":             "Didim/Aydın",
+				"Diyarbaır":         "Diyarbakır",
+				"Doğu Beyazıt":      "Doğubayazıt/Ağrı",
+				"Edremit":           "Edremit/Balıkesir",
+				"Eğirdir":           "Eğirdir/Isparta",
+				"Ekazığ":            "Elazığ",
+				"Ereğli":            "Ereğli/Zonguldak",
+				"Ergani":            "Ergani/Diyarbakır",
+				"Fatsa":             "Fatsa/Ordu",
+				"Fetihiye":          "Fethiye/Muğla",
+				"Fetyhiye":          "Fethiye/Muğla",
+				"Gazipaşa":          "Gazipaşa/Antalya",
+				"Gazianteop":        "Gaziantep",
+				"Gebze":             "Gebze/Kocaeli",
+				"Gemlik":            "Gemlik/Bursa",
+				"Girne":             "Girne/Kıbrıs",
+				"Harran":            "Harran/Şanlıurfa",
+				"Iğdır":            "Iğdır",
+				"İğdır":             "Iğdır",
+				"İsparta":           "Isparta",
+				"istanbul":          "İstanbul",
+				"İsstanbul":         "İstanbul",
+				"İstanbu":           "İstanbul",
+				"izmir":             "İzmir",
+				"İzmİr":             "İzmir",
+				"İzmit":             "İzmit/Kocaeli",
+				"Kahrmanmaraş":      "Kahramanmaraş",
+				"Karamürsel":        "Karamürsel/Kocaeli",
+				"kars":              "Kars",
+				"Kaş":               "Kaş/Antalya",
+				"Kastomonu":         "Kastamonu",
+				"kayseri":           "Kayseri",
+				"Keşan":             "Keşan/Edirne",
+				"Kırlareli":         "Kırklareli",
+				"Kırııkkale":        "Kırıkkale",
+				"KocaeLİ":           "Kocaeli",
+				"konya":             "Konya",
+				"Küçükçekmece":      "Küçükçekmece/Istanbul",
+				"Kuşadası":          "Kuşadası/Aydın",
+				"Lapseki":           "Lapseki/Çanakkale",
+				"Lefkoşa":           "Lefkoşa/Kıbrıs",
+				"Maltepe":           "Maltepe/Istanbul",
+				"Mardın":            "Mardin",
+				"Marmaris":          "Marmaris/Muğla",
+				"Mazıdağı":          "Mazıdağı/Mardin",
+				"nevşehir":          "Nevşehir",
+				"Nusaybin":          "Nusaybin/Mardin",
+				"Ödemiş":            "Ödemiş/İzmir",
+				"Orhaniye":          "Orhaniye/Muğla",
+				"Osmancık":          "Osmancık/Çorum",
+				"Polatlı":           "Polatlı/Ankara",
+				"Safranbolu":        "Safranbolu/Karabük",
+				"samsun":            "Samsun",
+				"ŞanlıUrfa":         "Şanlıurfa",
+				"Saruhan":           "Saruhanlı/Manisa",
+				"Sincan":            "Sincan/Ankara",
+				"Siverek":           "Siverek/Şanlıurfa",
+				"Sultangazi":        "Sultangazi/Istanbul",
+				"Torbalı":           "Torbalı/İzmir",
+				"Tuzla":             "Tuzla/Istanbul",
+				"Urfa":              "Şanlıurfa",
+				"urfa":              "Şanlıurfa",
+				"Zonguldak Ereğli":  "Ereğli/Zonguldak",
+				"Tespit Edilemeyen": "",
+			}
+
+			// Apply corrections - use exact word matching to avoid partial replacements
+			for incorrect, correct := range locationCorrections {
+				// Only replace if the location exactly matches the incorrect value
+				if location == incorrect {
+					location = correct
+					break // Exit loop once a match is found
+				}
+			}
+
+			detail.Location = location
 		}
 
 		dateMatches := regexp.MustCompile(`(?i)<b>Tarih:\s*</b>\s*(.+?)<br>`).FindStringSubmatch(string(e.Response.Body))
@@ -202,24 +384,92 @@ func getArticleContent(url string) Detail {
 			detail.Date = strings.TrimSpace(dateMatches[1])
 		}
 
-		reasonMatches := regexp.MustCompile(`(?i)<b>Neden öldürüldü:\s*</b>\s*(.+?)<br>`).FindStringSubmatch(string(e.Response.Body))
+		reasonMatches := regexp.MustCompile(`(?i)<b>Neden öldürüldü:\s*</b>\s*(.*?)(?:<br><b>|<br>|$)`).FindStringSubmatch(string(e.Response.Body))
 		if len(reasonMatches) > 1 {
-			detail.Reason = strings.TrimSpace(reasonMatches[1])
+			reason := strings.TrimSpace(reasonMatches[1])
+			// Clean reason field from HTML tags that might have been captured
+			reason = regexp.MustCompile(`<[^>]*>`).ReplaceAllString(reason, "")
+			reason = strings.TrimSpace(reason)
+
+			// Apply corrections - use exact word matching to avoid partial replacements
+			for incorrect, correct := range allFieldCorrections {
+				if reason == incorrect {
+					reason = correct
+					break // Exit loop once a match is found
+				}
+			}
+			reason = strings.TrimSpace(strings.ReplaceAll(reason, ",", " "))
+
+			detail.Reason = reason
 		}
 
-		byMatches := regexp.MustCompile(`(?i)<b>Kim tarafından öldürüldü:\s*</b>\s*(.+?)<br>`).FindStringSubmatch(string(e.Response.Body))
+		byMatches := regexp.MustCompile(`(?i)<b>Kim tarafından öldürüldü:\s*</b>\s*(.*?)(?:<br><b>|<br>|$)`).FindStringSubmatch(string(e.Response.Body))
 		if len(byMatches) > 1 {
-			detail.By = strings.TrimSpace(byMatches[1])
+			by := strings.TrimSpace(byMatches[1])
+			// Clean by field from HTML tags that might have been captured
+			by = regexp.MustCompile(`<[^>]*>`).ReplaceAllString(by, "")
+			by = strings.TrimSpace(by)
+
+			byCorrections := map[string]string{
+				"Dini Nikahlı E\u0013şi": "Dini Nikahlı Eşi",
+			}
+
+			for incorrect, correct := range byCorrections {
+				if by == incorrect {
+					by = correct
+					break // Exit loop once a match is found
+				}
+			}
+
+			for incorrect, correct := range allFieldCorrections {
+				if by == incorrect {
+					by = correct
+					break // Exit loop once a match is found
+				}
+			}
+
+			detail.By = by
 		}
 
-		protectionMatches := regexp.MustCompile(`(?i)<b>Korunma talebi:\s*</b>\s*(.+?)<br>`).FindStringSubmatch(string(e.Response.Body))
+		protectionMatches := regexp.MustCompile(`(?i)<b>Korunma talebi:\s*</b>\s*(.*?)(?:<br><b>|<br>|$)`).FindStringSubmatch(string(e.Response.Body))
 		if len(protectionMatches) > 1 {
-			detail.Protection = strings.TrimSpace(protectionMatches[1])
+			protection := strings.TrimSpace(protectionMatches[1])
+			// Clean protection field from HTML tags that might have been captured
+			protection = regexp.MustCompile(`<[^>]*>`).ReplaceAllString(protection, "")
+			// Remove any content that looks like it belongs to another field
+			protection = regexp.MustCompile(`(?i).*?Öldürülme şekli:\s*`).ReplaceAllString(protection, "")
+			protection = strings.TrimSpace(protection)
+
+			// Apply corrections - use exact word matching to avoid partial replacements
+			for incorrect, correct := range allFieldCorrections {
+				if protection == incorrect {
+					protection = correct
+					break // Exit loop once a match is found
+				}
+			}
+			protection = strings.TrimSpace(protection)
+			detail.Protection = protection
 		}
 
-		methodMatches := regexp.MustCompile(`(?i)<b>Öldürülme şekli:\s*</b>\s*(.+?)<br>`).FindStringSubmatch(string(e.Response.Body))
+		methodMatches := regexp.MustCompile(`(?i)<b>Öldürülme şekli:\s*</b>\s*(.*?)(?:<br><b>|<br>|$)`).FindStringSubmatch(string(e.Response.Body))
 		if len(methodMatches) > 1 {
-			detail.Method = strings.TrimSpace(methodMatches[1])
+			method := strings.TrimSpace(methodMatches[1])
+			// Clean method field from HTML tags that might have been captured
+			method = regexp.MustCompile(`<[^>]*>`).ReplaceAllString(method, "")
+			// Remove any content that looks like it belongs to another field
+			method = regexp.MustCompile(`(?i).*?Failin durumu:\s*`).ReplaceAllString(method, "")
+			method = regexp.MustCompile(`(?i).*?Kaynak:\s*`).ReplaceAllString(method, "")
+			method = strings.TrimSpace(method)
+
+			// Apply corrections - use exact word matching to avoid partial replacements
+			for incorrect, correct := range allFieldCorrections {
+				if method == incorrect {
+					method = correct
+					break // Exit loop once a match is found
+				}
+			}
+			method = strings.TrimSpace(method)
+			detail.Method = method
 		}
 
 		statusMatches := regexp.MustCompile(`(?i)<b>Failin durumu:\s*</b>\s*(.+?)(?:<br>|$)`).FindStringSubmatch(string(e.Response.Body))
@@ -236,6 +486,14 @@ func getArticleContent(url string) Detail {
 			if status == "" || strings.Contains(status, "http") {
 				status = ""
 			}
+			// Apply corrections - use exact word matching to avoid partial replacements
+			for incorrect, correct := range allFieldCorrections {
+				if status == incorrect {
+					status = correct
+					break // Exit loop once a match is found
+				}
+			}
+			status = strings.TrimSpace(status)
 			detail.Status = status
 		}
 
