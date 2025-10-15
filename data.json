@@ -1,5 +1,41 @@
 [
   {
+    "id": 50365,
+    "name": "Şerife A.",
+    "fullname": "Şerife A.",
+    "age": "Reşit",
+    "location": "Çanakkale",
+    "date": "12/10/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/isyerinde-av-tufegiyle-olduruldu-serife-de-katledildi-42980552"
+    ],
+    "image": "https://i.anitsayac.com/ii/3682025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=50365"
+  },
+  {
+    "id": 50367,
+    "name": "Hasibe Aybar",
+    "fullname": "Hasibe Aybar",
+    "age": "Reşit",
+    "location": "Manisa",
+    "date": "12/10/2025",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.ntv.com.tr/amp/turkiye/manisada-kadin-cinayeti-kocasi-tarafindan-tufekle-vuruldu,nchY0NN03kO609DHHoo2sA"
+    ],
+    "image": "https://i.anitsayac.com/ii/3692025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=50367"
+  },
+  {
     "id": 50364,
     "name": "Keziban Pars",
     "fullname": "Keziban Pars",
@@ -10465,6 +10501,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/2252024.jpg",
     "url": "https://anitsayac.com/details.aspx?id=36838"
+  },
+  {
+    "id": 50369,
+    "name": "Hüsne Topal",
+    "fullname": "Hüsne Topal",
+    "age": "Reşit",
+    "location": "Bodrum",
+    "date": "24/07/2024",
+    "reason": "Tartışma",
+    "by": "Eski Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/muglada-eski-esi-husneyi-katletmisti-acili-aileye-cezaevinden-tehdit-mesajlari-42983253"
+    ],
+    "image": "https://i.anitsayac.com/ii/4522024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=50369"
   },
   {
     "id": 40031,
@@ -24615,6 +24669,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/2722022.jpg",
     "url": "https://anitsayac.com/details.aspx?id=16268"
+  },
+  {
+    "id": 50366,
+    "name": "Necla Alp",
+    "fullname": "Necla Alp",
+    "age": "Reşit",
+    "location": "Aydın",
+    "date": "31/08/2022",
+    "reason": "Tespit Edilemeyen",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Serbest",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/aydindaki-vahset-2-aylik-esini-bogazini-keserek-oldurmustu-akli-dengesinin-yerinde-olmadigi-karariyla-serbest-birakildi-42979943"
+    ],
+    "image": "https://i.anitsayac.com/ii/2152022.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=50366"
   },
   {
     "id": 16266,
@@ -72995,6 +73067,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/2062015.jpg",
     "url": "https://anitsayac.com/details.aspx?id=1559"
+  },
+  {
+    "id": 50368,
+    "name": "Gülizar Bingöl",
+    "fullname": "Gülizar Bingöl",
+    "age": "",
+    "location": "Diyarbakır",
+    "date": "14/10/2015",
+    "reason": "Tespit Edilemeyen",
+    "by": "Akrabası",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/diyarbakirda-magarada-bulunan-ceset-10-yildir-kayip-ola-gulizar-bingole-ait-cikti-katil-zanlisi-boyle-yakalandi-42982811"
+    ],
+    "image": "https://i.anitsayac.com/ii/2992015.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=50368"
   },
   {
     "id": 1603,
