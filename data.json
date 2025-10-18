@@ -1,5 +1,77 @@
 [
   {
+    "id": 51316,
+    "name": "Suzan Elik",
+    "fullname": "Suzan Elik",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "17/10/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Kocası",
+    "protection": "Var (Uzaklaştırma Kararı)",
+    "method": "Ateşli Silah",
+    "status": "Aranıyor",
+    "source": [
+      "https://www.sabah.com.tr/yasam/istanbulda-bosanma-asamasindaki-esi-tarafindan-vurulmustu-genc-kadin-16-gun-sonra-hayatini-kaybetti-7445493"
+    ],
+    "image": "https://i.anitsayac.com/ii/3722025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=51316"
+  },
+  {
+    "id": 51317,
+    "name": "Gülben Duru",
+    "fullname": "Gülben Duru",
+    "age": "Reşit",
+    "location": "İzmir",
+    "date": "16/10/2025",
+    "reason": "Tartışma",
+    "by": "Eski Kocası",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.milliyet.com.tr/gundem/izmirde-genc-kadin-eski-esi-tarafindan-sokak-ortasinda-katledildi-7465340"
+    ],
+    "image": "https://i.anitsayac.com/ii/3732025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=51317"
+  },
+  {
+    "id": 51314,
+    "name": "Aysel Karakoç",
+    "fullname": "Aysel Karakoç",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "16/10/2025",
+    "reason": "Tartışma",
+    "by": "Eski Sevgilisi",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.sozcu.com.tr/istanbul-da-dehset-barismak-icin-girdigi-evde-eski-sevgilisini-oldurdu-p247448"
+    ],
+    "image": "https://i.anitsayac.com/ii/3702025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=51314"
+  },
+  {
+    "id": 51315,
+    "name": "İzadiye Teker",
+    "fullname": "İzadiye Teker",
+    "age": "Reşit",
+    "location": "İzmir",
+    "date": "15/10/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/kanser-hastasi-esini-yataginda-uyurken-oldurdu-42984886"
+    ],
+    "image": "https://i.anitsayac.com/ii/3712025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=51315"
+  },
+  {
     "id": 50365,
     "name": "Şerife A.",
     "fullname": "Şerife A.",
