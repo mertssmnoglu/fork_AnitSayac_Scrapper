@@ -1,5 +1,59 @@
 [
   {
+    "id": 51320,
+    "name": "Hasret Akkuzu",
+    "fullname": "Hasret Akkuzu",
+    "age": "Reşit",
+    "location": "Zonguldak",
+    "date": "21/10/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Tespit Edilemeyen",
+    "source": [
+      "https://www.t24.com.tr/haber/16-yasindaki-kayip-cocuk-su-kuyusunda-olu-bulundu-3-arkadasi-gozaltina-alindi,1269088"
+    ],
+    "image": "https://i.anitsayac.com/ii/3762025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=51320"
+  },
+  {
+    "id": 51318,
+    "name": "Gönül Karakök",
+    "fullname": "Gönül Karakök",
+    "age": "Reşit",
+    "location": "Zonguldak",
+    "date": "19/10/2025",
+    "reason": "Tartışma",
+    "by": "Eski Kayınpederi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.ntv.com.tr/amp/turkiye/eski-gelinini-katletti,APfE6JxO6EmIJfhZ9C1VZw"
+    ],
+    "image": "https://i.anitsayac.com/ii/3742025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=51318"
+  },
+  {
+    "id": 51319,
+    "name": "Muradiye Gökmen",
+    "fullname": "Muradiye Gökmen",
+    "age": "Reşit",
+    "location": "Ankara",
+    "date": "19/10/2025",
+    "reason": "Reddedilme",
+    "by": "Tanıdığı Birisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://haberglobal.com.tr/gundem/cezaevinden-izinli-olarak-cikan-kadin-kendisine-takinti-gelistiren-erkek-tarafindan-cocugunun-gozleri-onunde-katledildi-485584"
+    ],
+    "image": "https://i.anitsayac.com/ii/3752025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=51319"
+  },
+  {
     "id": 51316,
     "name": "Suzan Elik",
     "fullname": "Suzan Elik",
