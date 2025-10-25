@@ -60,13 +60,14 @@
     "age": "Reşit Değil",
     "location": "Zonguldak",
     "date": "21/10/2025",
-    "reason": "Tespit Edilemeyen",
-    "by": "Tespit Edilemeyen",
+    "reason": "Tartışma",
+    "by": "Tanıdığı Birisi",
     "protection": "Yok",
-    "method": "Tespit Edilemeyen",
-    "status": "Tespit Edilemeyen",
+    "method": "Boğularak",
+    "status": "Tutuklu",
     "source": [
-      "https://www.t24.com.tr/haber/16-yasindaki-kayip-cocuk-su-kuyusunda-olu-bulundu-3-arkadasi-gozaltina-alindi,1269088"
+      "https://www.t24.com.tr/haber/16-yasindaki-kayip-cocuk-su-kuyusunda-olu-bulundu-3-arkadasi-gozaltina-alindi,1269088",
+      "https://www.hurriyet.com.tr/gundem/hasret-akkuzun-katilinden-kan-donduran-itiraf-42995067"
     ],
     "image": "https://anitsayac.com///i.anitsayac.com/ii/3762025.jpg",
     "url": "https://anitsayac.com/details.aspx?id=51320"
@@ -43931,6 +43932,24 @@
     ],
     "image": "https://anitsayac.com///i.anitsayac.com/ii/1352020.jpg",
     "url": "https://anitsayac.com/details.aspx?id=3395"
+  },
+  {
+    "id": 51325,
+    "name": "Birsen Bayraktar",
+    "fullname": "Birsen Bayraktar",
+    "age": "Reşit",
+    "location": "İzmir",
+    "date": "14/04/2020",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tanıdığı Birisi",
+    "protection": "Yok",
+    "method": "Darp",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/eczaci-cinayetinde-tutuksuz-yargilanan-kadin-eger-kocam-tahliye-edilmezse-intihar-edecegim-42733576"
+    ],
+    "image": "https://anitsayac.com///i.anitsayac.com/ii/4232020.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=51325"
   },
   {
     "id": 3374,
