@@ -1,5 +1,41 @@
 [
   {
+    "id": 52319,
+    "name": "Binnur Gökman",
+    "fullname": "Binnur Gökman",
+    "age": "Reşit",
+    "location": "Kocaeli",
+    "date": "31/10/2025",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "İntihara Teşebbüs",
+    "source": [
+      "https://www.cumhuriyet.com.tr/turkiye/kocaeli-de-kadin-cinayeti-kizinin-kinasina-1-gun-kala-oldurdu-2448653"
+    ],
+    "image": "https://i.anitsayac.com/ii/3852025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52319"
+  },
+  {
+    "id": 52320,
+    "name": "Mine Arı",
+    "fullname": "Mine Arı",
+    "age": "Reşit",
+    "location": "Siirt",
+    "date": "31/10/2025",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.sondakika.com/amp/haber-siirt-te-aile-ici-silahli-kavga-2-olu-3-yarali-19204189/"
+    ],
+    "image": "https://i.anitsayac.com/ii/3862025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52320"
+  },
+  {
     "id": 52318,
     "name": "Ebru Kaya",
     "fullname": "Ebru Kaya",
