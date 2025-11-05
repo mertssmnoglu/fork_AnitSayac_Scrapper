@@ -1,5 +1,59 @@
 [
   {
+    "id": 52323,
+    "name": "Nermin Tirit",
+    "fullname": "Nermin Tirit",
+    "age": "Reşit",
+    "location": "Erzurum",
+    "date": "03/11/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tanıdığı Birisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.cnnturk.com/turkiye/erzurumda-dehset-tahliyeden-12-gun-sonra-nermini-oldurup-intihar-etti-2355309"
+    ],
+    "image": "https://i.anitsayac.com/ii/3892025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52323"
+  },
+  {
+    "id": 52324,
+    "name": "Arzu Khalılova",
+    "fullname": "Arzu Khalılova",
+    "age": "Reşit",
+    "location": "Bursa",
+    "date": "03/11/2025",
+    "reason": "Tartışma",
+    "by": "Sevgilisi",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.sozcu.com.tr/erkek-arkadasi-tarafindan-bicaklanan-kadin-oldu-p255416"
+    ],
+    "image": "https://i.anitsayac.com/ii/3902025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52324"
+  },
+  {
+    "id": 52321,
+    "name": "Aydan Vural",
+    "fullname": "Aydan Vural",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "01/11/2025",
+    "reason": "Tartışma",
+    "by": "Tanıdığı Birisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.haberler.com/3-sayfa/istanbul-da-iki-cocuk-annesi-kadin-ve-erkek-sirahi-basindan-vurulmus-bulundu-19209380-haberi/"
+    ],
+    "image": "https://i.anitsayac.com/ii/3872025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52321"
+  },
+  {
     "id": 52319,
     "name": "Binnur Gökman",
     "fullname": "Binnur Gökman",
@@ -34,6 +88,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/3862025.jpg",
     "url": "https://anitsayac.com/details.aspx?id=52320"
+  },
+  {
+    "id": 52322,
+    "name": "Ülser Sakarya",
+    "fullname": "Ülser Sakarya",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "30/10/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Darp, Boğularak",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.sabah.com.tr/yasam/silivride-kan-donduran-olay-yasli-kadin-evinde-olu-bulundu-agzi-bantli-boynuna-bagli-esarp-ayaklarinda-7453859"
+    ],
+    "image": "https://i.anitsayac.com/ii/3882025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52322"
   },
   {
     "id": 52318,
@@ -92149,6 +92221,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/1322011.jpg",
     "url": "https://anitsayac.com/details.aspx?id=3804"
+  },
+  {
+    "id": 52325,
+    "name": "Mürvet Acar",
+    "fullname": "Mürvet Acar",
+    "age": "",
+    "location": "Diyarbakır",
+    "date": "01/01/2011",
+    "reason": "Namus",
+    "by": "Erkek Kardeşi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.sozcu.com.tr/murvet-in-aci-oykusu-yap-boz-tahtasina-donen-dava-10-yilda-sonuclandi-p255198"
+    ],
+    "image": "https://i.anitsayac.com/ii/1342011.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52325"
   },
   {
     "id": 509,
