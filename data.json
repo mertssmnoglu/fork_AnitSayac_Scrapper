@@ -1,5 +1,167 @@
 [
   {
+    "id": 52347,
+    "name": "Fatma Kılıç",
+    "fullname": "Fatma Kılıç",
+    "age": "Reşit",
+    "location": "Amasya",
+    "date": "24/11/2025",
+    "reason": "Tartışma  Borç Para Talebi",
+    "by": "Tanıdığı Birisi",
+    "protection": "Yok",
+    "method": "Boğularak",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.evrensel.net/haber/584838/edirnede-kadin-cinayeti-komsusu-tarafindan-vurulan-turkan-demirci-yasamini-yitirdi"
+    ],
+    "image": "https://i.anitsayac.com/ii/4102025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52347"
+  },
+  {
+    "id": 52348,
+    "name": "Nuran Şimşek",
+    "fullname": "Nuran Şimşek",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "24/11/2025",
+    "reason": "Tartışma",
+    "by": "Eski Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.t24.com.tr/haber/kadin-cinayetleri-son-bulmuyor-konusma-bahanesiyle-evinden-aldigi-eski-esini-silahla-basindan-vurup-oldurdu,1278645"
+    ],
+    "image": "https://i.anitsayac.com/ii/4112025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52348"
+  },
+  {
+    "id": 52345,
+    "name": "Rumeysa Sanpur",
+    "fullname": "Rumeysa Sanpur",
+    "age": "Reşit",
+    "location": "Kırklareli",
+    "date": "22/11/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Nişanlısının Husumetlileri",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/19-yasindaki-genc-kadin-nisanlisinin-evinde-cikan-catismada-vurulup-olduruldu-43028511"
+    ],
+    "image": "https://i.anitsayac.com/ii/4082025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52345"
+  },
+  {
+    "id": 52346,
+    "name": "Türkan Demirci",
+    "fullname": "Türkan Demirci",
+    "age": "Reşit",
+    "location": "Edirne",
+    "date": "20/11/2025",
+    "reason": "Tartışma",
+    "by": "Tanıdığı Birisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.evrensel.net/haber/584838/edirnede-kadin-cinayeti-komsusu-tarafindan-vurulan-turkan-demirci-yasamini-yitirdi"
+    ],
+    "image": "https://i.anitsayac.com/ii/4092025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52346"
+  },
+  {
+    "id": 52338,
+    "name": "Firdevs Akgün",
+    "fullname": "Firdevs Akgün",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "19/11/2025",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Aranıyor",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/pendikte-kadin-cinayeti-esini-bicaklayarak-oldurup-kacti-43024165"
+    ],
+    "image": "https://i.anitsayac.com/ii/4022025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52338"
+  },
+  {
+    "id": 52340,
+    "name": "Feride Sayılır",
+    "fullname": "Feride Sayılır",
+    "age": "Reşit",
+    "location": "İzmir",
+    "date": "19/11/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Babası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/izmirde-vahset-anlari-engelli-kizini-pompali-tufekle-oldurup-intihar-etti-43025042"
+    ],
+    "image": "https://i.anitsayac.com/ii/4042025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52340"
+  },
+  {
+    "id": 52341,
+    "name": "İlknur Torgut",
+    "fullname": "İlknur Torgut",
+    "age": "Reşit",
+    "location": "Diyarbakır",
+    "date": "19/11/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Oğlu",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/diyarbakirda-dehset-annesini-ve-agabeyini-pompali-tufekle-oldurdu-babasina-not-birakti-43024219"
+    ],
+    "image": "https://i.anitsayac.com/ii/4052025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52341"
+  },
+  {
+    "id": 52342,
+    "name": "Münire Yüzkar",
+    "fullname": "Münire Yüzkar",
+    "age": "Reşit",
+    "location": "İzmir",
+    "date": "19/11/2025",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.ntv.com.tr/amp/turkiye/izmirde-esini-katleden-kisi-intihar-etti-1697721"
+    ],
+    "image": "https://i.anitsayac.com/ii/4062025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52342"
+  },
+  {
+    "id": 52339,
+    "name": "Meryem Ş.",
+    "fullname": "Meryem Ş.",
+    "age": "Reşit",
+    "location": "Kars",
+    "date": "18/11/2025",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Kesisi Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.t24.com.tr/haber/kars-ta-bir-kisi-tartistigi-esini-bicaklayarak-oldurdu,1277207"
+    ],
+    "image": "https://i.anitsayac.com/ii/4032025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52339"
+  },
+  {
     "id": 52334,
     "name": "Yasemin Bulut",
     "fullname": "Yasemin Bulut",
@@ -178,6 +340,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/4002025.jpg",
     "url": "https://anitsayac.com/details.aspx?id=52335"
+  },
+  {
+    "id": 52343,
+    "name": "İklimya Subay",
+    "fullname": "İklimya Subay",
+    "age": "Reşit",
+    "location": "Şanlıurfa",
+    "date": "11/11/2025",
+    "reason": "Tartışma",
+    "by": "Tanımadığı Birisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.sabah.com.tr/video/yasam/dugunde-pompali-tufekle-oldurulen-16-yasindaki-iklimyanin-son-goruntuleri-ortaya-cikti-video"
+    ],
+    "image": "https://i.anitsayac.com/ii/4072025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52343"
   },
   {
     "id": 52326,
@@ -78607,6 +78787,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/2562014.jpg",
     "url": "https://anitsayac.com/details.aspx?id=1194"
+  },
+  {
+    "id": 52344,
+    "name": "A.Ş.",
+    "fullname": "A.Ş.",
+    "age": "Reşit",
+    "location": "Çorum",
+    "date": "06/12/2014",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tanımadığı Birisi",
+    "protection": "Yok",
+    "method": "Kesicİ Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/dosya-11-yil-sonra-raftan-indi-cinayetin-sir-perdesi-boyle-aralandi-43026380"
+    ],
+    "image": "https://i.anitsayac.com/ii/2992014.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52344"
   },
   {
     "id": 1187,
