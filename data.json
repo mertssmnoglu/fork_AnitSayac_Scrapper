@@ -18,22 +18,58 @@
     "url": "https://anitsayac.com/details.aspx?id=52349"
   },
   {
-    "id": 52347,
-    "name": "Fatma Kılıç",
-    "fullname": "Fatma Kılıç",
+    "id": 52350,
+    "name": "Sümeyye Yıldız",
+    "fullname": "Sümeyye Yıldız",
     "age": "Reşit",
-    "location": "Amasya",
-    "date": "24/11/2025",
-    "reason": "Tartışma  Borç Para Talebi",
-    "by": "Tanıdığı Birisi",
+    "location": "Elazığ",
+    "date": "25/11/2025",
+    "reason": "Tartışma",
+    "by": "Kocası",
     "protection": "Yok",
-    "method": "Boğularak",
+    "method": "Ateşli Silah",
     "status": "Tutuklu",
     "source": [
-      "https://www.evrensel.net/haber/584838/edirnede-kadin-cinayeti-komsusu-tarafindan-vurulan-turkan-demirci-yasamini-yitirdi"
+      "https://www.hurriyet.com.tr/gundem/elazigda-kadin-cinayeti-sumeyye-yildiz-esi-tarafindan-olduruldu-43031678"
     ],
-    "image": "https://i.anitsayac.com/ii/4102025.jpg",
-    "url": "https://anitsayac.com/details.aspx?id=52347"
+    "image": "https://i.anitsayac.com/ii/4132025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52350"
+  },
+  {
+    "id": 52351,
+    "name": "Berna Kaya",
+    "fullname": "Berna Kaya",
+    "age": "Reşit",
+    "location": "Mardin",
+    "date": "25/11/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.ntv.com.tr/amp/turkiye/mardinde-aile-katliami-uc-kisi-olu-bulundu-1699358"
+    ],
+    "image": "https://i.anitsayac.com/ii/4142025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52351"
+  },
+  {
+    "id": 52353,
+    "name": "Samyeli Kaya",
+    "fullname": "Samyeli Kaya",
+    "age": "Reşit",
+    "location": "Mardin",
+    "date": "25/11/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.ntv.com.tr/amp/turkiye/mardinde-aile-katliami-uc-kisi-olu-bulundu-1699358"
+    ],
+    "image": "https://i.anitsayac.com/ii/4152025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52353"
   },
   {
     "id": 52348,
@@ -5592,6 +5628,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/1082025.jpg",
     "url": "https://anitsayac.com/details.aspx?id=42131"
+  },
+  {
+    "id": 52347,
+    "name": "Fatma Kılıç",
+    "fullname": "Fatma Kılıç",
+    "age": "Reşit",
+    "location": "Amasya",
+    "date": "24/03/2025",
+    "reason": "Tartışma  Borç Para Talebi",
+    "by": "Tanıdığı Birisi",
+    "protection": "Yok",
+    "method": "Boğularak",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.evrensel.net/haber/584877/gaz-sizintisindan-zehirlendigi-sanilan-kadini-akrabasi-oldurmus"
+    ],
+    "image": "https://i.anitsayac.com/ii/4102025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52347"
   },
   {
     "id": 42126,
