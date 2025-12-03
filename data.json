@@ -1,5 +1,77 @@
 [
   {
+    "id": 52355,
+    "name": "Nurselen Gülaçtı",
+    "fullname": "Nurselen Gülaçtı",
+    "age": "Reşit",
+    "location": "Ankara",
+    "date": "27/11/2025",
+    "reason": "Tartışma",
+    "by": "Tanımadığı Birisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.dha.com.tr/yerel-haberler/ankara/ankara-oldurulen-nurselenin-kardesi-kurtulm-2767678"
+    ],
+    "image": "https://i.anitsayac.com/ii/4172025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52355"
+  },
+  {
+    "id": 52356,
+    "name": "Emine Çelikaslan",
+    "fullname": "Emine Çelikaslan",
+    "age": "Reşit",
+    "location": "Mersin",
+    "date": "27/11/2025",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/uzaklastirma-karari-aldirdigi-icin-esini-tufekle-oldurdu-43033892"
+    ],
+    "image": "https://i.anitsayac.com/ii/4182025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52356"
+  },
+  {
+    "id": 52357,
+    "name": "Ebru K.",
+    "fullname": "Ebru K.",
+    "age": "Reşit",
+    "location": "Kayseri",
+    "date": "27/11/2025",
+    "reason": "Tartışma",
+    "by": "Eski Sevgilisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.ntv.com.tr/amp/turkiye/ebruyu-eski-sevgilisi-katletti-1699856"
+    ],
+    "image": "https://i.anitsayac.com/ii/4192025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52357"
+  },
+  {
+    "id": 52354,
+    "name": "M.M.",
+    "fullname": "M.M.",
+    "age": "Reşit",
+    "location": "Kayseri",
+    "date": "26/11/2025",
+    "reason": "Miras Tartışması",
+    "by": "Damadı",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/kayseride-miras-kavgasi-korkunc-bitti-kayinvalidesini-oldurup-kendini-vurdu-43033104"
+    ],
+    "image": "https://i.anitsayac.com/ii/4162025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52354"
+  },
+  {
     "id": 52349,
     "name": "Zehra Özkan",
     "fullname": "Zehra Özkan",
@@ -11510,6 +11582,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/2172024.jpg",
     "url": "https://anitsayac.com/details.aspx?id=36829"
+  },
+  {
+    "id": 52358,
+    "name": "Bulem Aslan",
+    "fullname": "Bulem Aslan",
+    "age": "Reşit Değil",
+    "location": "Malatya",
+    "date": "07/07/2024",
+    "reason": "Çocuğun annesi ile tartışma",
+    "by": "Dedesi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.milliyet.com.tr/gundem/malatyada-aile-katliami-esini-kizini-ve-torununu-uyurken-oldurup-intihara-kalkisti-7152401"
+    ],
+    "image": "https://i.anitsayac.com/ii/4532024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52358"
   },
   {
     "id": 36827,
