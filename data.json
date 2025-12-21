@@ -1,5 +1,41 @@
 [
   {
+    "id": 52372,
+    "name": "Gülhan Börülce",
+    "fullname": "Gülhan Börülce",
+    "age": "Reşit",
+    "location": "Siirt",
+    "date": "18/12/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tespit Edilemeyen",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/siirtte-kadin-cinayeti-evinde-bicaklanmis-halde-olu-bulundu-43058481"
+    ],
+    "image": "https://i.anitsayac.com/ii/4332025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52372"
+  },
+  {
+    "id": 52371,
+    "name": "Sevgi Özdemir",
+    "fullname": "Sevgi Özdemir",
+    "age": "Reşit",
+    "location": "Ankara",
+    "date": "17/12/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.cumhuriyet.com.tr/turkiye/ankara-da-kadin-cinayeti-19-yasindaki-sevgi-evli-oldugu-yasin-ozdemir-tarafindan-katledildi-2462265"
+    ],
+    "image": "https://i.anitsayac.com/ii/4322025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52371"
+  },
+  {
     "id": 52370,
     "name": "Sultan Değirmenci",
     "fullname": "Sultan Değirmenci",
