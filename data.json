@@ -1,21 +1,220 @@
 [
   {
+    "id": 52384,
+    "name": "Fatma Yılmaz Çetinkaya",
+    "fullname": "Fatma Yılmaz Çetinkaya",
+    "age": "Reşit",
+    "location": "Karaman",
+    "date": "27/12/2025",
+    "reason": "Boşanma Talebi",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Boğularak",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/son-gorusmede-katledildi-43068125"
+    ],
+    "image": "https://i.anitsayac.com/ii/4452025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52384"
+  },
+  {
+    "id": 52381,
+    "name": "Komang Dwantari",
+    "fullname": "Komang Dwantari",
+    "age": "Reşit",
+    "location": "Alanya",
+    "date": "26/12/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Tespit Edilemeyen",
+    "source": [
+      "https://www.haberler.com/amp/alanya-da-yabanci-uyruklu-kadin-sahilde-olu-bulundu-19384911-haberi/"
+    ],
+    "image": "https://i.anitsayac.com/ii/4422025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52381"
+  },
+  {
+    "id": 52382,
+    "name": "Rojda Yakışıklı",
+    "fullname": "Rojda Yakışıklı",
+    "age": "Reşit",
+    "location": "Diyarbakır",
+    "date": "26/12/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Dini Nikahlı Eşi",
+    "protection": "Yok",
+    "method": "Boğularak",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/dini-nikahla-yasadigi-kadini-bogup-cesedini-araziye-gomdu-43069988"
+    ],
+    "image": "https://i.anitsayac.com/ii/4432025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52382"
+  },
+  {
+    "id": 52383,
+    "name": "Sümeyye Durgun",
+    "fullname": "Sümeyye Durgun",
+    "age": "Reşit",
+    "location": "Diyarbakır",
+    "date": "25/12/2025",
+    "reason": "Tartışma",
+    "by": "Tanıdığı Birisi",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/cop-posetinde-cansiz-bedeni-bulunmustu-sumeyyenin-dogum-gununde-cekilen-goruntusu-ortaya-cikti-43068900"
+    ],
+    "image": "https://i.anitsayac.com/ii/4442025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52383"
+  },
+  {
+    "id": 52385,
+    "name": "Derin Kiracı",
+    "fullname": "Derin Kiracı",
+    "age": "Reşit Değil",
+    "location": "Adana",
+    "date": "25/12/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Babası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/son-dakika-futbolda-bahis-sorusturmasi-14u-futbolcu-29-kisi-hakkinda-gozalti-karari-43066979"
+    ],
+    "image": "https://i.anitsayac.com/ii/4462025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52385"
+  },
+  {
+    "id": 52378,
+    "name": "Duygu Karabaş",
+    "fullname": "Duygu Karabaş",
+    "age": "Reşit",
+    "location": "Çanakkale",
+    "date": "23/12/2025",
+    "reason": "Tartışma",
+    "by": "Tanıdığı Birisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/canakkalede-korkunc-olay-bosanma-asamasindaki-cift-olduruldu-43063345"
+    ],
+    "image": "https://i.anitsayac.com/ii/4392025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52378"
+  },
+  {
+    "id": 52380,
+    "name": "Dilan Geyik",
+    "fullname": "Dilan Geyik",
+    "age": "Reşit",
+    "location": "İzmir",
+    "date": "22/12/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tanıdığı Birisi",
+    "protection": "Yok",
+    "method": "Boğularak",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.tibbiyebulteni.com/izmirde-18-yasindaki-dilan-geyik-evinde-olu-bulundu/amp"
+    ],
+    "image": "https://i.anitsayac.com/ii/4412025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52380"
+  },
+  {
+    "id": 52373,
+    "name": "Aynur Erkenci",
+    "fullname": "Aynur Erkenci",
+    "age": "Reşit",
+    "location": "Kırklareli",
+    "date": "22/12/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Damadı",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.t24.com.tr/haber/kadin-cinayeti-kayinvalidesini-olduren-erkek-tutuklandi,1285305"
+    ],
+    "image": "https://i.anitsayac.com/ii/4342025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52373"
+  },
+  {
+    "id": 52376,
+    "name": "Demet Altan",
+    "fullname": "Demet Altan",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "20/12/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.ntv.com.tr/amp/turkiye/kadikoyde-gunluk-kiralik-dairede-dehset-iki-kisi-olu-bulundu-1704031"
+    ],
+    "image": "https://i.anitsayac.com/ii/4372025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52376"
+  },
+  {
+    "id": 52377,
+    "name": "Emine Aluç",
+    "fullname": "Emine Aluç",
+    "age": "Reşit",
+    "location": "Adıyaman",
+    "date": "20/12/2025",
+    "reason": "Boşanma Talebi",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Aranıyor",
+    "source": [
+      "https://www.ntv.com.tr/amp/turkiye/bosanmak-isteyen-esini-cocugunun-yaninda-katletti-1704059"
+    ],
+    "image": "https://i.anitsayac.com/ii/4382025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52377"
+  },
+  {
     "id": 52372,
     "name": "Gülhan Börülce",
     "fullname": "Gülhan Börülce",
     "age": "Reşit",
     "location": "Siirt",
     "date": "18/12/2025",
-    "reason": "Tespit Edilemeyen",
-    "by": "Tespit Edilemeyen",
+    "reason": "Ziynet eşyaları için",
+    "by": "Komşuları",
     "protection": "Yok",
     "method": "Kesici Alet",
-    "status": "Tespit Edilemeyen",
+    "status": "Tutuklu",
     "source": [
-      "https://www.hurriyet.com.tr/gundem/siirtte-kadin-cinayeti-evinde-bicaklanmis-halde-olu-bulundu-43058481"
+      "https://www.hurriyet.com.tr/gundem/siirtte-kadin-cinayeti-evinde-bicaklanmis-halde-olu-bulundu-43058481",
+      "https://www.t24.com.tr/haber/gulhan-altinlari-icin-oldurulmus-katil-komsu-cift-cikti,1285235"
     ],
     "image": "https://i.anitsayac.com/ii/4332025.jpg",
     "url": "https://anitsayac.com/details.aspx?id=52372"
+  },
+  {
+    "id": 52375,
+    "name": "Gamze Nur Yalçın",
+    "fullname": "Gamze Nur Yalçın",
+    "age": "Reşit",
+    "location": "Çanakkale",
+    "date": "18/12/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.milliyet.com.tr/gundem/canakkalede-supheli-olum-24-yasindaki-gamze-nur-erkek-arkadasinin-evinde-bulundu-7505800"
+    ],
+    "image": "https://i.anitsayac.com/ii/4362025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52375"
   },
   {
     "id": 52371,
@@ -34,6 +233,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/4322025.jpg",
     "url": "https://anitsayac.com/details.aspx?id=52371"
+  },
+  {
+    "id": 52379,
+    "name": "Deniz Şişman",
+    "fullname": "Deniz Şişman",
+    "age": "Reşit",
+    "location": "Alanya",
+    "date": "16/12/2025",
+    "reason": "Husumet",
+    "by": "Akrabası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihara Teşebbüs",
+    "source": [
+      "https://www.milliyet.com.tr/gundem/dayi-dehsetinde-sok-detaylar-gercekler-ortaya-cikacak-diye-katletti-7503248"
+    ],
+    "image": "https://i.anitsayac.com/ii/4402025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52379"
   },
   {
     "id": 52370,
@@ -106,6 +323,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/4302025.jpg",
     "url": "https://anitsayac.com/details.aspx?id=52369"
+  },
+  {
+    "id": 52374,
+    "name": "Selvi Sarı",
+    "fullname": "Selvi Sarı",
+    "age": "Reşit",
+    "location": "Adıyaman",
+    "date": "10/12/2025",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.t24.com.tr/haber/evde-katliam-yapip-corba-icmeye-gitmis,1285093"
+    ],
+    "image": "https://i.anitsayac.com/ii/4352025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52374"
   },
   {
     "id": 52366,
@@ -87228,8 +87463,8 @@
   },
   {
     "id": 670,
-    "name": "Birgül Baykara",
-    "fullname": "Birgül Baykara",
+    "name": "Birgül B.",
+    "fullname": "Birgül B.",
     "age": "",
     "location": "",
     "date": "17/03/2013",
