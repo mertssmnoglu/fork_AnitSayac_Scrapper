@@ -1,5 +1,41 @@
 [
   {
+    "id": 54341,
+    "name": "Aylin Polat Dağ",
+    "fullname": "Aylin Polat Dağ",
+    "age": "Reşit",
+    "location": "Kocaeli",
+    "date": "18/02/2026",
+    "reason": "Boşanma Talebi",
+    "by": "Kocası",
+    "protection": "Var (Uzaklaşrtırma Kararı)",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.sozcu.com.tr/bosanma-asamasindaki-esini-vahsice-oldurdu-p295072"
+    ],
+    "image": "https://i.anitsayac.com/ii/462026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54341"
+  },
+  {
+    "id": 54340,
+    "name": "Kübra Keleş",
+    "fullname": "Kübra Keleş",
+    "age": "Reşit",
+    "location": "Diyarbakır",
+    "date": "17/02/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://t24.com.tr/gundem/diyarbakir-da-supheli-kadin-olumu-21-yasindaki-kubra-keles-odasinda-olu-bulundu,1300245"
+    ],
+    "image": "https://i.anitsayac.com/ii/452026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54340"
+  },
+  {
     "id": 54338,
     "name": "Songül Hakbilir",
     "fullname": "Songül Hakbilir",
@@ -34,6 +70,42 @@
     ],
     "image": "https://i.anitsayac.com/ii/422026.jpg",
     "url": "https://anitsayac.com/details.aspx?id=54336"
+  },
+  {
+    "id": 54342,
+    "name": "Kezban Genç",
+    "fullname": "Kezban Genç",
+    "age": "Reşit",
+    "location": "Tokat",
+    "date": "15/02/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.cumhuriyet.com.tr/kultur-sanat/70-lerin-istanbul-unda-bir-hikaye-muzeden-hayata-2479832"
+    ],
+    "image": "https://i.anitsayac.com/ii/472026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54342"
+  },
+  {
+    "id": 54339,
+    "name": "Gülçin Bilgin Turna",
+    "fullname": "Gülçin Bilgin Turna",
+    "age": "Reşit",
+    "location": "Rize",
+    "date": "14/02/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Yüksekten Düşme",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/akademisyen-gulcin-bilgin-turna-10uncu-kattaki-evinin-balkonundan-duserek-hayatini-kaybetti-43108182"
+    ],
+    "image": "https://i.anitsayac.com/ii/442026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54339"
   },
   {
     "id": 54335,
