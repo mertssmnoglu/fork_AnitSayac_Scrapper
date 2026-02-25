@@ -1,5 +1,23 @@
 [
   {
+    "id": 54352,
+    "name": "Nurcan Gündoğan",
+    "fullname": "Nurcan Gündoğan",
+    "age": "Reşit",
+    "location": "Sakarya",
+    "date": "23/02/2026",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.halk54.com/once-esini-sonra-kendini-vurmustu-defin-tarihleri-belli-oldu/amp"
+    ],
+    "image": "https://i.anitsayac.com/ii/572026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54352"
+  },
+  {
     "id": 54350,
     "name": "Gülten Ürkmez",
     "fullname": "Gülten Ürkmez",
@@ -99015,6 +99033,24 @@
     ],
     "image": "",
     "url": "https://anitsayac.com/details.aspx?id=256"
+  },
+  {
+    "id": 54353,
+    "name": "Ebru Koyuncu",
+    "fullname": "Ebru Koyuncu",
+    "age": "Reşit",
+    "location": "Manisa",
+    "date": "01/10/2009",
+    "reason": "Tespit Edilemeyen",
+    "by": "Eski Eniştesi",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/14-aylik-bebek-ve-babasi-komsulari-tarafindan-darbedilmisti-guvenlik-kamerasi-goruntuleri-ortaya-cikti-43115349"
+    ],
+    "image": "https://i.anitsayac.com/ii/1282009.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54353"
   },
   {
     "id": 255,
