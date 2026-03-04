@@ -1,5 +1,77 @@
 [
   {
+    "id": 54361,
+    "name": "Fatma Nur Çelik",
+    "fullname": "Fatma Nur Çelik",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "03/03/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://t24.com.tr/gundem/avukatlardan-fatma-nur-celik-eylemi-bu-anneyi-ve-cocugu-adalet-sistemi-bakanlik-ve-tarikat-oldurdu,1304141"
+    ],
+    "image": "https://i.anitsayac.com/ii/652026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54361"
+  },
+  {
+    "id": 54362,
+    "name": "Hifa İkra Şengüler",
+    "fullname": "Hifa İkra Şengüler",
+    "age": "Reşit Değil",
+    "location": "İstanbul",
+    "date": "03/03/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://t24.com.tr/gundem/avukatlardan-fatma-nur-celik-eylemi-bu-anneyi-ve-cocugu-adalet-sistemi-bakanlik-ve-tarikat-oldurdu,1304141"
+    ],
+    "image": "https://i.anitsayac.com/ii/662026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54362"
+  },
+  {
+    "id": 54359,
+    "name": "Mizgin Karademir",
+    "fullname": "Mizgin Karademir",
+    "age": "Reşit",
+    "location": "Aydın",
+    "date": "02/03/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Sevgilisi",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.evrensel.net/haber/5973067/aydinda-kadin-cinayeti-29-yasindaki-kadin-bicakla-katledildi"
+    ],
+    "image": "https://i.anitsayac.com/ii/632026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54359"
+  },
+  {
+    "id": 54360,
+    "name": "Fatma Nur Çelik",
+    "fullname": "Fatma Nur Çelik",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "02/03/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Öğrencisi",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.evrensel.net/haber/5973151/cekmekoyde-lise-ogrencisinin-ogretmen-ve-ogrencilere-bicakli-saldirisi-1-ogretmen-hayatini-kaybetti"
+    ],
+    "image": "https://i.anitsayac.com/ii/642026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54360"
+  },
+  {
     "id": 54358,
     "name": "Gül Dağ",
     "fullname": "Gül Dağ",
