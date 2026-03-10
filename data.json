@@ -1,5 +1,59 @@
 [
   {
+    "id": 54368,
+    "name": "Sermin Bacak",
+    "fullname": "Sermin Bacak",
+    "age": "Reşit",
+    "location": "Muğla",
+    "date": "08/03/2026",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.ntv.com.tr/amp/yerel-haberler/muglada-kadin-cinayeti-kadinlar-gununde-esi-tarafindan-olduruldu-1715019"
+    ],
+    "image": "https://i.anitsayac.com/ii/722026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54368"
+  },
+  {
+    "id": 54369,
+    "name": "Adile Tarhan",
+    "fullname": "Adile Tarhan",
+    "age": "Reşit",
+    "location": "İzmir",
+    "date": "08/03/2026",
+    "reason": "Aile içi husemet",
+    "by": "Erkek Kardeşi",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.iha.com.tr/izmir-haberleri/almanyadan-cinayet-icin-gelmis-ablasini-oldurdu-enistesini-agir-yaraladi-389486592"
+    ],
+    "image": "https://i.anitsayac.com/ii/732026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54369"
+  },
+  {
+    "id": 54367,
+    "name": "Nesrin Aladağ",
+    "fullname": "Nesrin Aladağ",
+    "age": "Reşit",
+    "location": "Adana",
+    "date": "06/03/2026",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Boğularak",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.haberturk.com/son-dakika-adana-haberleri-yine-bir-kadin-cinayeti-tartisma-yasadigi-3-cocugunun-annesini-bogarak-oldurdu-ardindan-teslim-oldu-3867553"
+    ],
+    "image": "https://i.anitsayac.com/ii/712026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54367"
+  },
+  {
     "id": 54366,
     "name": "Semiha Deniz",
     "fullname": "Semiha Deniz",
