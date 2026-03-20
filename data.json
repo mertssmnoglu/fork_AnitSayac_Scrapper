@@ -1,5 +1,41 @@
 [
   {
+    "id": 54380,
+    "name": "Shaımas Abdi",
+    "fullname": "Shaımas Abdi",
+    "age": "Reşit",
+    "location": "Mersin",
+    "date": "19/03/2026",
+    "reason": "Boşanma Talebi",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/mersinde-cani-koca-dehseti-2-cocuk-annesi-esi-tarafindan-olduruldu-43131973"
+    ],
+    "image": "https://i.anitsayac.com/ii/832026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54380"
+  },
+  {
+    "id": 54381,
+    "name": "Kübra Öğrendik",
+    "fullname": "Kübra Öğrendik",
+    "age": "Reşit",
+    "location": "Mardin",
+    "date": "18/03/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Yüksekten Düşme",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.cumhuriyet.com.tr/turkiye/mardin-de-genc-kadinin-supheli-olumu-2487886"
+    ],
+    "image": "https://i.anitsayac.com/ii/842026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54381"
+  },
+  {
     "id": 54378,
     "name": "Nur Almuhammet",
     "fullname": "Nur Almuhammet",
