@@ -1,5 +1,41 @@
 [
   {
+    "id": 54425,
+    "name": "Feyza Keskin",
+    "fullname": "Feyza Keskin",
+    "age": "Reşit Değil",
+    "location": "Isparta",
+    "date": "18/04/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Tespit Edilemeyen",
+    "source": [
+      "https://t24.com.tr/gundem/16-yasindaki-milli-sporcu-feyza-insaat-alaninda-olu-bulundu,1315158?_t=1776537838099"
+    ],
+    "image": "https://i.anitsayac.com/ii/1252026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54425"
+  },
+  {
+    "id": 54424,
+    "name": "Fatma Kurt",
+    "fullname": "Fatma Kurt",
+    "age": "Reşit",
+    "location": "Kahramanmaraş",
+    "date": "14/04/2026",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.sozcu.com.tr/bir-kadin-daha-cinayeti-daha-esi-tarafindan-basindan-vuruldu-p309979"
+    ],
+    "image": "https://i.anitsayac.com/ii/1242026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54424"
+  },
+  {
     "id": 54422,
     "name": "Türkan Bildik",
     "fullname": "Türkan Bildik",
@@ -47757,6 +47793,25 @@
     ],
     "image": "https://i.anitsayac.com/ii/1172020.jpg",
     "url": "https://anitsayac.com/details.aspx?id=3375"
+  },
+  {
+    "id": 54426,
+    "name": "Gülistan Doku",
+    "fullname": "Gülistan Doku",
+    "age": "Reşit",
+    "location": "Tunceli",
+    "date": "05/04/2020",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tanıdığı Birisi",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.sozcu.com.tr/gulistan-doku-sorusturmasi-eski-tunceli-valisi-nin-oglu-mustafa-turkay-sonel-tutuklandi-p312401",
+      "https://www.sozcu.com.tr/son-dakika-gulistan-doku-dosyasinda-kritik-esik-tutuklu-sayisi-8-e-yukseldi-p312248"
+    ],
+    "image": "https://i.anitsayac.com/ii/4242020.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54426"
   },
   {
     "id": 3399,
