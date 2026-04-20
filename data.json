@@ -18,6 +18,60 @@
     "url": "https://anitsayac.com/details.aspx?id=54425"
   },
   {
+    "id": 54427,
+    "name": "Zekiye Zont",
+    "fullname": "Zekiye Zont",
+    "age": "Reşit",
+    "location": "Hatay",
+    "date": "16/04/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Tespit Edilemeyen",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/hatayda-vahset-annenin-cesedi-topraga-gomulu-oglu-da-silahla-vurulmus-halde-bulundu-2-supheli-gozaltinda-43152369"
+    ],
+    "image": "https://i.anitsayac.com/ii/1262026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54427"
+  },
+  {
+    "id": 54428,
+    "name": "Ruhan Çalu",
+    "fullname": "Ruhan Çalu",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "16/04/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/kartalda-kadin-cinayeti-evinde-bicaklanmis-halde-olu-bulundu-katil-zanlisi-kocaelide-yakalandi-43152606"
+    ],
+    "image": "https://i.anitsayac.com/ii/822026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54428"
+  },
+  {
+    "id": 54429,
+    "name": "Hatice Kübra Dilan",
+    "fullname": "Hatice Kübra Dilan",
+    "age": "Reşit",
+    "location": "Gaziantep",
+    "date": "16/04/2026",
+    "reason": "Tartışma",
+    "by": "Tanıdığı Birisi",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.turkiyegazetesi.com.tr/3-sayfa/gaziantepte-dehset-evi-bir-kadin-4-evladinin-gozu-onunde-katledildi-1784535?s=1"
+    ],
+    "image": "https://i.anitsayac.com/ii/1272026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54429"
+  },
+  {
     "id": 54424,
     "name": "Fatma Kurt",
     "fullname": "Fatma Kurt",
