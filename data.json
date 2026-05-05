@@ -36,6 +36,60 @@
     "url": "https://anitsayac.com/details.aspx?id=54442"
   },
   {
+    "id": 54443,
+    "name": "Serap Yılmaz",
+    "fullname": "Serap Yılmaz",
+    "age": "Reşit",
+    "location": "Muğla",
+    "date": "30/04/2026",
+    "reason": "Tartışma",
+    "by": "Tanıdığı Birisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihara Teşebbüs",
+    "source": [
+      "https://t24.com.tr/gundem/muglada-kadin-cinayeti-tartistigi-iki-kadini-katleden-erkek-intihara-kalkissti,1318240?_t=1777565029057"
+    ],
+    "image": "https://i.anitsayac.com/ii/1372026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54443"
+  },
+  {
+    "id": 54444,
+    "name": "Hatice Yeysikan",
+    "fullname": "Hatice Yeysikan",
+    "age": "Reşit",
+    "location": "Muğla",
+    "date": "30/04/2026",
+    "reason": "Tartışma",
+    "by": "Tanıdığı Birisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihara Teşebbüs",
+    "source": [
+      "https://t24.com.tr/gundem/muglada-kadin-cinayeti-tartistigi-iki-kadini-katleden-erkek-intihara-kalkissti,1318240?_t=1777565029057"
+    ],
+    "image": "https://i.anitsayac.com/ii/1382026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54444"
+  },
+  {
+    "id": 54445,
+    "name": "Müslümat Özer",
+    "fullname": "Müslümat Özer",
+    "age": "Reşit",
+    "location": "Kars",
+    "date": "30/04/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Damadı",
+    "protection": "Yok",
+    "method": "Darp",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/ardahanda-korkunc-olay-kayip-olarak-aranan-kadin-olu-bulundu-damadi-gozaltinda-43162477"
+    ],
+    "image": "https://i.anitsayac.com/ii/1392026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54445"
+  },
+  {
     "id": 54438,
     "name": "Hatice Kocaefe",
     "fullname": "Hatice Kocaefe",
