@@ -1,5 +1,23 @@
 [
   {
+    "id": 55463,
+    "name": "Sultan Çağan",
+    "fullname": "Sultan Çağan",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "21/06/2026",
+    "reason": "Tartışma",
+    "by": "Sevgilisi",
+    "protection": "Yok",
+    "method": "Darp, Boğulma",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/katili-tirnak-izleri-ele-verdi-tasla-kafasina-vurup-iple-bogdu-43212953"
+    ],
+    "image": "https://i.anitsayac.com/ii/1802026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=55463"
+  },
+  {
     "id": 55461,
     "name": "Lamiya Azazi",
     "fullname": "Lamiya Azazi",
@@ -8391,24 +8409,6 @@
     "url": "https://anitsayac.com/details.aspx?id=42197"
   },
   {
-    "id": 42190,
-    "name": "Hatice Çınar",
-    "fullname": "Hatice Çınar",
-    "age": "Reşit",
-    "location": "Ankara",
-    "date": "05/05/2025",
-    "reason": "Tespit Edilemeyen",
-    "by": "Tanıdığı Birisi",
-    "protection": "Yok",
-    "method": "Ateşli Silah",
-    "status": "İntihar",
-    "source": [
-      "https://www.hurriyet.com.tr/gundem/cani-komsu-42788821"
-    ],
-    "image": "https://i.anitsayac.com/ii/1612025.jpg",
-    "url": "https://anitsayac.com/details.aspx?id=42190"
-  },
-  {
     "id": 42193,
     "name": "Bahar Aksu",
     "fullname": "Bahar Aksu",
@@ -8425,6 +8425,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/1642025.jpg",
     "url": "https://anitsayac.com/details.aspx?id=42193"
+  },
+  {
+    "id": 42190,
+    "name": "Hatice Çınar",
+    "fullname": "Hatice Çınar",
+    "age": "Reşit",
+    "location": "Ankara",
+    "date": "05/05/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tanıdığı Birisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/cani-komsu-42788821"
+    ],
+    "image": "https://i.anitsayac.com/ii/1612025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=42190"
   },
   {
     "id": 42191,
